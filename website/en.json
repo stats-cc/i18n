@@ -1,5 +1,54 @@
 {
+	"common": {
+		"players": "players",
+		"matches": "matches",
+		"pc": "pc",
+		"console": "console",
+		"all": "all",
+		"name": "name",
+		"mmr": "mmr",
+		"rank": "rank",
+		"no-data": "no data"
+	},
+	"social": {
+		"follow-us-twitter": "Follow us on Twitter",
+		"join-our-discord": "Join our Discord"
+	},
+	"footer": {
+		"extra-pages": "Extra pages",
+		"contact-us": "Contact Us",
+		"roadmap": "Roadmap",
+		"privacy-policy": "Privacy Policy",
+		"terms-of-service": "Terms of Service",
+		"social-media": "Social Media",
+		"language": "Language",
+		"discord-server": "Discord Server",
+		"twitter-account": "Twitter Account",
+		"reddit-marketplace-subreddit": "Reddit Marketplace Subreddit",
+		"partners": "Partners"
+	},
+	"search": {
+		"profiles": "Search Profiles",
+		"clear-recents": "Clear Recents",
+		"force-search": "Force Search",
+		"no-players-found": "No players found",
+		"error": "Error while searching: {error}",
+		"search-results": "{count} search results"
+	},
 	"siege": {
-		"name": "Siege"
+		"home": {
+			"title": "Home",
+			"player-search": "Player Search",
+			"top-pc-players": "Top PC Players",
+			"top-console-players": "Top Console Players"
+		},
+		"leaderboards": {
+			"title": "Leaderboards",
+			"BAD-player-count": "{count} players",
+			"BAD-percent-of-players": "{percent} of all players",
+			"top-percent": "Top {percent}%",
+			"total-players": "{count} players",
+			"last-update": "Updated {date}"
+		}
 	}
 }
