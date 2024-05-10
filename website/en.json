@@ -21,17 +21,32 @@
 		"kills": "kills",
 		"deaths": "deaths",
 		"assists": "assists",
+		"wins": "wins",
+		"losses": "losses",
 		"views": "views",
 		"show-all": "show all",
 		"show-less": "show less",
 		"show-more": "show more",
 		"kpm": "KPM",
 		"kills-per-match": "kills per match",
-		"season": "season",
 		"max-rank": "max rank",
 		"missing-data": "missing data",
 		"rp": "{amount} RP",
-		"current": "current"
+		"current": "current",
+		"season": "season",
+		"won": "won",
+		"lost": "lost",
+		"win": "win",
+		"loss": "loss",
+		"draw": "draw",
+		"tie": "tie",
+		"rollback": "rollback",
+		"win-short": "W",
+		"loss-short": "L",
+		"email": "email",
+		"category": "category",
+		"message": "message",
+		"submit": "submit"
 	},
 	"social": {
 		"follow-us-twitter": "Follow us on Twitter",
@@ -59,12 +74,24 @@
 		"error": "Error while searching: {error}",
 		"search-results": "{count} search results"
 	},
+	"contact-us": {
+		"title": "Contact Us",
+		"description": "We'd love to hear from you! Fill out the form below or email us at {0}.",
+		"fill-out-all-fields": "Please fill out all fields.",
+		"fields-are-invalid": "The following fields are invalid: {fields}",
+		"error-occured": "An error occurred while submitting your message.",
+		"submitted": "Submitted your request, we will reply via email soon."
+	},
+	"misc": {
+		"help-translate": "Want to help translate the site? Join our Discord and ask!"
+	},
 	"siege": {
 		"home": {
 			"title": "Home",
 			"player-search": "Player Search",
 			"top-pc-players": "Top PC Players",
-			"top-console-players": "Top Console Players"
+			"top-console-players": "Top Console Players",
+			"search-a-profile": "Search a profile..."
 		},
 		"gamemodes": {
 			"all": "All",
@@ -214,13 +241,19 @@
 			}
 		},
 		"profile": {
+			"leaderboard-position": "Leaderboard Position",
 			"failed-to-load": "This profile failed to load.",
 			"last-played": "Last Played",
 			"current-season": "Current Season",
 			"ranked-2-max-ranks": "Ranked 2.0 Max Ranks",
 			"regions-played": "Regions Played",
 			"username-history": "Username History",
-			"ranked-sessions": "Ranked Sessions",
+			"ranked-sessions": {
+				"title": "Ranked Sessions",
+				"1": "This chart graphs a profile's recent sessions and their rank after each session.",
+				"2": "You can hover over individual points to see a session's details.",
+				"3": "You can zoom by dragging over a range, and pan by holding control and dragging."
+			},
 			"past-24-hours": "Past 24 Hours",
 			"past-7-days": "Past 7 Days",
 			"past-30-days": "Past 30 Days",
@@ -248,10 +281,14 @@
 			},
 			"played-with": {
 				"title": "Played With",
-				"info-banner": "People {username} played with or against this season"
+				"info-banner": "People {username} played with or against this season",
+				"no-played-with": "{username} hasn't played with anyone yet"
 			},
 			"report": {
 				"title": "Report"
+			},
+			"sessions": {
+				"no-sessions": "No sessions found based on your filters."
 			}
 		}
 	}
