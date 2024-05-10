@@ -8,11 +8,35 @@
 		"name": "name",
 		"mmr": "mmr",
 		"rank": "rank",
-		"no-data": "no data"
+		"level": "level",
+		"reason": "reason",
+		"date": "date",
+		"no-data": "no data",
+		"no-results": "no results",
+		"view-details": "view details",
+		"copy": "copy",
+		"copied!": "copied!",
+		"kd": "KD",
+		"wr": "WR",
+		"kills": "kills",
+		"deaths": "deaths",
+		"assists": "assists",
+		"views": "views",
+		"show-all": "show all",
+		"show-less": "show less",
+		"show-more": "show more",
+		"kpm": "KPM",
+		"kills-per-match": "kills per match",
+		"season": "season",
+		"max-rank": "max rank",
+		"missing-data": "missing data",
+		"rp": "{amount} RP",
+		"current": "current"
 	},
 	"social": {
 		"follow-us-twitter": "Follow us on Twitter",
-		"join-our-discord": "Join our Discord"
+		"join-our-discord": "Join our Discord",
+		"marketplace-subreddit": "Siege Marketplace Subreddit"
 	},
 	"footer": {
 		"extra-pages": "Extra pages",
@@ -24,7 +48,7 @@
 		"language": "Language",
 		"discord-server": "Discord Server",
 		"twitter-account": "Twitter Account",
-		"reddit-marketplace-subreddit": "Reddit Marketplace Subreddit",
+		"reddit-marketplace-subreddit": "Siege Marketplace Subreddit",
 		"partners": "Partners"
 	},
 	"search": {
@@ -42,6 +66,14 @@
 			"top-pc-players": "Top PC Players",
 			"top-console-players": "Top Console Players"
 		},
+		"gamemodes": {
+			"all": "All",
+			"ranked": "Ranked",
+			"casual": "Casual",
+			"events": "Event",
+			"warmup": "Warmup",
+			"standard": "Standard"
+		},
 		"leaderboards": {
 			"title": "Leaderboards",
 			"BAD-player-count": "{count} players",
@@ -49,6 +81,178 @@
 			"top-percent": "Top {percent}%",
 			"total-players": "{count} players",
 			"last-update": "Updated {date}"
+		},
+		"bans": {
+			"title": "Bans",
+			"recent-bans-data": "Recent Bans Data",
+			"period": {
+				"all-time": "All Time",
+				"month": "Month",
+				"week": "Week",
+				"day": "Day"
+			},
+			"n-recent-bans": "{count} Recent Bans",
+			"n-bans": "{count} Bans",
+			"no-bans-found-for-reason": "No bans found for {reason}",
+			"reason": {
+				"title": "Ban Reason",
+				"all": "All",
+				"battleye": "BattlEye",
+				"boosted": "Boosted",
+				"botting": "Botting",
+				"cheating": "Cheating",
+				"tos-breach": "ToS Breach",
+				"ddos": "DDoS",
+				"toxic-behavior": "Toxic Behavior"
+			}
+		},
+		"marketplace": {
+			"title": "marketplace",
+			"price": "price",
+			"supply": "supply",
+			"demand": "demand",
+			"currency": "currency",
+			"r6-credits": "R6 Credits",
+			"price-change": "Price Change",
+			"search": "Search by item name",
+			"top-items-by-price": "Top Items by Price",
+			"top-items-by-price-change": "Top Items by Price Change",
+			"avg-price-short": "Avg. Price",
+			"avg-supply-short": "Avg. Supply",
+			"avg-demand-short": "Avg. Demand",
+			"avg-price-last-7-days": "Avg. price last 7 days",
+			"24-hour-averages": "24 hour averages",
+			"7-day-averages": "7 day averages",
+			"1-year-averages": "1 year averages",
+			"season-released-in": "Released in {ynsn}",
+			"item-removed-from-marketplace": "This item was removed from marketplace.",
+			"back-to-marketplace": "Back to Marketplace",
+			"view-on-ubisoft": "View on Ubisoft",
+			"interval-price-history": "{interval} Price History",
+			"interval": {
+				"hourly": "Hourly",
+				"daily": "Daily",
+				"weekly": "Weekly",
+				"monthly": "Monthly",
+				"quarterly": "Quarterly",
+				"yearly": "Yearly"
+			},
+			"faq": {
+				"title": "R6 Marketplace FAQ",
+				"what-is-marketplace": {
+					"title": "What is the Rainbow Six Siege Marketplace?",
+					"description": "The marketplace is a place where you can buy and sell items for Rainbow Six Siege. You can buy items from other players, or you can sell items you've unlocked yourself. This allows you to buy skins that were previously immensely rare and locked to a specific account."
+				},
+				"what-currency": {
+					"title": "What is the currency used in the marketplace?",
+					"description": "You can only purchase items with R6 Credits, and you'll only receive R6 Credits when you sell an item."
+				},
+				"how-can-i-trade": {
+					"title": "How can I trade items?",
+					"description": "We aren't affiliated with Ubisoft, so you will have to trade your items on the official {0}.",
+					"description-link": "Rainbow Six Siege Marketplace"
+				}
+			},
+			"filters": {
+				"title": "Filters",
+				"sort-by": {
+					"title": "Sort by",
+					"display-name": "Display Name",
+					"average-price": "Average Price",
+					"price-change": "Price Change"
+				},
+				"sort-order": {
+					"title": "Order",
+					"ascending": "Ascending (A > Z)",
+					"descending": "Descending (Z > A)"
+				},
+				"item-type": {
+					"none": "None",
+					"title": "Item Type",
+					"weapon-skin": "Weapon Skin",
+					"headgear": "Headgear",
+					"uniform": "Uniform",
+					"attachment-skin": "Attachment Skin",
+					"charm": "Charm",
+					"operator-portrait": "Operator Portrait",
+					"card-background": "Card Background",
+					"drone-skin": "Drone Skin"
+				},
+				"operators": {
+					"title": "Operators"
+				},
+				"rarity": {
+					"title": "Rarity"
+				},
+				"weapons": {
+					"title": "Weapons"
+				},
+				"seasons": {
+					"title": "Seasons"
+				},
+				"events": {
+					"title": "Events"
+				},
+				"others": {
+					"title": "Other"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "Streaming Widget",
+			"description": "Streaming widgets are a great way to display your profile stats on your livestream. For now, ours is quite simple, but in the future we will provide a lot more customization. Currently it only supports ranked, but if you're looking for support for other modes, please reach out to us on {0}.",
+			"widget-image-caption": "Here's what our widget looks like:",
+			"invalid-profile-link": "Invalid profile link",
+			"how-to-use": {
+				"title": "How to use",
+				"profile-link": "Profile Link...",
+				"your-widget-link": "Your Streaming Widget Link",
+				"step-1": "1. Copy paste your profile link in the box below & click copy",
+				"step-2": "2. Go to your livestream software and create a \"Browser Source\" in the \"Sources\" tab.",
+				"step-3": "3. Paste your Straming Widget Link in the \"Browser Source\" field.",
+				"step-4": "4. Adjust the size & positioning of the widget as desired."
+			}
+		},
+		"profile": {
+			"failed-to-load": "This profile failed to load.",
+			"last-played": "Last Played",
+			"current-season": "Current Season",
+			"ranked-2-max-ranks": "Ranked 2.0 Max Ranks",
+			"regions-played": "Regions Played",
+			"username-history": "Username History",
+			"ranked-sessions": "Ranked Sessions",
+			"past-24-hours": "Past 24 Hours",
+			"past-7-days": "Past 7 Days",
+			"past-30-days": "Past 30 Days",
+			"wl-streak": "WL Streak",
+			"rp-change": "RP Change",
+			"update-time-out": "Update timed out. Refresh the page and it will be soon.",
+			"rank-reset-due-to-ban": "Rank reset due to ban",
+			"no-matches-played": "No matches played",
+			"match-count": "{count} Matches",
+			"update": {
+				"update": "Update",
+				"updating": "Updating",
+				"updated": "Updated",
+				"failed": "Failed",
+				"timeout": "Update timed out. Refresh the page and it will be done soon.",
+				"tooltip": {
+					"1": "This profile cannot be updated yet.",
+					"2": "You can stay on this profile and it will auto refresh when an update is available, for example when the player's match finishes.",
+					"3": "Generally hitting this refresh button isn't needed, but can help if you feel the profiles data isout of sync."
+				}
+			},
+			"seasons": {
+				"title": "Seasons",
+				"old-seasons-banner": "Old seasons data will be added in the future."
+			},
+			"played-with": {
+				"title": "Played With",
+				"info-banner": "People {username} played with or against this season"
+			},
+			"report": {
+				"title": "Report"
+			}
 		}
 	}
 }
