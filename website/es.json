@@ -46,7 +46,8 @@
 		"email": "correo electrónico",
 		"category": "categoría",
 		"message": "mensaje",
-		"submit": "enviar"
+		"submit": "enviar",
+		"new": "new"
 	},
 	"social": {
 		"follow-us-twitter": "Síguenos en Twitter",
@@ -289,6 +290,48 @@
 			},
 			"sessions": {
 				"no-sessions": "No se encontraron sesiones según tus filtros."
+			}
+		}
+	},
+	"seo": {
+		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
+		"home": {
+			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+		},
+		"streaming-widget": {
+			"title": "Streaming Widget",
+			"description": "Display your siege profile stats on your livestream with our streaming widget."
+		},
+		"siege": {
+			"title": "All Rainbow Six Siege Stats",
+			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"bans": {
+				"title": "Recent Bans",
+				"description": "Recent bans for Rainbow Six: Siege"
+			},
+			"leaderboards": {
+				"title": "{platform} Leaderboards",
+				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+			},
+			"marketplace": {
+				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
+				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"item": {
+					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
+					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+				}
+			},
+			"profile": {
+				"title": "{username}",
+				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"played-with": {
+					"title": "{username} Played With",
+					"description": "View who {username} plays against or with the most, and how many times they've played."
+				},
+				"seasons": {
+					"title": "{username} Seasons",
+					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+				}
 			}
 		}
 	}
