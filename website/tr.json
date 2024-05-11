@@ -1,0 +1,295 @@
+{
+	"common": {
+		"players": "oyuncular",
+		"matches": "maçlar",
+		"pc": "pc",
+		"console": "konsol",
+		"all": "tümü",
+		"name": "ad",
+		"mmr": "mmr",
+		"rank": "rütbe",
+		"level": "seviye",
+		"reason": "neden",
+		"date": "tarih",
+		"no-data": "veri yok",
+		"no-results": "sonuç yok",
+		"view-details": "detayları görüntüle",
+		"copy": "kopyala",
+		"copied!": "kopyalandı!",
+		"kd": "KD",
+		"wr": "WR",
+		"kills": "öldürmeler",
+		"deaths": "ölümler",
+		"assists": "yardımlar",
+		"wins": "kazanılanlar",
+		"losses": "kaybedilenler",
+		"views": "görüntülemeler",
+		"show-all": "hepsini göster",
+		"show-less": "daha az göster",
+		"show-more": "daha fazla göster",
+		"kpm": "DKO",
+		"kills-per-match": "maç başına öldürme",
+		"max-rank": "maksimum rütbe",
+		"missing-data": "eksik veri",
+		"rp": "{amount} RP",
+		"current": "şuanki",
+		"season": "sezon",
+		"won": "kazanılan",
+		"lost": "kaybedilen",
+		"win": "kazanma",
+		"loss": "kaybetme",
+		"draw": "berabere",
+		"tie": "bağ",
+		"rollback": "geri al",
+		"win-short": "K",
+		"loss-short": "M",
+		"email": "e-posta",
+		"category": "kategori",
+		"message": "mesaj",
+		"submit": "gönder"
+	},
+	"social": {
+		"follow-us-twitter": "Twitter'da bizi takip et",
+		"join-our-discord": "Discord'a katıl",
+		"marketplace-subreddit": "Rainbow Six Siege Pazarı Altreddit'i"
+	},
+	"footer": {
+		"extra-pages": "Ekstra sayfalar",
+		"contact-us": "Bize Ulaşın",
+		"roadmap": "Yol Haritası",
+		"privacy-policy": "Gizlilik Politikası",
+		"terms-of-service": "Hizmet Şartları",
+		"social-media": "Sosyal Medya",
+		"language": "Dil",
+		"discord-server": "Discord Sunucusu",
+		"twitter-account": "Twitter Hesabı",
+		"reddit-marketplace-subreddit": "Rainbow Six Siege Pazarı Altreddit'i",
+		"partners": "Ortaklar"
+	},
+	"search": {
+		"profiles": "Profilleri Ara",
+		"clear-recents": "Son Aramaları Temizle",
+		"force-search": "Aramayı Zorla",
+		"no-players-found": "Oyuncu bulunamadı",
+		"error": "Arama yapılırken hata oluştu: {error}",
+		"search-results": "{count} arama sonucu"
+	},
+	"contact-us": {
+		"title": "Bize Ulaşın",
+		"description": "Senden haber almayı çok isteriz! Aşağıdaki formu doldur veya bize {0} adresinden e-posta gönder.",
+		"fill-out-all-fields": "Lütfen tüm alanları doldurun.",
+		"fields-are-invalid": "Aşağıdaki alanlar geçersiz: {fields}",
+		"error-occured": "Mesajınızı gönderirken bir hata oluştu.",
+		"submitted": "Talebinizi gönderdik, yakında e-posta ile cevaplayacağız."
+	},
+	"misc": {
+		"help-translate": "Sitenin çevirisine yardımcı olmak ister misiniz? Discord'umuza katılın ve sorun!"
+	},
+	"siege": {
+		"home": {
+			"title": "Ana Sayfa",
+			"player-search": "Oyuncu Arama",
+			"top-pc-players": "En İyi PC Oyuncuları",
+			"top-console-players": "En İyi Konsol Oyuncuları",
+			"search-a-profile": "Bir profil ara..."
+		},
+		"gamemodes": {
+			"all": "Hepsi",
+			"ranked": "Sıralı",
+			"casual": "Rahat",
+			"events": "Etkinlik",
+			"warmup": "Isınma",
+			"standard": "Standart"
+		},
+		"leaderboards": {
+			"title": "Lider Tablolar",
+			"BAD-player-count": "{count} oy uncu",
+			"BAD-percent-of-players": "Tüm oyuncuların %{percent}'i",
+			"top-percent": "En Üst %{percent}",
+			"total-players": "{count} oyuncu",
+			"last-update": "{date} güncellendi"
+		},
+		"bans": {
+			"title": "Yasaklar",
+			"recent-bans-data": "Son Yasak Verileri",
+			"period": {
+				"all-time": "Tüm Zamanlar",
+				"month": "Ay",
+				"week": "Hafta",
+				"day": "Gün"
+			},
+			"n-recent-bans": "{count} Son Yasak",
+			"n-bans": "{count} Yasak",
+			"no-bans-found-for-reason": "{reason} için yasak bulunamadı",
+			"reason": {
+				"title": "Yasak Sebebi",
+				"all": "Hepsi",
+				"battleye": "BattlEye",
+				"boosted": "Geliştirilmiş",
+				"botting": "Botlama",
+				"cheating": "Hile",
+				"tos-breach": "Kullanım Koşulları İhlali",
+				"ddos": "DDoS",
+				"toxic-behavior": "Zehirli Davranış"
+			}
+		},
+		"marketplace": {
+			"title": "Pazar",
+			"price": "fiyat",
+			"supply": "tedarik",
+			"demand": "talep",
+			"currency": "para birimi",
+			"r6-credits": "R6 Kredisi",
+			"price-change": "Fiyat Değişimi",
+			"search": "Öğe adına göre ara",
+			"top-items-by-price": "Fiyata Göre En İyi Öğeler",
+			"top-items-by-price-change": "Fiyat Değişimine Göre En İyi Öğeler",
+			"avg-price-short": "Ort. Fiyat",
+			"avg-supply-short": "Ort. Ted.",
+			"avg-demand-short": "Ort. Talep",
+			"avg-price-last-7-days": "Son 7 günlük ortalama fiyat",
+			"24-hour-averages": "24 saatlik ortalamalar",
+			"7-day-averages": "7 günlük ortalamalar",
+			"1-year-averages": "1 yıllık ortalamalar",
+			"season-released-in": "{ynsn} yayımlandı",
+			"item-removed-from-marketplace": "Bu öğe pazardan kaldırıldı.",
+			"back-to-marketplace": "Pazara geri dön",
+			"view-on-ubisoft": "Ubisoft'ta görüntüle",
+			"interval-price-history": "{interval} Fiyat Geçmişi",
+			"interval": {
+				"hourly": "Saatlik",
+				"daily": "Günlük",
+				"weekly": "Haftalık",
+				"monthly": "Aylık",
+				"quarterly": "Üç Aylık",
+				"yearly": "Yıllık"
+			},
+			"faq": {
+				"title": "R6 Pazarı SSS",
+				"what-is-marketplace": {
+					"title": "Rainbow Six Siege Pazarı nedir?",
+					"description": "Pazar, Rainbow Six Siege için öğeleri satın alıp satmanızı sağlayan bir yerdir. Diğer oyunculardan öğeler satın alabilir veya kendiniz açtığınız öğeleri satabilirsiniz. Bu, önceden son derece nadir olan ve belirli bir hesaba kilitli olan skinleri satın almanızı sağlar."
+				},
+				"what-currency": {
+					"title": "Pazarda kullanılan para birimi nedir?",
+					"description": "Yalnızca R6 Kredileri ile öğeler satın alabilir ve bir öğe sattığınızda yalnızca R6 Kredileri alırsınız."
+				},
+				"how-can-i-trade": {
+					"title": "Nasıl ticaret yapabilirim?",
+					"description": "Ubisoft ile ilişkilendirilmemişiz, bu nedenle öğelerinizi resmi {0}'da takas etmeniz gerekecek.",
+					"description-link": "Rainbow Six Siege Pazarı"
+				}
+			},
+			"filters": {
+				"title": "Filtreler",
+				"sort-by": {
+					"title": "Sırala",
+					"display-name": "Görüntüleme Adı",
+					"average-price": "Ortalama Fiyat",
+					"price-change": "Fiyat Değişimi"
+				},
+				"sort-order": {
+					"title": "Sıralama",
+					"ascending": "Artan (A > Z)",
+					"descending": "Azalan (Z > A)"
+				},
+				"item-type": {
+					"none": "Hiçbiri",
+					"title": "Öğe Türü",
+					"weapon-skin": "Silah Kini",
+					"headgear": "Kafa Giysisi",
+					"uniform": "Üniforma",
+					"attachment-skin": "Eklenti Kini",
+					"charm": "Şans",
+					"operator-portrait": "Operatör Portresi",
+					"card-background": "Kart Arka Planı",
+					"drone-skin": "Drone Kini"
+				},
+				"operators": {
+					"title": "Operatörler"
+				},
+				"rarity": {
+					"title": "Nadirlik"
+				},
+				"weapons": {
+					"title": "Silahlar"
+				},
+				"seasons": {
+					"title": "Sezonlar"
+				},
+				"events": {
+					"title": "Etkinlikler"
+				},
+				"others": {
+					"title": "Diğerleri"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "Akış Widget'ı",
+			"description": "Akış widget'ları profil istatistiklerinizi canlı yayınınızda göstermenin harika bir yoludur. Şu anda bizimki oldukça basit, ancak gelecekte çok daha fazla özelleştirme sağlayacağız. Şu anda sadece sıralıyı destekliyor, ancak diğer modlar için destek arıyorsanız lütfen {0} üzerinden bize ulaşın.",
+			"widget-image-caption": "İşte widget'ımızın nasıl göründüğü:",
+			"invalid-profile-link": "Geçersiz profil bağlantısı",
+			"how-to-use": {
+				"title": "Nasıl kullanılır",
+				"profile-link": "Profil Bağlantısı...",
+				"your-widget-link": "Akış Widget Bağlantınız",
+				"step-1": "1. Profil bağlantınızı aşağıdaki kutuya kopyalayıp yapıştırın ve kopyalayın",
+				"step-2": "2. Canlı yayın yazılımınıza gidin ve \"Kaynaklar\" sekmesinde bir \"Tarayıcı Kaynağı\" oluşturun.",
+				"step-3": "3. Akış Widget Bağlantınızı \"Tarayıcı Kaynağı\" alanına yapıştırın.",
+				"step-4": "4. Widget'ın boyutunu ve konumunu isteğinize göre ayarlayın."
+			}
+		},
+		"profile": {
+			"leaderboard-position": "Liderlik Pozisyonu",
+			"failed-to-load": "Bu profil yüklenemedi.",
+			"last-played": "Son Oynanma",
+			"current-season": "Geçerli Sezon",
+			"ranked-2-max-ranks": "Sıralı 2.0 Maksimum Rütbe",
+			"regions-played": "Oynanan Bölgeler",
+			"username-history": "Kullanıcı Adı Geçmişi",
+			"ranked-sessions": {
+				"title": "Sıralı Oturumlar",
+				"1": "Bu grafik, bir profilin son oturumlarını ve her oturumdan sonra rütbesini gösterir.",
+				"2": "Bireysel noktaların üzerine gelerek bir oturumun detaylarını görebilirsiniz.",
+				"3": "Bir aralığı sürükleyerek yakınlaştırabilir ve kontrol tuşunu basılı tutarak sürükleyerek kaydırabilirsiniz."
+			},
+			"past-24-hours": "Son 24 Saat",
+			"past-7-days": "Son 7 Gün",
+			"past-30-days": "Son 30 Gün",
+			"wl-streak": "WL Serisi",
+			"rp-change": "RP Değişimi",
+			"update-time-out": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve yakında yapılacaktır.",
+			"rank-reset-due-to-ban": "Yasak nedeniyle rütbe sıfırlandı",
+			"no-matches-played": "Hiç maç oynanmadı",
+			"match-count": "{count} Maçlar",
+			"update": {
+				"update": "Güncelle",
+				"updating": "Güncelleniyor",
+				"updated": "Güncellendi",
+				"failed": "Başarısız",
+				"timeout": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve yakında yapılacaktır.",
+				"tooltip": {
+					"1": "Bu profil henüz güncellenemiyor.",
+					"2": "Bu profilde kalabilirsiniz ve oyuncunun maçı bitince otomatik olarak yenilenecektir.",
+					"3": "Genellikle bu yenileme düğmesine basmak gerekmez, ancak profilin verilerinin senkronize olmadığını düşünüyorsanız yardımcı olabilir."
+				}
+			},
+			"seasons": {
+				"title": "Sezonlar",
+				"old-seasons-banner": "Geçmiş sezon verileri gelecekte eklenecektir."
+			},
+			"played-with": {
+				"title": "Beraber Oynadı",
+				"info-banner": "{username}'in bu sezon içinde beraber oynadığı veya karşılaştığı kişiler",
+				"no-played-with": "{username} henüz kimseyle oynamadı"
+			},
+			"report": {
+				"title": "Bildir"
+			},
+			"sessions": {
+				"no-sessions": "Filtrelerinize göre hiç oturum bulunamadı."
+			}
+		}
+	}
+}

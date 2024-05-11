@@ -1,0 +1,295 @@
+{
+	"common": {
+		"players": "žaidėjai",
+		"matches": "rungtynės",
+		"pc": "pc",
+		"console": "konsolė",
+		"all": "visi",
+		"name": "vardas",
+		"mmr": "mmr",
+		"rank": "rango",
+		"level": "lygis",
+		"reason": "priežastis",
+		"date": "data",
+		"no-data": "nėra duomenų",
+		"no-results": "nėra rezultatų",
+		"view-details": "žiūrėti detales",
+		"copy": "kopijuoti",
+		"copied!": "nukopijuota!",
+		"kd": "KD",
+		"wr": "WR",
+		"kills": "nužudymai",
+		"deaths": "mirtys",
+		"assists": "pagalbos",
+		"wins": "pergalės",
+		"losses": "pralaimėjimai",
+		"views": "peržiūros",
+		"show-all": "rodyti viską",
+		"show-less": "rodyti mažiau",
+		"show-more": "rodyti daugiau",
+		"kpm": "KPM",
+		"kills-per-match": "nužudymai per rungtynes",
+		"max-rank": "maksimalus rango",
+		"missing-data": "trūksta duomenų",
+		"rp": "{amount} RP",
+		"current": "dabartinis",
+		"season": "sezonas",
+		"won": "laimėta",
+		"lost": "pralaimėta",
+		"win": "pergalė",
+		"loss": "pralaimėjimas",
+		"draw": "lygiosios",
+		"tie": "lygiosios",
+		"rollback": "atstatyti",
+		"win-short": "P",
+		"loss-short": "Prl",
+		"email": "el. paštas",
+		"category": "kategorija",
+		"message": "pranešimas",
+		"submit": "pateikti"
+	},
+	"social": {
+		"follow-us-twitter": "Sekite mus Twitter",
+		"join-our-discord": "Prisijunkite prie mūsų Discord",
+		"marketplace-subreddit": "Rainbow Six Siege Prekybos vieta Subreddit"
+	},
+	"footer": {
+		"extra-pages": "Papildomos puslapiai",
+		"contact-us": "Susisiekite su mumis",
+		"roadmap": "Žemėlapis",
+		"privacy-policy": "Privatumo politika",
+		"terms-of-service": "Paslaugų teikimo sąlygos",
+		"social-media": "Socialiniai tinklai",
+		"language": "Kalba",
+		"discord-server": "Discord serveris",
+		"twitter-account": "Twitter paskyra",
+		"reddit-marketplace-subreddit": "Rainbow Six Siege Prekybos vieta Subreddit",
+		"partners": "Partneriai"
+	},
+	"search": {
+		"profiles": "Ieškoti profilių",
+		"clear-recents": "Išvalyti paskutinius",
+		"force-search": "Priverstinė paieška",
+		"no-players-found": "Nerasta žaidėjų",
+		"error": "Klaida ieškant: {error}",
+		"search-results": "{count} paieškos rezultatai"
+	},
+	"contact-us": {
+		"title": "Susisiekite su mumis",
+		"description": "Norėtume girdėti iš jūsų! Užpildykite žemiau esantį formą arba siųskite mums el. laišką adresu {0}.",
+		"fill-out-all-fields": "Prašome užpildyti visus laukus.",
+		"fields-are-invalid": "Šie laukai yra netinkami: {fields}",
+		"error-occured": "Įvyko klaida pateikiant jūsų žinutę.",
+		"submitted": "Pateikėte užklausą, mes greitai atsakysime el. paštu."
+	},
+	"misc": {
+		"help-translate": "Norite padėti išversti svetainę? Prisijunkite prie mūsų Discord ir paklauskite!"
+	},
+	"siege": {
+		"home": {
+			"title": "Pradžia",
+			"player-search": "Žaidėjo paieška",
+			"top-pc-players": "Top PC žaidėjai",
+			"top-console-players": "Top konsolės žaidėjai",
+			"search-a-profile": "Ieškokite profilio..."
+		},
+		"gamemodes": {
+			"all": "Visi",
+			"ranked": "Įvertintas",
+			"casual": "Paprastas",
+			"events": "Įvykis",
+			"warmup": "Įkaitimas",
+			"standard": "Standartinis"
+		},
+		"leaderboards": {
+			"title": "Lyderio lentelės",
+			"BAD-player-count": "{count} žaidėjai",
+			"BAD-percent-of-players": "{percent} visų žaidėjų",
+			"top-percent": "Top {percent}%",
+			"total-players": "{count} žaidėjai",
+			"last-update": "Atnaujinta {date}"
+		},
+		"bans": {
+			"title": "Uždraudimai",
+			"recent-bans-data": "Neseniai uždraudimų duomenys",
+			"period": {
+				"all-time": "Visas laikas",
+				"month": "Mėnuo",
+				"week": "Savaitė",
+				"day": "Diena"
+			},
+			"n-recent-bans": "{count} Neseniai uždrausti",
+			"n-bans": "{count} Uždraudimai",
+			"no-bans-found-for-reason": "Nerasta draudimų dėl {reason}",
+			"reason": {
+				"title": "Uždraudimo priežastis",
+				"all": "Visi",
+				"battleye": "BattlEye",
+				"boosted": "Pakeltas",
+				"botting": "Botavimas",
+				"cheating": "Sukčiavimas",
+				"tos-breach": "TOS pažeidimas",
+				"ddos": "DDoS",
+				"toxic-behavior": "Nuodingas elgesys"
+			}
+		},
+		"marketplace": {
+			"title": "Prekyvietė",
+			"price": "kaina",
+			"supply": "pasila",
+			"demand": "paklausa",
+			"currency": "valiuta",
+			"r6-credits": "R6 Kreditai",
+			"price-change": "Kainos pokytis",
+			"search": "Ieškoti pagal daikto pavadinimą",
+			"top-items-by-price": "Top Daiktai pagal Kainą",
+			"top-items-by-price-change": "Top Daiktai pagal Kainos Pokytį",
+			"avg-price-short": "Vid. Kaina",
+			"avg-supply-short": "Vid. Pasi",
+			"avg-demand-short": "Vid. Pak",
+			"avg-price-last-7-days": "Vid. kaina paskutinęs 7 dienas",
+			"24-hour-averages": "24 valandų vidurkiai",
+			"7-day-averages": "7 dienų vidurkiai",
+			"1-year-averages": "1 metų vidurkiai",
+			"season-released-in": "Išleistas {ynsn}",
+			"item-removed-from-marketplace": "Šis daiktas buvo pašalintas iš prekyvietės.",
+			"back-to-marketplace": "Atgal į Prekyvietę",
+			"view-on-ubisoft": "Žiūrėti Ubisoft",
+			"interval-price-history": "{interval} Kainų Istorija",
+			"interval": {
+				"hourly": "Kasdien",
+				"daily": "Kasdien",
+				"weekly": "Savaitės",
+				"monthly": "Mėnesio",
+				"quarterly": "Ketvirtadalio",
+				"yearly": "Metiniai"
+			},
+			"faq": {
+				"title": "R6 Prekyvietės DUK",
+				"what-is-marketplace": {
+					"title": "Kas yra Rainbow Six Siege Prekyvietė?",
+					"description": "Prekyvietė yra vieta, kur galite pirkti ir parduoti daiktus Rainbow Six Siege žaidime. Galite pirkti daiktus iš kitų žaidėjų arba parduoti daiktus, kuriuos atrakinote patys. Tai leidžia jums pirkti odas, kurie anksčiau buvo labai reti ir buvo užrakinti konkrečiai paskyrai."
+				},
+				"what-currency": {
+					"title": "Kokia valiuta naudojama prekyvietėje?",
+					"description": "Galite pirkti daiktus tik naudodami R6 Kreditus, ir gausite R6 Kreditus tik tada, kai parduosite daiktą."
+				},
+				"how-can-i-trade": {
+					"title": "Kaip galiu prekiauti daiktais?",
+					"description": "Mes nesame susiję su Ubisoft, todėl turėsite prekiauti savo daiktais oficialioje {0}.",
+					"description-link": "Rainbow Six Siege Prekyvietė"
+				}
+			},
+			"filters": {
+				"title": "Filtrai",
+				"sort-by": {
+					"title": "Rūšiuoti pagal",
+					"display-name": "Rodyti pavadinimą",
+					"average-price": "Vidutinė kaina",
+					"price-change": "Kainos pokytis"
+				},
+				"sort-order": {
+					"title": "Tvarka",
+					"ascending": "Didėjanti (A > Ž)",
+					"descending": "Mažėjanti (Ž > A)"
+				},
+				"item-type": {
+					"none": "Nėra",
+					"title": "Daikto Tipas",
+					"weapon-skin": "Ginklo Oda",
+					"headgear": "Galvos Apdangalas",
+					"uniform": "Uniforma",
+					"attachment-skin": "Priedo Oda",
+					"charm": "Ženklelis",
+					"operator-portrait": "Operatoriaus Portretas",
+					"card-background": "Kortelės Fonas",
+					"drone-skin": "Bezdrožių Oda"
+				},
+				"operators": {
+					"title": "Operatoriai"
+				},
+				"rarity": {
+					"title": "Retai"
+				},
+				"weapons": {
+					"title": "Ginklai"
+				},
+				"seasons": {
+					"title": "Sezonai"
+				},
+				"events": {
+					"title": "Įvykiai"
+				},
+				"others": {
+					"title": "Kita"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "Streimingavimo Įskiepis",
+			"description": "Streimingo įskiepai yra puikus būdas rodyti savo profilio statistiką tiesioginiame siuntinyje. Kol kas mūsų yra gana paprastas, bet ateityje mes suteiksime daugiau prisitaikymo. Šiuo metu jis palaiko tik įvertintus, bet jei ieškote palaikymo kitoms režimams, prašome susisiekti su mumis per {0}.",
+			"widget-image-caption": "Čia yra, kaip atrodo mūsų įskiepis:",
+			"invalid-profile-link": "Neteisingas profilio nuorodos",
+			"how-to-use": {
+				"title": "Kaip naudoti",
+				"profile-link": "Profilio Nuoroda...",
+				"your-widget-link": "Jūsų Streimo Įskiepio Nuoroda",
+				"step-1": "1. Įklijuokite savo profilio nuorodą į žemiau esantį lauką ir spustelėkite kopijuoti",
+				"step-2": "2. Eikite į savo tiesioginės transliacijos programą ir sukūrėkite „Naršyklės šaltinį“ skirtuke „Šaltiniai“.",
+				"step-3": "3. Įklijuokite savo Streimo Įskiepio nuorodą į „Naršyklės šaltinio“ lauką.",
+				"step-4": "4. Pritaikykite įskiepio dydį ir padėtį pagal poreikį."
+			}
+		},
+		"profile": {
+			"leaderboard-position": "Lyderio lentelės Pozicija",
+			"failed-to-load": "Nepavyko įkelti šio profilio.",
+			"last-played": "Paskutinis žaidimas",
+			"current-season": "Dabartinis Sezonas",
+			"ranked-2-max-ranks": "Įvertintas 2.0 Maksimalūs Reikšmės",
+			"regions-played": "Žaidimų Zonos",
+			"username-history": "Vartotojo Vardas Istorija",
+			"ranked-sessions": {
+				"title": "Įvertinti Seansai",
+				"1": "Šiame grafike pateikiamos profilio neseniai vykusios sesijos ir jų reitingas po kiekvienos sesijos.",
+				"2": "Galite paslinkti pelę virš atskirų taškų, kad pamatytumėte sesijos detales.",
+				"3": "Galite mastuoti tempą, traukdami per diapazoną, ir pereiti, laikydami valdymą ir traukdami."
+			},
+			"past-24-hours": "Praėjusias 24 valandas",
+			"past-7-days": "Praėjusias 7 dienas",
+			"past-30-days": "Praėjusias 30 dienų",
+			"wl-streak": "WL Serija",
+			"rp-change": "RP Pokytis",
+			"update-time-out": "Atnaujinimas baigėsi. Atnaujinkite puslapį ir netrukus jis bus atliktas.",
+			"rank-reset-due-to-ban": "Rango atstatymas dėl draudimo",
+			"no-matches-played": "Nėra žaidimų atlikta",
+			"match-count": "{count} Rungtynės",
+			"update": {
+				"update": "Atnaujinti",
+				"updating": "Atnaujinama",
+				"updated": "Atnaujinta",
+				"failed": "Nepavyko",
+				"timeout": "Atnaujinimo laikas baigėsi. Atnaujinkite puslapį ir netrukus tai bus padaryta.",
+				"tooltip": {
+					"1": "Šis profilis dar negali būti atnaujintas.",
+					"2": "Galite likti šiame profilyje, ir jis automatiškai atnaujins, kai bus prieinama naujinimas, pavyzdžiui, kai žaidėjo rungtynės baigsis.",
+					"3": "Paprastai šio atnaujinimo mygtuko paspausti nereikia, bet gali padėti, jei jaučiate, kad profilio duomenys nesutampa."
+				}
+			},
+			"seasons": {
+				"title": "Sezonai",
+				"old-seasons-banner": "Senosios sezono duomenys bus pridėti ateityje."
+			},
+			"played-with": {
+				"title": "Žaisti Su",
+				"info-banner": "Žmonės, su kuriais {username} šį sezoną žaidė arba prieš jį",
+				"no-played-with": "{username} dar nepraleido su niekuo"
+			},
+			"report": {
+				"title": "Pranešti"
+			},
+			"sessions": {
+				"no-sessions": "No sessions found based on your filters."
+			}
+		}
+	}
+}

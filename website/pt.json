@@ -1,0 +1,295 @@
+{
+	"common": {
+		"players": "jogadores",
+		"matches": "partidas",
+		"pc": "PC",
+		"console": "console",
+		"all": "todos",
+		"name": "nome",
+		"mmr": "mmr",
+		"rank": "classificação",
+		"level": "nível",
+		"reason": "motivo",
+		"date": "data",
+		"no-data": "sem dados",
+		"no-results": "sem resultados",
+		"view-details": "ver detalhes",
+		"copy": "copiar",
+		"copied!": "copiado!",
+		"kd": "KD",
+		"wr": "WR",
+		"kills": "abates",
+		"deaths": "mortes",
+		"assists": "assistências",
+		"wins": "vitórias",
+		"losses": "derrotas",
+		"views": "visualizações",
+		"show-all": "mostrar tudo",
+		"show-less": "mostrar menos",
+		"show-more": "mostrar mais",
+		"kpm": "KPM",
+		"kills-per-match": "abates por partida",
+		"max-rank": "classificação máxima",
+		"missing-data": "dados ausentes",
+		"rp": "{amount} RP",
+		"current": "atual",
+		"season": "temporada",
+		"won": "ganhou",
+		"lost": "perdeu",
+		"win": "vitória",
+		"loss": "derrota",
+		"draw": "empate",
+		"tie": "empate",
+		"rollback": "reversão",
+		"win-short": "V",
+		"loss-short": "D",
+		"email": "email",
+		"category": "categoria",
+		"message": "mensagem",
+		"submit": "enviar"
+	},
+	"social": {
+		"follow-us-twitter": "Siga-nos no Twitter",
+		"join-our-discord": "Junte-se ao nosso Discord",
+		"marketplace-subreddit": "Subreddit do Mercado do Rainbow Six Siege"
+	},
+	"footer": {
+		"extra-pages": "Páginas extras",
+		"contact-us": "Contate-nos",
+		"roadmap": "Roteiro",
+		"privacy-policy": "Política de Privacidade",
+		"terms-of-service": "Termos de Serviço",
+		"social-media": "Mídias Sociais",
+		"language": "Idioma",
+		"discord-server": "Servidor do Discord",
+		"twitter-account": "Conta do Twitter",
+		"reddit-marketplace-subreddit": "Subreddit do Mercado do Rainbow Six Siege",
+		"partners": "Parceiros"
+	},
+	"search": {
+		"profiles": "Pesquisar Perfis",
+		"clear-recents": "Limpar Recentes",
+		"force-search": "Forçar Pesquisa",
+		"no-players-found": "Nenhum jogador encontrado",
+		"error": "Erro ao pesquisar: {error}",
+		"search-results": "{count} resultados"
+	},
+	"contact-us": {
+		"title": "Contate-nos",
+		"description": "Adoraríamos ouvir você! Preencha o formulário abaixo ou envie um email para {0}.",
+		"fill-out-all-fields": "Por favor, preencha todos os campos.",
+		"fields-are-invalid": "Os seguintes campos são inválidos: {fields}",
+		"error-occured": "Ocorreu um erro ao enviar sua mensagem.",
+		"submitted": "Solicitação enviada! Responderemos por email em breve."
+	},
+	"misc": {
+		"help-translate": "Quer ajudar a traduzir o site? Junte-se ao nosso Discord e converse conosco!"
+	},
+	"siege": {
+		"home": {
+			"title": "Início",
+			"player-search": "Pesquisa de Jogadores",
+			"top-pc-players": "Principais Jogadores de PC",
+			"top-console-players": "Principais Jogadores de Console",
+			"search-a-profile": "Pesquisar um perfil..."
+		},
+		"gamemodes": {
+			"all": "Todos",
+			"ranked": "Classificado",
+			"casual": "Casual",
+			"events": "Evento",
+			"warmup": "Aquecimento",
+			"standard": "Padrão"
+		},
+		"leaderboards": {
+			"title": "Placares",
+			"BAD-player-count": "{count} jogadores",
+			"BAD-percent-of-players": "{percent} de todos os jogadores",
+			"top-percent": "Top {percent}%",
+			"total-players": "{count} jogadores",
+			"last-update": "Atualizado em {date}"
+		},
+		"bans": {
+			"title": "Banimentos",
+			"recent-bans-data": "Dados de Banimentos Recentes",
+			"period": {
+				"all-time": "Todo o Tempo",
+				"month": "Mês",
+				"week": "Semana",
+				"day": "Dia"
+			},
+			"n-recent-bans": "{count} Banimentos Recentes",
+			"n-bans": "{count} Banimentos",
+			"no-bans-found-for-reason": "Nenhum banimento por {reason} encontrado",
+			"reason": {
+				"title": "Motivo do Banimento",
+				"all": "Todos",
+				"battleye": "BattlEye",
+				"boosted": "Boosted",
+				"botting": "Botting",
+				"cheating": "Cheating",
+				"tos-breach": "Violação dos Termos de Serviço",
+				"ddos": "DDoS",
+				"toxic-behavior": "Comportamento Tóxico"
+			}
+		},
+		"marketplace": {
+			"title": "Mercado",
+			"price": "preço",
+			"supply": "oferta",
+			"demand": "demanda",
+			"currency": "moeda",
+			"r6-credits": "R6 Credits",
+			"price-change": "Mudança de Preço",
+			"search": "Pesquisar item por nome",
+			"top-items-by-price": "Principais Itens por Preço",
+			"top-items-by-price-change": "Principais Itens por Mudança de Preço",
+			"avg-price-short": "Preço Médio",
+			"avg-supply-short": "Oferta Média",
+			"avg-demand-short": "Demanda Média",
+			"avg-price-last-7-days": "Preço médio últimos 7 dias",
+			"24-hour-averages": "Médias de 24 horas",
+			"7-day-averages": "Médias de 7 dias",
+			"1-year-averages": "Médias de 1 ano",
+			"season-released-in": "Lançado em {ynsn}",
+			"item-removed-from-marketplace": "Este item foi removido do mercado.",
+			"back-to-marketplace": "Voltar para o Mercado",
+			"view-on-ubisoft": "Ver na Ubisoft",
+			"interval-price-history": "{interval} Histórico de Preço",
+			"interval": {
+				"hourly": "Por Hora",
+				"daily": "Diário",
+				"weekly": "Semanal",
+				"monthly": "Mensal",
+				"quarterly": "Trimestral",
+				"yearly": "Anual"
+			},
+			"faq": {
+				"title": "Perguntas Frequentes sobre o Mercado do R6",
+				"what-is-marketplace": {
+					"title": "O que é o Mercado do Rainbow Six Siege?",
+					"description": "O mercado é um lugar onde você pode comprar e vender itens de Rainbow Six Siege. Você pode comprar itens de outros jogadores, ou vender itens que desbloqueou. Isso permite que você adquira skins que antes eram extremamente raras e bloqueadas em uma conta específica."
+				},
+				"what-currency": {
+					"title": "Qual é a moeda usada no mercado?",
+					"description": "Você só pode comprar itens com a moeda do jogo, R6 Credits, e só receberá R6 Credits quando vender um item."
+				},
+				"how-can-i-trade": {
+					"title": "Como posso negociar itens?",
+					"description": "Não estamos afiliados à Ubisoft, então você terá que negociar seus itens no site oficial {0}",
+					"description-link": "Mercado do Rainbow Six Siege"
+				}
+			},
+			"filters": {
+				"title": "Filtros",
+				"sort-by": {
+					"title": "Ordenar por",
+					"display-name": "Nome de Exibição",
+					"average-price": "Preço Médio",
+					"price-change": "Mudança de Preço"
+				},
+				"sort-order": {
+					"title": "Ordem",
+					"ascending": "Ascendente (A > Z)",
+					"descending": "Descendente (Z > A)"
+				},
+				"item-type": {
+					"none": "Nenhum",
+					"title": "Tipo de Item",
+					"weapon-skin": "Skins de Armas",
+					"headgear": "Capacete",
+					"uniform": "Uniforme",
+					"attachment-skin": "Skin de Acessórios",
+					"charm": "Pingente",
+					"operator-portrait": "Retrato do Operador",
+					"card-background": "Fundo de Cartão",
+					"drone-skin": "Skin de Drone"
+				},
+				"operators": {
+					"title": "Operadores"
+				},
+				"rarity": {
+					"title": "Raridade"
+				},
+				"weapons": {
+					"title": "Armas"
+				},
+				"seasons": {
+					"title": "Temporadas"
+				},
+				"events": {
+					"title": "Eventos"
+				},
+				"others": {
+					"title": "Outro"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "Widget de Streaming",
+			"description": "Widgets de streaming são uma ótima maneira de exibir as estatísticas do seu perfil na sua transmissão ao vivo. Por enquanto, o nosso é bastante simples, mas no futuro forneceremos muito mais personalização. Atualmente, ele só suporta partidas classificadas (ranked), mas se você estiver procurando suporte para outros modos, entre em contato conosco no {0}.",
+			"widget-image-caption": "Aqui está como nosso widget se parece:",
+			"invalid-profile-link": "Link de perfil inválido",
+			"how-to-use": {
+				"title": "Como usar",
+				"profile-link": "Link do Perfil...",
+				"your-widget-link": "Seu Link de Widget de Streaming",
+				"step-1": "1. Copie e cole o link do seu perfil na caixa abaixo e clique em copiar",
+				"step-2": "2. Vá para o seu software de transmissão ao vivo e crie uma \"Fonte do Navegador\" na guia \"Fontes\".",
+				"step-3": "3. Cole seu Link de Widget de Streaming no campo \"Fonte do Navegador\".",
+				"step-4": "4. Ajuste o tamanho e a posição do widget conforme desejado."
+			}
+		},
+		"profile": {
+			"leaderboard-position": "Posição no Placar",
+			"failed-to-load": "Não foi possível carregar esse perfil.",
+			"last-played": "Última Partida",
+			"current-season": "Temporada Atual",
+			"ranked-2-max-ranks": "Classificado 2.0 Classificações Máximas",
+			"regions-played": "Regiões Jogadas",
+			"username-history": "Histórico de Nomes de Usuário",
+			"ranked-sessions": {
+				"title": "Sessões de Partidas Classificadas",
+				"1": "Este gráfico mostra as sessões recentes de um perfil e sua classificação após cada sessão.",
+				"2": "Você pode passar o mouse sobre pontos individuais para ver os detalhes de uma sessão.",
+				"3": "Você pode ampliar arrastando sobre um intervalo e arrastar mantendo o controle pressionado."
+			},
+			"past-24-hours": "Últimas 24 Horas",
+			"past-7-days": "Últimos 7 Dias",
+			"past-30-days": "Últimos 30 Dias",
+			"wl-streak": "Sequência WL",
+			"rp-change": "Mudança de RP",
+			"update-time-out": "Atualização expirada. Por favor, atualize a página.",
+			"rank-reset-due-to-ban": "Classificação removida devido a banimento",
+			"no-matches-played": "Nenhuma partida jogada",
+			"match-count": "{count} Partidas",
+			"update": {
+				"update": "Atualizar",
+				"updating": "Atualizando",
+				"updated": "Atualizado",
+				"failed": "Falhou",
+				"timeout": "Atualização expirada. Por favor, atualize a página.",
+				"tooltip": {
+					"1": "Este perfil ainda não pode ser atualizado.",
+					"2": "Você pode permanecer neste perfil e ele será atualizado automaticamente quando uma atualização estiver disponível, por exemplo, quando a partida do jogador terminar.",
+					"3": "Normalmente, não é necessário clicar neste botão de atualização, mas pode ajudar se você sentir que os dados do perfil estão fora de sincronia."
+				}
+			},
+			"seasons": {
+				"title": "Temporadas",
+				"old-seasons-banner": "Os dados das temporadas antigas serão adicionados no futuro."
+			},
+			"played-with": {
+				"title": "Jogou Com",
+				"info-banner": "Pessoas que {username} jogou com ou contra nesta temporada",
+				"no-played-with": "{username} ainda não jogou com ninguém"
+			},
+			"report": {
+				"title": "Reportar"
+			},
+			"sessions": {
+				"no-sessions": "Nenhuma sessão encontrada baseada nos seus filtros."
+			}
+		}
+	}
+}

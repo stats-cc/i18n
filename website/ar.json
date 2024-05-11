@@ -1,0 +1,295 @@
+{
+	"common": {
+		"players": "اللاعبين",
+		"matches": "المباريات",
+		"pc": "الكمبيوتر الشخصي",
+		"console": "الجهاز",
+		"all": "الكل",
+		"name": "الاسم",
+		"mmr": "التصنيف",
+		"rank": "الرتبة",
+		"level": "المستوى",
+		"reason": "السبب",
+		"date": "التاريخ",
+		"no-data": "لا توجد بيانات",
+		"no-results": "لا توجد نتائج",
+		"view-details": "عرض التفاصيل",
+		"copy": "نسخ",
+		"copied!": "تم النسخ!",
+		"kd": "معدل القتل",
+		"wr": "معدل الفوز",
+		"kills": "القتلات",
+		"deaths": "الوفيات",
+		"assists": "المساعدات",
+		"wins": "الانتصارات",
+		"losses": "الهزائم",
+		"views": "المشاهدات",
+		"show-all": "عرض الكل",
+		"show-less": "عرض أقل",
+		"show-more": "عرض المزيد",
+		"kpm": "معدل القتل في الدقيقة",
+		"kills-per-match": "القتلات في كل مباراة",
+		"max-rank": "الرتبة القصوى",
+		"missing-data": "بيانات مفقودة",
+		"rp": "{amount} نقطة تقدم",
+		"current": "الحالي",
+		"season": "الموسم",
+		"won": "فاز",
+		"lost": "خسر",
+		"win": "فوز",
+		"loss": "هزيمة",
+		"draw": "تعادل",
+		"tie": "تعادل",
+		"rollback": "التراجع",
+		"win-short": "ف",
+		"loss-short": "ه",
+		"email": "البريد الإلكتروني",
+		"category": "الفئة",
+		"message": "الرسالة",
+		"submit": "إرسال"
+	},
+	"social": {
+		"follow-us-twitter": "تابعنا على تويتر",
+		"join-our-discord": "انضم إلى خادمنا على ديسكورد",
+		"marketplace-subreddit": "موقع السوق الفرعي لـ Rainbow Six Siege"
+	},
+	"footer": {
+		"extra-pages": "صفحات إضافية",
+		"contact-us": "اتصل بنا",
+		"roadmap": "خطة الطريق",
+		"privacy-policy": "سياسة الخصوصية",
+		"terms-of-service": "شروط الخدمة",
+		"social-media": "وسائل التواصل الاجتماعي",
+		"language": "اللغة",
+		"discord-server": "خادم ديسكورد",
+		"twitter-account": "حساب تويتر",
+		"reddit-marketplace-subreddit": "موقع السوق الفرعي لـ Rainbow Six Siege",
+		"partners": "الشركاء"
+	},
+	"search": {
+		"profiles": "البحث في الصفحات",
+		"clear-recents": "مسح التواريخ الأخيرة",
+		"force-search": "فرض البحث",
+		"no-players-found": "لم يتم العثور على لاعبين",
+		"error": "حدث خطأ أثناء البحث: {error}",
+		"search-results": "{count} نتائج بحث"
+	},
+	"contact-us": {
+		"title": "اتصل بنا",
+		"description": "نود أن نسمع منك! املأ النموذج أدناه أو أرسل لنا بريدًا إلكترونيًا على {0}.",
+		"fill-out-all-fields": "يرجى ملء جميع الحقول.",
+		"fields-are-invalid": "الحقول التالية غير صالحة: {fields}",
+		"error-occured": "حدث خطأ أثناء إرسال رسالتك.",
+		"submitted": "تم إرسال طلبك، سنرد عليك عبر البريد الإلكتروني قريبًا."
+	},
+	"misc": {
+		"help-translate": "هل تريد المساعدة في ترجمة الموقع؟ انضم إلى خادمنا على ديسكورد واسأل!"
+	},
+	"siege": {
+		"home": {
+			"title": "الصفحة الرئيسية",
+			"player-search": "البحث عن لاعب",
+			"top-pc-players": "أفضل لاعبي PC",
+			"top-console-players": "أفضل لاعبي الجهاز",
+			"search-a-profile": "ابحث عن ملف..."
+		},
+		"gamemodes": {
+			"all": "الكل",
+			"ranked": "رتبي",
+			"casual": "عادي",
+			"events": "حدث",
+			"warmup": "التمرين",
+			"standard": "قياسي"
+		},
+		"leaderboards": {
+			"title": "الترتيبات",
+			"BAD-player-count": "{count} لاعبين",
+			"BAD-percent-of-players": "{percent} من جميع اللاعبين",
+			"top-percent": "أعلى {percent}%",
+			"total-players": "{count} لاعبين",
+			"last-update": "تم التحديث في {date}"
+		},
+		"bans": {
+			"title": "الحظر",
+			"recent-bans-data": "بيانات الحظر الأخيرة",
+			"period": {
+				"all-time": "طوال الوقت",
+				"month": "شهر",
+				"week": "أسبوع",
+				"day": "يوم"
+			},
+			"n-recent-bans": "{count} حظر أخير",
+			"n-bans": "{count} حظر",
+			"no-bans-found-for-reason": "لم يتم العثور على حظر لـ {reason}",
+			"reason": {
+				"title": "سبب الحظر",
+				"all": "الكل",
+				"battleye": "BattlEye",
+				"boosted": "معزز",
+				"botting": "التحكم الآلي",
+				"cheating": "الغش",
+				"tos-breach": "انتهاك شروط الخدمة",
+				"ddos": "DDoS",
+				"toxic-behavior": "سلوك سام"
+			}
+		},
+		"marketplace": {
+			"title": "السوق",
+			"price": "السعر",
+			"supply": "العرض",
+			"demand": "الطلب",
+			"currency": "العملة",
+			"r6-credits": "R6 Credits",
+			"price-change": "تغيير السعر",
+			"search": "البحث باسم العنصر",
+			"top-items-by-price": "أفضل العناصر حسب السعر",
+			"top-items-by-price-change": "أفضل العناصر حسب تغيير السعر",
+			"avg-price-short": "متوسط السعر",
+			"avg-supply-short": "متوسط العرض",
+			"avg-demand-short": "متوسط الطلب",
+			"avg-price-last-7-days": "متوسط السعر خلال الـ 7 أيام الماضية",
+			"24-hour-averages": "المتوسطات على مدار 24 ساعة",
+			"7-day-averages": "المتوسطات على مدار 7 أيام",
+			"1-year-averages": "المتوسطات على مدار العام الواحد",
+			"season-released-in": "صدر في {ynsn}",
+			"item-removed-from-marketplace": "تمت إزالة هذا العنصر من السوق.",
+			"back-to-marketplace": "العودة إلى السوق",
+			"view-on-ubisoft": "عرض على Ubisoft",
+			"interval-price-history": "تاريخ السعر لـ {interval}",
+			"interval": {
+				"hourly": "بشكل ساعي",
+				"daily": "يومي",
+				"weekly": "أسبوعي",
+				"monthly": "شهري",
+				"quarterly": "ربع سنوي",
+				"yearly": "سنوي"
+			},
+			"faq": {
+				"title": "أسئلة متكررة حول السوق في Rainbow Six",
+				"what-is-marketplace": {
+					"title": "ما هو سوق Rainbow Six Siege؟",
+					"description": "السوق هو مكان يمكنك من خلاله شراء وبيع العناصر لـ Rainbow Six Siege. يمكنك شراء العناصر من لاعبين آخرين، أو يمكنك بيع العناصر التي فتحتها بنفسك. يتيح لك هذا شراء الجلود التي كانت سابقًا نادرة للغاية ومقفلة على حساب محدد."
+				},
+				"what-currency": {
+					"title": "ما هي العملة المستخدمة في السوق؟",
+					"description": "يمكنك شراء العناصر فقط باستخدام R6 Credits، وستحصل على R6 Credits فقط عند بيع عنصر."
+				},
+				"how-can-i-trade": {
+					"title": "كيف يمكنني تداول العناصر؟",
+					"description": "نحن لسنا مرتبطين بـ Ubisoft، لذا ستضطر إلى تداول العناصر الخاصة بك على الـ {0}.",
+					"description-link": "سوق Rainbow Six Siege"
+				}
+			},
+			"filters": {
+				"title": "الفلاتر",
+				"sort-by": {
+					"title": "ترتيب حسب",
+					"display-name": "الاسم",
+					"average-price": "السعر المتوسط",
+					"price-change": "تغيير السعر"
+				},
+				"sort-order": {
+					"title": "الترتيب",
+					"ascending": "تصاعدي (أ > ي)",
+					"descending": "تنازلي (ي > أ)"
+				},
+				"item-type": {
+					"none": "بدون",
+					"title": "نوع العنصر",
+					"weapon-skin": "جلد السلاح",
+					"headgear": "السلاح",
+					"uniform": "الزي",
+					"attachment-skin": "جلد المرفق",
+					"charm": "سحر",
+					"operator-portrait": "صورة المشغل",
+					"card-background": "خلفية البطاقة",
+					"drone-skin": "جلد الطائرة بدون طيار"
+				},
+				"operators": {
+					"title": "المشغلون"
+				},
+				"rarity": {
+					"title": "الندرة"
+				},
+				"weapons": {
+					"title": "الأسلحة"
+				},
+				"seasons": {
+					"title": "المواسم"
+				},
+				"events": {
+					"title": "الأحداث"
+				},
+				"others": {
+					"title": "آخر"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "عنصر التدفق",
+			"description": "أدوات التدفق هي طريقة رائعة لعرض إحصائيات ملفك الشخصي على بثك المباشر. حاليًا، يُعتبر تصميمنا بسيطًا إلى حد ما، ولكن في المستقبل سنوفر المزيد من التخصيص. حاليًا، يدعم الاستريم فقط الرتبي، ولكن إذا كنت تبحث عن الدعم لأوضاع أخرى، يرجى الاتصال بنا على {0}.",
+			"widget-image-caption": "ها هي صورة عنصر التدفق الخاص بنا:",
+			"invalid-profile-link": "رابط الملف غير صالح",
+			"how-to-use": {
+				"title": "كيفية الاستخدام",
+				"profile-link": "رابط الملف...",
+				"your-widget-link": "رابط عنصر التدفق الخاص بك",
+				"step-1": "1. قم بنسخ ولصق رابط ملفك في الخانة أدناه وانقر على النسخ",
+				"step-2": "2. انتقل إلى برنامج البث الخاص بك وأنشئ \"مصدر متصفح\" في علامة التبويب \"المصادر\".",
+				"step-3": "3. الصق رابط عنصر التدفق الخاص بك في حقل \"مصدر المتصفح\".",
+				"step-4": "4. قم بتعديل الحجم والتوضيب لعنصر التدفق كما تريد."
+			}
+		},
+		"profile": {
+			"leaderboard-position": "موقف السجل",
+			"failed-to-load": "فشل تحميل هذا الملف.",
+			"last-played": "آخر تشغيل",
+			"current-season": "الموسم الحالي",
+			"ranked-2-max-ranks": "رتبي 2.0 الحد الأقصى",
+			"regions-played": "المناطق التي لعبت فيها",
+			"username-history": "تاريخ اسم المستخدم",
+			"ranked-sessions": {
+				"title": "جلسات الرتبي",
+				"1": "يقوم هذا الرسم البياني برسم جلسات الملف الشخصي الأخيرة ورتبته بعد كل جلسة.",
+				"2": "يمكنك التحويم فوق النقاط الفردية لمعرفة تفاصيل الجلسة.",
+				"3": "يمكنك التكبير عن طريق السحب فوق نطاق والتمرير عن طريق الضغط على Ctrl والسحب."
+			},
+			"past-24-hours": "الـ 24 ساعة الأخيرة",
+			"past-7-days": "الـ 7 أيام الأخيرة",
+			"past-30-days": "الـ 30 يومًا الأخيرة",
+			"wl-streak": "سلسلة WL",
+			"rp-change": "تغيير RP",
+			"update-time-out": "انتهت صلاحية التحديث. قم بتحديث الصفحة وسيتم ذلك قريبًا.",
+			"rank-reset-due-to-ban": "إعادة تعيين الرتبة بسبب الحظر",
+			"no-matches-played": "لم يتم لعب أي مباريات",
+			"match-count": "{count} مباراة",
+			"update": {
+				"update": "تحديث",
+				"updating": "جاري التحديث",
+				"updated": "تم التحديث!",
+				"failed": "Failed",
+				"timeout": "Update timed out. Refresh the page and it will be done soon.",
+				"tooltip": {
+					"1": "This profile cannot be updated yet.",
+					"2": "You can stay on this profile and it will auto refresh when an update is available, for example when the player's match finishes.",
+					"3": "Generally hitting this refresh button isn't needed, but can help if you feel the profiles data isout of sync."
+				}
+			},
+			"seasons": {
+				"title": "Seasons",
+				"old-seasons-banner": "Old seasons data will be added in the future."
+			},
+			"played-with": {
+				"title": "Played With",
+				"info-banner": "People {username} played with or against this season",
+				"no-played-with": "{username} hasn't played with anyone yet"
+			},
+			"report": {
+				"title": "Report"
+			},
+			"sessions": {
+				"no-sessions": "No sessions found based on your filters."
+			}
+		}
+	}
+}

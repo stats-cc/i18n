@@ -1,0 +1,295 @@
+{
+	"common": {
+		"players": "гравці",
+		"matches": "матчі",
+		"pc": "ПК",
+		"console": "консоль",
+		"all": "всі",
+		"name": "ім'я",
+		"mmr": "ммр",
+		"rank": "ранг",
+		"level": "рівень",
+		"reason": "причина",
+		"date": "дата",
+		"no-data": "немає даних",
+		"no-results": "немає результатів",
+		"view-details": "переглянути деталі",
+		"copy": "копіювати",
+		"copied!": "скопійовано!",
+		"kd": "КД",
+		"wr": "WR",
+		"kills": "вбивства",
+		"deaths": "смерті",
+		"assists": "асисти",
+		"wins": "перемоги",
+		"losses": "поразки",
+		"views": "перегляди",
+		"show-all": "показати все",
+		"show-less": "показати менше",
+		"show-more": "показати більше",
+		"kpm": "KPM",
+		"kills-per-match": "вбивства за матч",
+		"max-rank": "максимальний ранг",
+		"missing-data": "відсутні дані",
+		"rp": "{amount} RP",
+		"current": "поточний",
+		"season": "сезон",
+		"won": "виграно",
+		"lost": "програно",
+		"win": "перемога",
+		"loss": "поразка",
+		"draw": "нічия",
+		"tie": "нічия",
+		"rollback": "відкат",
+		"win-short": "W",
+		"loss-short": "L",
+		"email": "електронна пошта",
+		"category": "категорія",
+		"message": "повідомлення",
+		"submit": "надіслати"
+	},
+	"social": {
+		"follow-us-twitter": "Слідкуйте за нами на Twitter",
+		"join-our-discord": "Приєднуйтесь до нашого Discord",
+		"marketplace-subreddit": "Підполе Siege Marketplace"
+	},
+	"footer": {
+		"extra-pages": "Додаткові сторінки",
+		"contact-us": "Зв'яжіться з нами",
+		"roadmap": "Карта шляху",
+		"privacy-policy": "Політика конфіденційності",
+		"terms-of-service": "Умови надання послуг",
+		"social-media": "Соціальні медіа",
+		"language": "Мова",
+		"discord-server": "Сервер Discord",
+		"twitter-account": "Обліковий запис Twitter",
+		"reddit-marketplace-subreddit": "Підполе Siege Marketplace",
+		"partners": "Партнери"
+	},
+	"search": {
+		"profiles": "Пошук профілів",
+		"clear-recents": "Очистити нещодавні",
+		"force-search": "Примусовий пошук",
+		"no-players-found": "Гравців не знайдено",
+		"error": "Помилка під час пошуку: {error}",
+		"search-results": "{count} результатів пошуку"
+	},
+	"contact-us": {
+		"title": "Зв'яжіться з нами",
+		"description": "Ми з радістю почуємо від вас! Заповніть форму нижче або надішліть нам електронного листа на {0}.",
+		"fill-out-all-fields": "Будь ласка, заповніть всі поля.",
+		"fields-are-invalid": "Наступні поля є недійсними: {fields}",
+		"error-occured": "Під час відправлення вашого повідомлення виникла помилка.",
+		"submitted": "Ваш запит надіслано, ми відповімо за допомогою електронної пошти найближчим часом."
+	},
+	"misc": {
+		"help-translate": "Хочете допомогти перекласти сайт? Приєднуйтесь до нашого Discord і запитайте!"
+	},
+	"siege": {
+		"home": {
+			"title": "Головна",
+			"player-search": "Пошук гравців",
+			"top-pc-players": "Топ PC гравців",
+			"top-console-players": "Топ консольних гравців",
+			"search-a-profile": "Пошук профілю..."
+		},
+		"gamemodes": {
+			"all": "Всі",
+			"ranked": "Ранговий",
+			"casual": "Неспішний",
+			"events": "Подія",
+			"warmup": "Прогрів",
+			"standard": "Стандартний"
+		},
+		"leaderboards": {
+			"title": "Лідерборди",
+			"BAD-player-count": "{count} гравців",
+			"BAD-percent-of-players": "{percent} від усіх гравців",
+			"top-percent": "Топ {percent}%",
+			"total-players": "{count} гравців",
+			"last-update": "Оновлено {date}"
+		},
+		"bans": {
+			"title": "Заборони",
+			"recent-bans-data": "Дані останніх заборон",
+			"period": {
+				"all-time": "За весь час",
+				"month": "Місяць",
+				"week": "Тиждень",
+				"day": "День"
+			},
+			"n-recent-bans": "{count} Останні заборони",
+			"n-bans": "{count} Заборони",
+			"no-bans-found-for-reason": "Для {reason} заборон не знайдено",
+			"reason": {
+				"title": "Причина заборони",
+				"all": "Всі",
+				"battleye": "BattlEye",
+				"boosted": "Підсилено",
+				"botting": "Ботінг",
+				"cheating": "Шахрайство",
+				"tos-breach": "Вторгнення у ToS",
+				"ddos": "DDoS",
+				"toxic-behavior": "Токсична поведінка"
+			}
+		},
+		"marketplace": {
+			"title": "торговий майданчик",
+			"price": "ціна",
+			"supply": "постачання",
+			"demand": "попит",
+			"currency": "валюта",
+			"r6-credits": "R6 Кредити",
+			"price-change": "Зміна ціни",
+			"search": "Пошук за назвою товару",
+			"top-items-by-price": "Топ товарів за ціною",
+			"top-items-by-price-change": "Топ товарів за зміною ціни",
+			"avg-price-short": "Середня ціна",
+			"avg-supply-short": "Середнє постачання",
+			"avg-demand-short": "Середній попит",
+			"avg-price-last-7-days": "Середня ціна останніх 7 днів",
+			"24-hour-averages": "Середні за 24 години",
+			"7-day-averages": "Середні за 7 днів",
+			"1-year-averages": "Середні за 1 рік",
+			"season-released-in": "Випущено у {ynsn}",
+			"item-removed-from-marketplace": "Цей товар був вилучений з ринку.",
+			"back-to-marketplace": "Повернутися на ринок",
+			"view-on-ubisoft": "Переглянути на Ubisoft",
+			"interval-price-history": "{interval} Історія цін",
+			"interval": {
+				"hourly": "Щогодини",
+				"daily": "Щоденно",
+				"weekly": "Щотижнево",
+				"monthly": "Щомісяця",
+				"quarterly": "Щоквартально",
+				"yearly": "Щорічно"
+			},
+			"faq": {
+				"title": "R6 Marketplace FAQ",
+				"what-is-marketplace": {
+					"title": "Що таке торговий майданчик Rainbow Six Siege?",
+					"description": "Майданчик - це місце, де ви можете купувати і продавати предмети для гри Rainbow Six Siege. Ви можете купувати предмети у інших гравців або продавати предмети, які ви самі розблокували. Це дозволяє вам купувати шкурки, які раніше були дуже рідкісними і закритими для певного облікового запису."
+				},
+				"what-currency": {
+					"title": "Яка валюта використовується на майданчику?",
+					"description": "Ви можете купувати предмети лише за допомогою R6 Кредитів, і ви отримуватимете R6 Кредити лише при продажу предмета."
+				},
+				"how-can-i-trade": {
+					"title": "Як я можу торгувати предметами?",
+					"description": "Ми не пов'язані з Ubisoft, тому ви повинні торгувати своїми предметами на офіційному {0}.",
+					"description-link": "Торговий майданчик Rainbow Six Siege"
+				}
+			},
+			"filters": {
+				"title": "Фільтри",
+				"sort-by": {
+					"title": "Сортувати за",
+					"display-name": "Показати ім'я",
+					"average-price": "Середня ціна",
+					"price-change": "Зміна ціни"
+				},
+				"sort-order": {
+					"title": "Порядок",
+					"ascending": "Зростаючий (A > Z)",
+					"descending": "Спадаючий (Z > A)"
+				},
+				"item-type": {
+					"none": "Немає",
+					"title": "Тип товару",
+					"weapon-skin": "Шкіра для зброї",
+					"headgear": "Головний убір",
+					"uniform": "Уніформа",
+					"attachment-skin": "Шкіра для кріплення",
+					"charm": "Оберіг",
+					"operator-portrait": "Портрет оператора",
+					"card-background": "Фон картки",
+					"drone-skin": "Шкіра для дрона"
+				},
+				"operators": {
+					"title": "Оператори"
+				},
+				"rarity": {
+					"title": "Рідкість"
+				},
+				"weapons": {
+					"title": "Зброя"
+				},
+				"seasons": {
+					"title": "Сезони"
+				},
+				"events": {
+					"title": "Події"
+				},
+				"others": {
+					"title": "Інше"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "Стрімінговий віджет",
+			"description": "Стрімінгові віджети - це чудовий спосіб відображення статистики вашого профілю у прямому ефірі. Зараз наш віджет досить простий, але у майбутньому ми надамо набагато більше можливостей для налаштування. Наразі він підтримує лише ранговий режим, але якщо вам потрібна підтримка інших режимів, будь ласка, зверніться до нас на {0}.",
+			"widget-image-caption": "Ось як виглядає наш віджет:",
+			"invalid-profile-link": "Недійсне посилання на профіль",
+			"how-to-use": {
+				"title": "Як користуватися",
+				"profile-link": "Посилання на профіль...",
+				"your-widget-link": "Ваше посилання на стрімінговий віджет",
+				"step-1": "1. Скопіюйте та вставте посилання на свій профіль у поле нижче та натисніть копіювати",
+				"step-2": "2. Перейдіть до програми прямого ефіру та створіть «Браузерний джерело» на вкладці «Джерела».",
+				"step-3": "3. Вставте ваше посилання на стрімінговий віджет у поле «Браузерне джерело».",
+				"step-4": "4. Налаштуйте розмір та розташування віджета за потребою."
+			}
+		},
+		"profile": {
+			"leaderboard-position": "Позиція у лідерборді",
+			"failed-to-load": "Не вдалося завантажити цей профіль.",
+			"last-played": "Останній раз грав",
+			"current-season": "Поточний сезон",
+			"ranked-2-max-ranks": "Максимальні ранги в Ранговому 2.0",
+			"regions-played": "Регіони, у яких грали",
+			"username-history": "Історія імен користувача",
+			"ranked-sessions": {
+				"title": "Сеанси рангового режиму",
+				"1": "Ця діаграма відображує останні сеанси профілю та їх ранг після кожного сеансу.",
+				"2": "Ви можете навести курсор на окремі точки, щоб побачити деталі сеансу.",
+				"3": "Ви можете масштабувати, перетягуючи діапазон, і переміщати, утримуючи клавішу Ctrl та перетягуючи."
+			},
+			"past-24-hours": "За останні 24 години",
+			"past-7-days": "За останні 7 днів",
+			"past-30-days": "За останні 30 днів",
+			"wl-streak": "WL Стрічка",
+			"rp-change": "Зміна RP",
+			"update-time-out": "Час оновлення вийшов. Оновіть сторінку, і це буде зроблено найближчим часом.",
+			"rank-reset-due-to-ban": "Скидання рангу через заборону",
+			"no-matches-played": "Не було зіграно жодного матчу",
+			"match-count": "{count} матчів",
+			"update": {
+				"update": "Оновити",
+				"updating": "Оновлення",
+				"updated": "Оновлено",
+				"failed": "Не вдалося",
+				"timeout": "Час оновлення вийшов. Оновіть сторінку, і це буде зроблено найближчим часом.",
+				"tooltip": {
+					"1": "Цей профіль ще не може бути оновлений.",
+					"2": "Ви можете залишитися на цій сторінці та очікувати автоматичного оновлення.",
+					"3": "Щоб оновити профіль вручну, натисніть кнопку «Оновити»."
+				}
+			},
+			"seasons": {
+				"title": "Seasons",
+				"old-seasons-banner": "Old seasons data will be added in the future."
+			},
+			"played-with": {
+				"title": "Played With",
+				"info-banner": "People {username} played with or against this season",
+				"no-played-with": "{username} hasn't played with anyone yet"
+			},
+			"report": {
+				"title": "Report"
+			},
+			"sessions": {
+				"no-sessions": "No sessions found based on your filters."
+			}
+		}
+	}
+}

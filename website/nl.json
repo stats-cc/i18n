@@ -1,0 +1,295 @@
+{
+	"common": {
+		"players": "spelers",
+		"matches": "wedstrijden",
+		"pc": "PC",
+		"console": "console",
+		"all": "alle",
+		"name": "naam",
+		"mmr": "mmr",
+		"rank": "rang",
+		"level": "niveau",
+		"reason": "reden",
+		"date": "datum",
+		"no-data": "geen gegevens",
+		"no-results": "geen resultaten",
+		"view-details": "bekijk details",
+		"copy": "kopiëren",
+		"copied!": "gekopieerd!",
+		"kd": "KD",
+		"wr": "WR",
+		"kills": "kills",
+		"deaths": "doden",
+		"assists": "assists",
+		"wins": "wint",
+		"losses": "verliezen",
+		"views": "weergaven",
+		"show-all": "toon alles",
+		"show-less": "toon minder",
+		"show-more": "toon meer",
+		"kpm": "KPM",
+		"kills-per-match": "kills per wedstrijd",
+		"max-rank": "max rang",
+		"missing-data": "ontbrekende gegevens",
+		"rp": "{amount} RP",
+		"current": "huidig",
+		"season": "seizoen",
+		"won": "gewonnen",
+		"lost": "verloren",
+		"win": "winst",
+		"loss": "verlies",
+		"draw": "gelijkspel",
+		"tie": "gelijkspel",
+		"rollback": "terugdraaien",
+		"win-short": "W",
+		"loss-short": "L",
+		"email": "e-mail",
+		"category": "categorie",
+		"message": "bericht",
+		"submit": "verzenden"
+	},
+	"social": {
+		"follow-us-twitter": "Volg ons op Twitter",
+		"join-our-discord": "Word lid van onze Discord",
+		"marketplace-subreddit": "Siege Marketplace Subreddit"
+	},
+	"footer": {
+		"extra-pages": "Extra pagina's",
+		"contact-us": "Neem contact met ons op",
+		"roadmap": "Routekaart",
+		"privacy-policy": "Privacybeleid",
+		"terms-of-service": "Gebruiksvoorwaarden",
+		"social-media": "Sociale media",
+		"language": "Taal",
+		"discord-server": "Discord-server",
+		"twitter-account": "Twitter-account",
+		"reddit-marketplace-subreddit": "Siege Marketplace Subreddit",
+		"partners": "Partners"
+	},
+	"search": {
+		"profiles": "Zoek profielen",
+		"clear-recents": "Wis recente zoekopdrachten",
+		"force-search": "Forceer zoeken",
+		"no-players-found": "Geen spelers gevonden",
+		"error": "Fout bij het zoeken: {error}",
+		"search-results": "{count} zoekresultaten"
+	},
+	"contact-us": {
+		"title": "Neem contact met ons op",
+		"description": "We horen graag van u! Vul het onderstaande formulier in of stuur ons een e-mail naar {0}.",
+		"fill-out-all-fields": "Vul alstublieft alle velden in.",
+		"fields-are-invalid": "De volgende velden zijn ongeldig: {fields}",
+		"error-occured": "Er is een fout opgetreden bij het verzenden van uw bericht.",
+		"submitted": "Uw aanvraag is ingediend, we zullen binnenkort antwoorden via e-mail."
+	},
+	"misc": {
+		"help-translate": "Wil je helpen bij het vertalen van de site? Kom naar onze Discord en vraag het!"
+	},
+	"siege": {
+		"home": {
+			"title": "Home",
+			"player-search": "Speler zoeken",
+			"top-pc-players": "Top PC-spelers",
+			"top-console-players": "Top Console-spelers",
+			"search-a-profile": "Zoek een profiel..."
+		},
+		"gamemodes": {
+			"all": "Alle",
+			"ranked": "Gerangschikt",
+			"casual": "Casual",
+			"events": "Evenement",
+			"warmup": "Opwarmen",
+			"standard": "Standaard"
+		},
+		"leaderboards": {
+			"title": "Leaderboards",
+			"BAD-player-count": "{count} spelers",
+			"BAD-percent-of-players": "{percent} van alle spelers",
+			"top-percent": "Top {percent}%",
+			"total-players": "{count} spelers",
+			"last-update": "Bijgewerkt op {date}"
+		},
+		"bans": {
+			"title": "Verboden",
+			"recent-bans-data": "Recente Verbanningsgegevens",
+			"period": {
+				"all-time": "Altijd",
+				"month": "Maand",
+				"week": "Week",
+				"day": "Dag"
+			},
+			"n-recent-bans": "{count} Recente Verboden",
+			"n-bans": "{count} Verboden",
+			"no-bans-found-for-reason": "Geen verboden gevonden voor {reason}",
+			"reason": {
+				"title": "Verbodsreden",
+				"all": "Alle",
+				"battleye": "BattlEye",
+				"boosted": "Boosted",
+				"botting": "Botting",
+				"cheating": "Cheating",
+				"tos-breach": "ToS Breach",
+				"ddos": "DDoS",
+				"toxic-behavior": "Toxisch Gedrag"
+			}
+		},
+		"marketplace": {
+			"title": "Marktplaats",
+			"price": "prijs",
+			"supply": "aanbod",
+			"demand": "vraag",
+			"currency": "valuta",
+			"r6-credits": "R6 Credits",
+			"price-change": "Prijsverandering",
+			"search": "Zoeken op itemnaam",
+			"top-items-by-price": "Topitems op prijs",
+			"top-items-by-price-change": "Topitems op prijsverandering",
+			"avg-price-short": "Gem. Prijs",
+			"avg-supply-short": "Gem. Aanbod",
+			"avg-demand-short": "Gem. Vraag",
+			"avg-price-last-7-days": "Gem. prijs laatste 7 dagen",
+			"24-hour-averages": "24 uur gemiddelden",
+			"7-day-averages": "7 dagen gemiddelden",
+			"1-year-averages": "1 jaar gemiddelden",
+			"season-released-in": "Uitgebracht in {ynsn}",
+			"item-removed-from-marketplace": "Dit item is verwijderd uit de marktplaats.",
+			"back-to-marketplace": "Terug naar de marktplaats",
+			"view-on-ubisoft": "Bekijk op Ubisoft",
+			"interval-price-history": "{interval} Prijs Geschiedenis",
+			"interval": {
+				"hourly": "Uurlijks",
+				"daily": "Dagelijks",
+				"weekly": "Wekelijks",
+				"monthly": "Maandelijks",
+				"quarterly": "Driemaandelijks",
+				"yearly": "Jaarlijks"
+			},
+			"faq": {
+				"title": "R6 Marktplaats FAQ",
+				"what-is-marketplace": {
+					"title": "Wat is de Rainbow Six Siege Marktplaats?",
+					"description": "De marktplaats is een plek waar je items voor Rainbow Six Siege kunt kopen en verkopen. Je kunt items van andere spelers kopen, of je kunt items verkopen die je zelf hebt ontgrendeld. Dit stelt je in staat om skins te kopen die eerder enorm zeldzaam waren en vergrendeld waren voor een specifiek account."
+				},
+				"what-currency": {
+					"title": "Welke valuta wordt gebruikt op de marktplaats?",
+					"description": "Je kunt alleen items kopen met R6 Credits, en je ontvangt alleen R6 Credits wanneer je een item verkoopt."
+				},
+				"how-can-i-trade": {
+					"title": "Hoe kan ik items ruilen?",
+					"description": "We zijn niet verbonden met Ubisoft, dus je moet je items ruilen op de officiële {0}.",
+					"description-link": "Rainbow Six Siege Marktplaats"
+				}
+			},
+			"filters": {
+				"title": "Filters",
+				"sort-by": {
+					"title": "Sorteer op",
+					"display-name": "Weergavenaam",
+					"average-price": "Gemiddelde prijs",
+					"price-change": "Prijsverandering"
+				},
+				"sort-order": {
+					"title": "Volgorde",
+					"ascending": "Oplopend (A > Z)",
+					"descending": "Aflopend (Z > A)"
+				},
+				"item-type": {
+					"none": "Geen",
+					"title": "Itemtype",
+					"weapon-skin": "Wapenskin",
+					"headgear": "Hoofddeksel",
+					"uniform": "Uniform",
+					"attachment-skin": "Bijlage Skin",
+					"charm": "Bedeltje",
+					"operator-portrait": "Operator Portret",
+					"card-background": "Kaart Achtergrond",
+					"drone-skin": "Drone Skin"
+				},
+				"operators": {
+					"title": "Operators"
+				},
+				"rarity": {
+					"title": "Zeldzaamheid"
+				},
+				"weapons": {
+					"title": "Wapens"
+				},
+				"seasons": {
+					"title": "Seizoenen"
+				},
+				"events": {
+					"title": "Evenementen"
+				},
+				"others": {
+					"title": "Overig"
+				}
+			}
+		},
+		"streaming-widget": {
+			"title": "Streaming Widget",
+			"description": "Streaming widgets zijn een geweldige manier om uw profielstatistieken weer te geven op uw livestream. Op dit moment is de onze vrij eenvoudig, maar in de toekomst zullen we veel meer aanpassingsmogelijkheden bieden. Momenteel ondersteunt het alleen gerangschikt, maar als je ondersteuning zoekt voor andere modi, neem dan contact met ons op via {0}.",
+			"widget-image-caption": "Dit is hoe onze widget eruitziet:",
+			"invalid-profile-link": "Ongeldige profiellink",
+			"how-to-use": {
+				"title": "Hoe te gebruiken",
+				"profile-link": "Profiellink...",
+				"your-widget-link": "Uw Streaming Widget Link",
+				"step-1": "1. Kopieer en plak uw profiellink in het onderstaande vak en klik op kopiëren",
+				"step-2": "2. Ga naar uw livestream-software en maak een \"Browser Source\" aan in het tabblad \"Bronnen\".",
+				"step-3": "3. Plak uw Streaming Widget Link in het veld \"Browser Source\".",
+				"step-4": "4. Pas de grootte en positionering van de widget naar wens aan."
+			}
+		},
+		"profile": {
+			"leaderboard-position": "Leaderboard Positie",
+			"failed-to-load": "Dit profiel kon niet worden geladen.",
+			"last-played": "Laatst gespeeld",
+			"current-season": "Huidig Seizoen",
+			"ranked-2-max-ranks": "Gerangschikt 2.0 Max Rangen",
+			"regions-played": "Gespeelde Regio's",
+			"username-history": "Gebruikersnaam Geschiedenis",
+			"ranked-sessions": {
+				"title": "Gerangschikte Sessies",
+				"1": "Deze grafiek toont de recente sessies van een profiel en hun rang na elke sessie.",
+				"2": "U kunt over individuele punten zweven om de details van een sessie te zien.",
+				"3": "U kunt inzoomen door over een bereik te slepen, en pannen door control ingedrukt te houden en te slepen."
+			},
+			"past-24-hours": "Afgelopen 24 Uur",
+			"past-7-days": "Afgelopen 7 Dagen",
+			"past-30-days": "Afgelopen 30 Dagen",
+			"wl-streak": "WL Reeks",
+			"rp-change": "RP Verandering",
+			"update-time-out": "Bijwerken time-out. Ververs de pagina en het zal binnenkort gebeuren.",
+			"rank-reset-due-to-ban": "Rangreset vanwege verbanning",
+			"no-matches-played": "Geen wedstrijden gespeeld",
+			"match-count": "{count} Wedstrijden",
+			"update": {
+				"update": "Bijwerken",
+				"updating": "Bijwerken",
+				"updated": "Bijgewerkt",
+				"failed": "Mislukt",
+				"timeout": "Bijwerken time-out. Ververs de pagina en het zal binnenkort gebeuren.",
+				"tooltip": {
+					"1": "Dit profiel kan nog niet worden bijgewerkt.",
+					"2": "U kunt op dit profiel blijven en het zal automatisch vernieuwen wanneer een update beschikbaar is, bijvoorbeeld wanneer de wedstrijd van de speler eindigt.",
+					"3": "Over het algemeen is het niet nodig om op deze vernieuwingsknop te drukken, maar het kan helpen als u vindt dat de gegevens van de profielen niet synchroon lopen."
+				}
+			},
+			"seasons": {
+				"title": "Seizoenen",
+				"old-seasons-banner": "Oude seizoensgegevens worden in de toekomst toegevoegd."
+			},
+			"played-with": {
+				"title": "Gespeeld Met",
+				"info-banner": "Mensen waarmee {username} dit seizoen heeft gespeeld",
+				"no-played-with": "{username} heeft nog niet met iemand gespeeld"
+			},
+			"report": {
+				"title": "Rapport"
+			},
+			"sessions": {
+				"no-sessions": "Geen sessies gevonden op basis van uw filters."
+			}
+		}
+	}
+}
