@@ -21,33 +21,33 @@
 		"kills": "kills",
 		"deaths": "doden",
 		"assists": "assists",
-		"wins": "wint",
-		"losses": "verliezen",
+		"wins": "wins",
+		"losses": "verloren",
 		"views": "weergaven",
 		"show-all": "toon alles",
 		"show-less": "toon minder",
 		"show-more": "toon meer",
 		"kpm": "KPM",
-		"kills-per-match": "kills per wedstrijd",
-		"max-rank": "max rang",
+		"kills-per-match": "kills per match",
+		"max-rank": "hoogste rank",
 		"missing-data": "ontbrekende gegevens",
-		"rp": "{amount} RP",
+		"rp": "{hoeveelheid} RP",
 		"current": "huidig",
 		"season": "seizoen",
 		"won": "gewonnen",
 		"lost": "verloren",
-		"win": "winst",
+		"win": "wins",
 		"loss": "verlies",
 		"draw": "gelijkspel",
 		"tie": "gelijkspel",
-		"rollback": "terugdraaien",
+		"rollback": "rp terug gekregen",
 		"win-short": "W",
 		"loss-short": "L",
 		"email": "e-mail",
 		"category": "categorie",
 		"message": "bericht",
 		"submit": "verzenden",
-		"new": "new"
+		"new": "nieuw"
 	},
 	"social": {
 		"follow-us-twitter": "Volg ons op Twitter",
@@ -96,9 +96,9 @@
 		},
 		"gamemodes": {
 			"all": "Alle",
-			"ranked": "Gerangschikt",
+			"ranked": "ranks",
 			"casual": "Casual",
-			"events": "Evenement",
+			"events": "Evenementen",
 			"warmup": "Opwarmen",
 			"standard": "Standaard"
 		},
@@ -112,18 +112,18 @@
 		},
 		"bans": {
 			"title": "Verboden",
-			"recent-bans-data": "Recente Verbanningsgegevens",
+			"recent-bans-data": "Recente bans",
 			"period": {
 				"all-time": "Altijd",
 				"month": "Maand",
 				"week": "Week",
 				"day": "Dag"
 			},
-			"n-recent-bans": "{count} Recente Verboden",
-			"n-bans": "{count} Verboden",
-			"no-bans-found-for-reason": "Geen verboden gevonden voor {reason}",
+			"n-recent-bans": "{count} Recente bans",
+			"n-bans": "{count} bans",
+			"no-bans-found-for-reason": "Geen bans gevonden voor {reason}",
 			"reason": {
-				"title": "Verbodsreden",
+				"title": "reden van ban",
 				"all": "Alle",
 				"battleye": "BattlEye",
 				"boosted": "Boosted",
@@ -131,7 +131,7 @@
 				"cheating": "Cheating",
 				"tos-breach": "ToS Breach",
 				"ddos": "DDoS",
-				"toxic-behavior": "Toxisch Gedrag"
+				"toxic-behavior": "Toxic Gedrag"
 			}
 		},
 		"marketplace": {
@@ -177,7 +177,7 @@
 				},
 				"how-can-i-trade": {
 					"title": "Hoe kan ik items ruilen?",
-					"description": "We zijn niet verbonden met Ubisoft, dus je moet je items ruilen op de officiële {0}.",
+					"description": "We zijn niet verbonden met Ubisoft, dus je moet je items ruilen op de officiële website van ubisooft marketplace {0}.",
 					"description-link": "Rainbow Six Siege Marktplaats"
 				}
 			},
@@ -201,7 +201,7 @@
 					"headgear": "Hoofddeksel",
 					"uniform": "Uniform",
 					"attachment-skin": "Bijlage Skin",
-					"charm": "Bedeltje",
+					"charm": "charm",
 					"operator-portrait": "Operator Portret",
 					"card-background": "Kaart Achtergrond",
 					"drone-skin": "Drone Skin"
@@ -228,7 +228,7 @@
 		},
 		"streaming-widget": {
 			"title": "Streaming Widget",
-			"description": "Streaming widgets zijn een geweldige manier om uw profielstatistieken weer te geven op uw livestream. Op dit moment is de onze vrij eenvoudig, maar in de toekomst zullen we veel meer aanpassingsmogelijkheden bieden. Momenteel ondersteunt het alleen gerangschikt, maar als je ondersteuning zoekt voor andere modi, neem dan contact met ons op via {0}.",
+			"description": "Streaming widgets zijn een geweldige manier om uw profielstatistieken weer te geven op uw livestream. Op dit moment is de onze vrij eenvoudig, maar in de toekomst zullen we veel meer aanpassingsmogelijkheden bieden. Momenteel ondersteunt het alleen je persoonlijke rank, maar als je ondersteuning zoekt voor andere modi, neem dan contact met ons op via {0}.",
 			"widget-image-caption": "Dit is hoe onze widget eruitziet:",
 			"invalid-profile-link": "Ongeldige profiellink",
 			"how-to-use": {
@@ -245,13 +245,13 @@
 			"leaderboard-position": "Leaderboard Positie",
 			"failed-to-load": "Dit profiel kon niet worden geladen.",
 			"last-played": "Laatst gespeeld",
-			"current-season": "Huidig Seizoen",
-			"ranked-2-max-ranks": "Gerangschikt 2.0 Max Rangen",
+			"current-season": "Huidige Seizoen",
+			"ranked-2-max-ranks": "Gerangschikt 2.0 Max Ranks",
 			"regions-played": "Gespeelde Regio's",
 			"username-history": "Gebruikersnaam Geschiedenis",
 			"ranked-sessions": {
-				"title": "Gerangschikte Sessies",
-				"1": "Deze grafiek toont de recente sessies van een profiel en hun rang na elke sessie.",
+				"title": "Ranked Sessies",
+				"1": "Deze grafiek toont de recente sessies van een profiel en hun ranks na elke sessie.",
 				"2": "U kunt over individuele punten zweven om de details van een sessie te zien.",
 				"3": "U kunt inzoomen door over een bereik te slepen, en pannen door control ingedrukt te houden en te slepen."
 			},
@@ -261,7 +261,7 @@
 			"wl-streak": "WL Reeks",
 			"rp-change": "RP Verandering",
 			"update-time-out": "Bijwerken time-out. Ververs de pagina en het zal binnenkort gebeuren.",
-			"rank-reset-due-to-ban": "Rangreset vanwege verbanning",
+			"rank-reset-due-to-ban": "Rankreset vanwege verbanning",
 			"no-matches-played": "Geen wedstrijden gespeeld",
 			"match-count": "{count} Wedstrijden",
 			"update": {
@@ -269,7 +269,7 @@
 				"updating": "Bijwerken",
 				"updated": "Bijgewerkt",
 				"failed": "Mislukt",
-				"timeout": "Bijwerken time-out. Ververs de pagina en het zal binnenkort gebeuren.",
+				"timeout": "Bijwerken time-out. Ververs de pagina en het zal veranderen.",
 				"tooltip": {
 					"1": "Dit profiel kan nog niet worden bijgewerkt.",
 					"2": "U kunt op dit profiel blijven en het zal automatisch vernieuwen wanneer een update beschikbaar is, bijvoorbeeld wanneer de wedstrijd van de speler eindigt.",
@@ -286,7 +286,7 @@
 				"no-played-with": "{username} heeft nog niet met iemand gespeeld"
 			},
 			"report": {
-				"title": "Rapport"
+				"title": "report"
 			},
 			"sessions": {
 				"no-sessions": "Geen sessies gevonden op basis van uw filters."
