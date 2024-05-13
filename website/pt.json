@@ -315,7 +315,7 @@
 		  "wl-streak":"Sequência WL"
 	   },
 	   "streaming-widget":{
-		  "description":"Widgets são uma ótima maneira de exibir as estatísticas do seu perfil na sua transmissão ao vivo. Por enquanto, o nosso é bastante simples, suportando apenas partidas classificadas (ranked), mas no futuro forneceremos muito mais personalização. Se você estiver procurando suporte para outros modos, entre em contato conosco em {0}.",
+		  "description":"Widgets são uma ótima maneira de exibir as estatísticas do seu perfil na sua transmissão ao vivo. Por enquanto, o nosso é bastante simples, suportando apenas partidas classificadas (ranked), mas no futuro forneceremos muito mais personalização. Se você estiver procurando suporte para outros modos, entre em contato conosco no {0}.",
 		  "how-to-use":{
 			 "profile-link":"Link do Perfil...",
 			 "step-1":"1. Copie e cole o link do seu perfil na caixa abaixo e clique em copiar",
