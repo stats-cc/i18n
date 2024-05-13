@@ -296,41 +296,41 @@
 	"seo": {
 		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
 		"home": {
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+			"description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します"
 		},
 		"streaming-widget": {
-			"title": "Streaming Widget",
-			"description": "Display your siege profile stats on your livestream with our streaming widget."
+			"title": "ストリーミングウィジェット",
+			"description": "ストリーミングウィジェットであなたのシージプロフィール統計をライブストリームに表示します"
 		},
 		"siege": {
-			"title": "All Rainbow Six Siege Stats",
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"title": "全レインボーシックスシージ統計",
+			"description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します",
 			"bans": {
-				"title": "Recent Bans",
-				"description": "Recent bans for Rainbow Six: Siege"
+				"title": "最近の禁止",
+				"description": "レインボーシックスシージの最近の禁止"
 			},
 			"leaderboards": {
-				"title": "{platform} Leaderboards",
-				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+				"title": "{platform} リーダーボード",
+				"description": "レインボーシックスシージのトップ 10,000 {platform} プレイヤーを表示します"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "シージマーケットプレイス - Stats.CC - レインボーシックスシージマーケットプレイス統計 & アナリティクス",
+				"description": "R6シージのマーケットプレイスには、詳細なアイテム価格分析と統計があります。レインボーシックスシージアイテムの過去の価格を表示します。",
 				"item": {
-					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
-					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+					"title": "シージマーケットプレイス - {itemName} - レインボーシックスシージマーケットプレイス統計 & アナリティクス",
+					"description": "レインボーシックスシージアイテム {itemName} の歴史的なマーケットプレイス価格データ"
 				}
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"description": "{username} のレインボーシックスシージシーズンプロフィール統計を表示します",
 				"played-with": {
-					"title": "{username} Played With",
-					"description": "View who {username} plays against or with the most, and how many times they've played."
+					"title": "{username} と一緒にプレイ",
+					"description": "{username} が最も対戦したプレイヤー、または一緒にプレイした回数を表示します"
 				},
 				"seasons": {
-					"title": "{username} Seasons",
-					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+					"title": "{username} シーズン",
+					"description": "{username} のレインボーシックスシージランクシーズン履歴を表示します。"
 				}
 			}
 		}
