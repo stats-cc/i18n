@@ -262,8 +262,8 @@
 			"rp-change": "Changement de RP",
 			"update-time-out": "Mise à jour expirée. Actualisez la page et elle sera bientôt effectuée.",
 			"rank-reset-due-to-ban": "Réinitialisation du Classement en raison d'un Bannissement",
-			"no-matches-played": "Aucune partie jouée",
-			"match-count": "{count} Partidas",
+			"no-matches-played": "Aucunes parties jouées",
+			"match-count": "{count} Parties",
 			"update": {
 				"update": "Actualiser",
 				"updating": "Mise à Jour",
