@@ -1,0 +1,77 @@
+import { describe, it, assert, expect, test } from "vitest";
+import { readdirSync, readFileSync } from "node:fs";
+import englishTranslation from "./website/en.json";
+
+const testFilePaths = readdirSync("./website").filter((file) => file !== "en.json");
+const testFiles = testFilePaths.map((path) => [path, readFileSync(`./website/${path}`, "utf-8")]);
+
+describe("translations", () => {
+	it.each(testFiles)("should be valid json", (path, content) => {
+		assert.doesNotThrow(() => JSON.parse(content));
+	});
+
+	it.each(testFiles)("should have all the same keys as the english file %s", (path, content) => {
+		const fileJSON = JSON.parse(content);
+		const englishKeys = getObjectKeysDeep(englishTranslation);
+		expect(getObjectKeysDeep(fileJSON)).toEqual(englishKeys);
+	});
+
+	it.each(testFiles)(
+		"each translation should still have replacement variables present",
+		(path, content) => {
+			const fileJSON = JSON.parse(content);
+			const englishKeyReplacements = getObjectReplacementValuesByKey(englishTranslation);
+			expect(getObjectReplacementValuesByKey(fileJSON)).toEqual(englishKeyReplacements);
+		}
+	);
+});
+
+test("getObjectKeysDeep", () => {
+	expect(getObjectKeysDeep({ a: { b: 5 } })).toEqual(["a", "a.b"]);
+	expect(getObjectKeysDeep({ a: { b: { c: 5 } } })).toEqual(["a", "a.b", "a.b.c"]);
+	expect(getObjectKeysDeep({ a: { b: { c: 5, d: 6 } } })).toEqual(["a", "a.b", "a.b.c", "a.b.d"]);
+});
+
+function getObjectReplacementValuesByKey(obj: Record<string, any>) {
+	const englishKeys: string[] = getObjectKeysDeep(obj);
+
+	const englishKeyReplacements: Record<string, string[]> = {};
+	englishKeys.forEach((key) => {
+		const keyValue: any = key.split(".").reduce((acc, key) => acc[key], obj);
+		if (typeof keyValue !== "string") {
+			return;
+		}
+
+		// Find all strings between curly braces
+		const regex = /{(.*?)}/;
+		const matches = keyValue.match(regex);
+		if (!matches) {
+			return;
+		}
+
+		if (!englishKeyReplacements[key]) {
+			englishKeyReplacements[key] = [];
+		}
+
+		englishKeyReplacements[key].push(matches[0]);
+	});
+
+	return englishKeyReplacements;
+}
+
+/**
+ * Gets all the keys of an object, including nested objects.
+ * Nested keys should be separated by a dot.
+ *
+ * example:
+ *  {a: {b: 5}} => ["a.b"]
+ *  {a: {b: {c: 5}}} => ["a.b.c"]
+ *
+ * @param obj an object
+ */
+function getObjectKeysDeep(obj: any) {
+	return Object.keys(obj)
+		.filter((key) => obj[key] instanceof Object)
+		.map((key) => getObjectKeysDeep(obj[key]).map((k) => `${key}.${k}`))
+		.reduce((x, y) => x.concat(y), Object.keys(obj));
+}
