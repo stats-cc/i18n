@@ -19,8 +19,8 @@
 		"kd": "KD",
 		"wr": "WR",
 		"kills": "uccisioni",
-		"deaths": "morte",
-		"assists": "assist",
+		"deaths": "morti",
+		"assists": "assists",
 		"wins": "vittorie",
 		"losses": "sconfitte",
 		"views": "visualizzazioni",
@@ -56,7 +56,7 @@
 	"footer": {
 		"extra-pages": "Pagine Extra",
 		"contact-us": "Contattaci",
-		"roadmap": "Piano di Lavoro",
+		"roadmap": "Roadmap",
 		"privacy-policy": "Politica sulla Privacy",
 		"terms-of-service": "Termini di Servizio",
 		"social-media": "Social Media",
@@ -88,7 +88,7 @@
 	"siege": {
 		"home": {
 			"title": "Home",
-			"player-search": "Ricerca Giocatore",
+			"player-search": "Cerca Giocatore",
 			"top-pc-players": "Migliori Giocatori PC",
 			"top-console-players": "Migliori Giocatori Console",
 			"search-a-profile": "Cerca un profilo..."
@@ -96,7 +96,7 @@
 		"gamemodes": {
 			"all": "Tutti",
 			"ranked": "Classificata",
-			"casual": "Casuale",
+			"casual": "Casual",
 			"events": "Evento",
 			"warmup": "Riscaldamento",
 			"standard": "Standard"
@@ -113,7 +113,7 @@
 			"title": "Ban",
 			"recent-bans-data": "Dati Ban Recenti",
 			"period": {
-				"all-time": "Tutto il Tempo",
+				"all-time": "Sempre",
 				"month": "Mese",
 				"week": "Settimana",
 				"day": "Giorno"
@@ -134,16 +134,16 @@
 			}
 		},
 		"marketplace": {
-			"title": "Mercato",
+			"title": "Marketplace",
 			"price": "prezzo",
 			"supply": "offerta",
 			"demand": "domanda",
 			"currency": "valuta",
-			"r6-credits": "R6 Crediti",
-			"price-change": "Cambiamento Prezzo",
+			"r6-credits": "Crediti R6",
+			"price-change": "Variazione Prezzo",
 			"search": "Cerca per nome oggetto",
 			"top-items-by-price": "Oggetti Migliori per Prezzo",
-			"top-items-by-price-change": "Oggetti Migliori per Cambiamento Prezzo",
+			"top-items-by-price-change": "Oggetti Migliori per Variazione Prezzo",
 			"avg-price-short": "Prezzo Medio",
 			"avg-supply-short": "Offerta Media",
 			"avg-demand-short": "Domanda Media",
@@ -153,7 +153,7 @@
 			"1-year-averages": "Medie 1 anno",
 			"season-released-in": "Rilasciato in {ynsn}",
 			"item-removed-from-marketplace": "Questo oggetto è stato rimosso dal marketplace.",
-			"back-to-marketplace": "Torna al Mercato",
+			"back-to-marketplace": "Torna al Marketplace",
 			"view-on-ubisoft": "Visualizza su Ubisoft",
 			"interval-price-history": "Cronologia Prezzo {interval}",
 			"interval": {
@@ -165,19 +165,19 @@
 				"yearly": "Annuale"
 			},
 			"faq": {
-				"title": "FAQ Mercato R6",
+				"title": "FAQ Marketplace R6",
 				"what-is-marketplace": {
-					"title": "Cos'è il Mercato di Rainbow Six Siege?",
-					"description": "Il mercato è un luogo dove puoi acquistare e vendere oggetti per Rainbow Six Siege. Puoi acquistare oggetti da altri giocatori, o puoi vendere oggetti che hai sbloccato tu stesso. Questo ti permette di acquistare skin che erano precedentemente estremamente rare e bloccate su un account specifico."
+					"title": "Cos'è il Marketplace di Rainbow Six Siege?",
+					"description": "Il Marketplace è un luogo dove puoi acquistare e vendere oggetti per Rainbow Six Siege. Puoi acquistare oggetti da altri giocatori, o puoi vendere oggetti che hai sbloccato tu stesso. Questo ti permette di acquistare skin che erano precedentemente estremamente rare e bloccate su un account specifico."
 				},
 				"what-currency": {
-					"title": "Qual è la valuta utilizzata nel mercato?",
-					"description": "Puoi acquistare solo oggetti con R6 Crediti, e riceverai solo R6 Crediti quando vendi un oggetto."
+					"title": "Qual è la valuta utilizzata nel Marketplace?",
+					"description": "Puoi acquistare oggetti solo con Crediti R6, e riceverai solo Crediti R6 quando vendi un oggetto."
 				},
 				"how-can-i-trade": {
 					"title": "Come posso scambiare oggetti?",
 					"description": "Non siamo affiliati con Ubisoft, quindi dovrai scambiare i tuoi oggetti sul sito ufficiale di {0}.",
-					"description-link": "Mercato di Rainbow Six Siege"
+					"description-link": "Marketplace di Rainbow Six Siege"
 				}
 			},
 			"filters": {
@@ -186,10 +186,10 @@
 					"title": "Ordina per",
 					"display-name": "Nome Visualizzato",
 					"average-price": "Prezzo Medio",
-					"price-change": "Cambiamento Prezzo"
+					"price-change": "Variazione Prezzo"
 				},
 				"sort-order": {
-					"title": "Ordine",
+					"title": "Ordinamento",
 					"ascending": "Crescente (A > Z)",
 					"descending": "Decrescente (Z > A)"
 				},
@@ -199,8 +199,8 @@
 					"weapon-skin": "Skin Arma",
 					"headgear": "Copricapo",
 					"uniform": "Uniforme",
-					"attachment-skin": "Skin Allegato",
-					"charm": "Charm",
+					"attachment-skin": "Skin Accessori",
+					"charm": "Ciondolo",
 					"operator-portrait": "Ritratto Operatore",
 					"card-background": "Sfondo Carta",
 					"drone-skin": "Skin Drone"
@@ -226,53 +226,53 @@
 			}
 		},
 		"streaming-widget": {
-			"title": "Widget Streaming",
-			"description": "I widget di streaming sono un ottimo modo per mostrare le statistiche del tuo profilo durante il live streaming. Per ora, il nostro è piuttosto semplice, ma in futuro forniremo molta più personalizzazione. Attualmente supporta solo la classificata, ma se stai cercando il supporto per altri modalità, ti preghiamo di contattarci su {0}.",
+			"title": "Streaming Widget",
+			"description": "I widget per lo streaming sono un ottimo modo per mostrare le statistiche del tuo profilo durante il live streaming. Per ora, il nostro è piuttosto semplice, ma in futuro forniremo molta più personalizzazione. Attualmente supporta solo statistiche per la modalità classificata, ma se stai cercando il supporto per altre modalità, ti preghiamo di contattarci su {0}.",
 			"widget-image-caption": "Ecco come appare il nostro widget:",
 			"invalid-profile-link": "Link profilo non valido",
 			"how-to-use": {
 				"title": "Come Usare",
 				"profile-link": "Link Profilo...",
-				"your-widget-link": "Il Tuo Link Widget Streaming",
+				"your-widget-link": "Il Link Del Tuo Streaming Widget",
 				"step-1": "1. Copia e incolla il link del tuo profilo nella casella sottostante e fai clic su copia",
 				"step-2": "2. Vai al tuo software di live streaming e crea una \"Fonte Browser\" nella scheda \"Fonti\".",
-				"step-3": "3. Incolla il tuo link del Widget Streaming nel campo \"Fonte Browser\".",
+				"step-3": "3. Incolla il link del tuo streaming widget nel campo \"Fonte Browser\".",
 				"step-4": "4. Regola le dimensioni e la posizione del widget come desideri."
 			}
 		},
 		"profile": {
 			"leaderboard-position": "Posizione in Classifica",
-			"failed-to-load": "Questo profilo non è riuscito a caricare.",
-			"last-played": "Ultimo Giocato",
+			"failed-to-load": "Non è stato possibile caricare questo profilo.",
+			"last-played": "Giocato per l'ultima volta",
 			"current-season": "Stagione Attuale",
-			"ranked-2-max-ranks": "Classificata 2.0 Gradazioni Massime",
+			"ranked-2-max-ranks": "Gradi Massimi in Classificata 2.0",
 			"regions-played": "Regioni Giocate",
 			"username-history": "Cronologia Nomi Utente",
 			"ranked-sessions": {
-				"title": "Sessioni Classificate",
+				"title": "Sessioni di Partite Classificate",
 				"1": "Questo grafico mostra le sessioni recenti di un profilo e il loro grado dopo ogni sessione.",
 				"2": "Puoi passare il mouse su singoli punti per vedere i dettagli di una sessione.",
-				"3": "Puoi ingrandire trascinando su un intervallo e spostare tenendo premuto il controllo e trascinando."
+				"3": "Puoi ingrandire evidenziando un intervallo e spostare tenendo premuto control e trascinando."
 			},
 			"past-24-hours": "Ultime 24 Ore",
 			"past-7-days": "Ultimi 7 Giorni",
 			"past-30-days": "Ultimi 30 Giorni",
-			"wl-streak": "Streak VW",
-			"rp-change": "Cambiamento RP",
-			"update-time-out": "Aggiornamento scaduto. Aggiorna la pagina e verrà fatto presto.",
-			"rank-reset-due-to-ban": "Resetta grado a causa di ban",
+			"wl-streak": "Streak WL",
+			"rp-change": "Variazione RP",
+			"update-time-out": "Tempo per l'aggiornamento scaduto. Aggiorna la pagina e verrà fatto presto.",
+			"rank-reset-due-to-ban": "Grado resettato a causa di ban",
 			"no-matches-played": "Nessuna partita giocata",
 			"match-count": "{count} Partite",
 			"update": {
 				"update": "Aggiorna",
-				"updating": "Aggiornamento",
+				"updating": "Aggiornando",
 				"updated": "Aggiornato",
-				"failed": "Fallito",
-				"timeout": "Aggiornamento scaduto. Aggiorna la pagina e verrà fatto presto.",
+				"failed": "Aggiornamento Fallito",
+				"timeout": "Tempo per l'aggiornamento scaduto. Aggiorna la pagina e verrà fatto presto.",
 				"tooltip": {
 					"1": "Questo profilo non può essere aggiornato ancora.",
 					"2": "Puoi rimanere su questo profilo e verrà aggiornato automaticamente quando sarà disponibile un aggiornamento, ad esempio quando la partita del giocatore finisce.",
-					"3": "In generale, premere questo pulsante di aggiornamento non è necessario, ma può aiutare se ritieni che i dati dei profili siano fuori sincronia."
+					"3": "Generalmente, premere questo pulsante di aggiornamento non è necessario, ma può aiutare se ritieni che i dati del profilo non siano sincronizzati."
 				}
 			},
 			"seasons": {
@@ -281,8 +281,8 @@
 			},
 			"played-with": {
 				"title": "Giocato Con",
-				"info-banner": "Le persone con cui {username} ha giocato o contro questa stagione",
-				"no-played-with": "{username} non ha giocato con nessuno ancora"
+				"info-banner": "Le persone con cui {username} ha giocato insieme o contro questa stagione",
+				"no-played-with": "{username} non ha ancora giocato con nessuno"
 			},
 			"report": {
 				"title": "Segnala"
