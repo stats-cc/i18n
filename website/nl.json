@@ -294,43 +294,43 @@
 		}
 	},
 	"seo": {
-		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
+		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Speler statistieken",
 		"home": {
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+			"description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer"
 		},
 		"streaming-widget": {
 			"title": "Streaming Widget",
-			"description": "Display your siege profile stats on your livestream with our streaming widget."
+			"description": "Toon jouw siege profiel statistieken op jouw livestream met onze streaming ."
 		},
 		"siege": {
-			"title": "All Rainbow Six Siege Stats",
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"title": "Alle Rainbow Six Siege statistieken",
+			"description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer",
 			"bans": {
-				"title": "Recent Bans",
-				"description": "Recent bans for Rainbow Six: Siege"
+				"title": "Recente bans",
+				"description": "Recente bans voor Rainbow Six: Siege"
 			},
 			"leaderboards": {
 				"title": "{platform} Leaderboards",
-				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+				"description": "bekijk de top 10,000 {platform} spelers op Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "Siege Marketplaats - Stats.CC - Rainbow Six Siege Marketplaats statistieken & Analyses",
+				"description": "R6 Siege Marketplaats met tot in de diepte item prijzen analyses en statistieken. bekijk de oude prijzen van rainbow six siege items.",
 				"item": {
-					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
-					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+					"title": "Siege Marketplaats - {itemName} - Rainbow Six Siege Marketplaats statistieken & Analyses",
+					"description": "Oude markplaats data voor Rainbow Six Siege item {itemName}"
 				}
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"description": "bekijk {username}'s Rainbow Six Siege seizoensgebonden profiel statistieken",
 				"played-with": {
-					"title": "{username} Played With",
-					"description": "View who {username} plays against or with the most, and how many times they've played."
+					"title": "{username} Gespeeld met",
+					"description": "bekijk wie {username} het meest of met gespeeld heeft"
 				},
 				"seasons": {
-					"title": "{username} Seasons",
-					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+					"title": "{username} Seizoenen",
+					"description": "bekijk {username}'s Rainbow Six Siege ranked seizoenen historie inclusief statistieken, hoogste rank, en more."
 				}
 			}
 		}
