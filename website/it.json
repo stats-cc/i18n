@@ -293,43 +293,43 @@
 		}
 	},
 	"seo": {
-		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
+		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Statistiche Giocatore",
 		"home": {
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+			"description": "Vedi le statistiche giocatore per Rainbow Six Siege, classifiche migliori giocatori, e altro"
 		},
 		"streaming-widget": {
 			"title": "Streaming Widget",
-			"description": "Display your siege profile stats on your livestream with our streaming widget."
+			"description": "Visualizza le statistiche del tuo profilo siege sul tuo livestream con il nostro streaming widget."
 		},
 		"siege": {
-			"title": "All Rainbow Six Siege Stats",
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"title": "Tutte le Statistiche di Rainbow Six Siege",
+			"description": "Vedi le statistiche giocatore per Rainbow Six Siege, classifiche migliori giocatori, e altro",
 			"bans": {
-				"title": "Recent Bans",
-				"description": "Recent bans for Rainbow Six: Siege"
+				"title": "Ban Recenti",
+				"description": "Ban Recenti su Rainbow Six: Siege"
 			},
 			"leaderboards": {
-				"title": "{platform} Leaderboards",
-				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+				"title": "Classifiche {platform}",
+				"description": "Vedi i migliori 10,000 giocatori di {platform} su Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Statistiche & Approfondimenti",
+				"description": "R6 Siege Marketplace con analisi e statistiche approfondite sui prezzi degli oggetti. Visualizza la cronologia dei prezzi degli oggetti di rainbow six siege.",
 				"item": {
-					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
-					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Statistiche & Approfondimenti",
+					"description": "Dati cronologici dei prezzi di mercato per l'oggetto {itemName} di Rainbow Six Siege."
 				}
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"description": "vedi le statistiche stagionali di Rainbow Six Siege per {username}",
 				"played-with": {
-					"title": "{username} Played With",
-					"description": "View who {username} plays against or with the most, and how many times they've played."
+					"title": "{username} Ha Giocato Con",
+					"description": "Vedi con chi {username} ha giocato maggiormente contro oppure insieme, e quante volte lo hanno fatto."
 				},
 				"seasons": {
-					"title": "{username} Seasons",
-					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+					"title": "{username} Stagioni",
+					"description": "Vedi la cronologia delle informazioni ranked stagionali di Rainbow Six Siege per {username} comprese statistiche, grado massimo, e altro."
 				}
 			}
 		}
