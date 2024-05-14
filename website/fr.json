@@ -311,7 +311,7 @@
 			},
 			"leaderboards": {
 				"title": "{platform} Classements",
-				"description": "Découvrez les 10 000 meilleurs joueurs de Rainbow Six Siege"
+				"description": "Découvrez les 10 000 meilleurs joueurs {platform} de Rainbow Six Siege "
 			},
 			"marketplace": {
 				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
