@@ -46,7 +46,8 @@
 		"email": "email",
 		"category": "categoria",
 		"message": "messaggio",
-		"submit": "invia"
+		"submit": "invia",
+		"new": "nuova"
 	},
 	"social": {
 		"follow-us-twitter": "Seguici su Twitter",
