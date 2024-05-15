@@ -52,7 +52,7 @@
 	"social": {
 		"follow-us-twitter": "Слідкуйте за нами на Twitter",
 		"join-our-discord": "Приєднуйтесь до нашого Discord",
-		"marketplace-subreddit": "subreddit Маркетплейсу"
+		"marketplace-subreddit": "subreddit Торгового Майданчику"
 	},
 	"footer": {
 		"extra-pages": "Додаткові сторінки",
@@ -64,7 +64,7 @@
 		"language": "Мова",
 		"discord-server": "Сервер Discord",
 		"twitter-account": "Обліковий запис Twitter",
-		"reddit-marketplace-subreddit": "subreddit Маркетплейсу",
+		"reddit-marketplace-subreddit": "subreddit Торгового Майданчику",
 		"partners": "Партнери"
 	},
 	"search": {
@@ -84,7 +84,7 @@
 		"submitted": "Ваш запит надіслано, ми відповімо за допомогою електронної пошти найближчим часом."
 	},
 	"misc": {
-		"help-translate": "Хочете допомогти перекласти сайт? Приєднуйтесь до нашого Discord і запитайте!"
+		"help-translate": "Хочете допомогти перекласти сайт? Приєднуйтесь до нашого Discord!"
 	},
 	"siege": {
 		"home": {
@@ -154,7 +154,7 @@
 			"1-year-averages": "Середні за 1 рік",
 			"season-released-in": "Випущено у {ynsn}",
 			"item-removed-from-marketplace": "Цей товар був вилучений з торгового майданчику.",
-			"back-to-marketplace": "Повернутися на торгову площадку",
+			"back-to-marketplace": "Повернутися на торговий майданчик",
 			"view-on-ubisoft": "Переглянути у Ubisoft",
 			"interval-price-history": "{interval} Історія цін",
 			"interval": {
@@ -201,7 +201,7 @@
 					"headgear": "Головні убори",
 					"uniform": "Уніформа",
 					"attachment-skin": "Скіни для кріплень",
-					"charm": "Оберіг",
+					"charm": "Підвіска",
 					"operator-portrait": "Портрети операторативників",
 					"card-background": "Фонові картки",
 					"drone-skin": "Скіни для дрона"
@@ -314,7 +314,7 @@
 				"description": "Подивитися топ 10,000 {platform} гравців у Rainbow Six: Облога"
 			},
 			"marketplace": {
-				"title": "Торговий Майданчик гри - Stats.CC - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога",
+				"title": "Торговий Майданчик - Stats.CC - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога",
 				"description": "Торговий Майданчик Облоги з глибокою аналітикою цін на предмети та статистикою. Перегляньте минулі ціни на предмети для гри",
 				"item": {
 					"title": "Торговий Майданчик Облоги - {itemName} - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога",
