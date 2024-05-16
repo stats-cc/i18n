@@ -1,7 +1,7 @@
 {
 	"common": {
-		"players": "гравці",
-		"matches": "матчі",
+		"players": "гравців",
+		"matches": "матчів",
 		"pc": "ПК",
 		"console": "консоль",
 		"all": "всі",
