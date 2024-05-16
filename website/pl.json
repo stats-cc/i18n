@@ -20,7 +20,7 @@
 		"wr": "WR",
 		"kills": "zabójstwa",
 		"deaths": "śmierci",
-		"assists": "wsparcia",
+		"assists": "asysty",
 		"wins": "wygrane",
 		"losses": "przegrane",
 		"views": "wyświetlenia",
@@ -32,7 +32,7 @@
 		"max-rank": "maks. ranga",
 		"missing-data": "brakujące dane",
 		"rp": "{amount} RP",
-		"current": "aktualny",
+		"current": "bieżący",
 		"season": "sezon",
 		"won": "wygrane",
 		"lost": "przegrane",
@@ -40,31 +40,31 @@
 		"loss": "przegrana",
 		"draw": "remis",
 		"tie": "remis",
-		"rollback": "cofnij",
+		"rollback": "rollback",
 		"win-short": "W",
 		"loss-short": "P",
 		"email": "email",
 		"category": "kategoria",
 		"message": "wiadomość",
 		"submit": "wyślij",
-		"new": "new"
+		"new": "nowa wiadomość"
 	},
 	"social": {
 		"follow-us-twitter": "Śledź nas na Twitterze",
 		"join-our-discord": "Dołącz do naszego Discorda",
-		"marketplace-subreddit": "Subreddit Rynku Rainbow Six Siege"
+		"marketplace-subreddit": "Subreddit Rainbow Six Siege Marketplace"
 	},
 	"footer": {
 		"extra-pages": "Dodatkowe strony",
 		"contact-us": "Skontaktuj się z nami",
-		"roadmap": "Mapa drogowa",
+		"roadmap": "Plan działania",
 		"privacy-policy": "Polityka prywatności",
 		"terms-of-service": "Warunki korzystania",
 		"social-media": "Media społecznościowe",
 		"language": "Język",
 		"discord-server": "Serwer Discord",
 		"twitter-account": "Konto na Twitterze",
-		"reddit-marketplace-subreddit": "Subreddit Rynku Rainbow Six Siege",
+		"reddit-marketplace-subreddit": "Subreddit Rainbow Six Siege Marketplace",
 		"partners": "Partnerzy"
 	},
 	"search": {
@@ -81,7 +81,7 @@
 		"fill-out-all-fields": "Proszę wypełnić wszystkie pola.",
 		"fields-are-invalid": "Następujące pola są nieprawidłowe: {fields}",
 		"error-occured": "Wystąpił błąd podczas wysyłania Twojej wiadomości.",
-		"submitted": "Wysłano Twoje zapytanie, odpowiemy wkrótce e-mailem."
+		"submitted": "Wysłano Twoje zapytanie, odpowiemy wkrótce wiadomością e-mail."
 	},
 	"misc": {
 		"help-translate": "Chcesz pomóc w tłumaczeniu strony? Dołącz do naszego Discorda i zapytaj!"
@@ -98,12 +98,12 @@
 			"all": "Wszystko",
 			"ranked": "Rankingowe",
 			"casual": "Casualowe",
-			"events": "Wydarzenie",
+			"events": "Eventowe",
 			"warmup": "Rozgrzewka",
 			"standard": "Standardowe"
 		},
 		"leaderboards": {
-			"title": "Tablice wyników",
+			"title": "Tabele wyników",
 			"BAD-player-count": "{count} graczy",
 			"BAD-percent-of-players": "{percent} wszystkich graczy",
 			"top-percent": "Top {percent}%",
@@ -112,46 +112,46 @@
 		},
 		"bans": {
 			"title": "Bany",
-			"recent-bans-data": "Dane o niedawnych banach",
+			"recent-bans-data": "Dane o ostatnich banach",
 			"period": {
 				"all-time": "Cały czas",
 				"month": "Miesiąc",
 				"week": "Tydzień",
 				"day": "Dzień"
 			},
-			"n-recent-bans": "{count} Niedawne Bany",
+			"n-recent-bans": "{count} Ostatnie Bany",
 			"n-bans": "{count} Bany",
 			"no-bans-found-for-reason": "Nie znaleziono banów dla {reason}",
 			"reason": {
 				"title": "Powód bana",
 				"all": "Wszystkie",
 				"battleye": "BattlEye",
-				"boosted": "Wzmocniony",
+				"boosted": "Boosting",
 				"botting": "Botting",
-				"cheating": "Czitowanie",
+				"cheating": "Cheating",
 				"tos-breach": "Naruszenie ToS",
 				"ddos": "DDoS",
-				"toxic-behavior": "Toksyniczne Zachowanie"
+				"toxic-behavior": "Toksyczne Zachowanie"
 			}
 		},
 		"marketplace": {
 			"title": "Rynek",
 			"price": "cena",
-			"supply": "dostawa",
+			"supply": "podaż",
 			"demand": "popyt",
 			"currency": "waluta",
-			"r6-credits": "R6 Kredyty",
+			"r6-credits": "Kredyty R6",
 			"price-change": "Zmiana ceny",
 			"search": "Wyszukaj według nazwy przedmiotu",
 			"top-items-by-price": "Najlepsze przedmioty według ceny",
 			"top-items-by-price-change": "Najlepsze przedmioty według zmiany ceny",
 			"avg-price-short": "Śr. Cena",
-			"avg-supply-short": "Śr. Dostawa",
+			"avg-supply-short": "Śr. Podaż",
 			"avg-demand-short": "Śr. Popyt",
 			"avg-price-last-7-days": "Śr. cena ostatnich 7 dni",
-			"24-hour-averages": "Średnie z 24 godzin",
-			"7-day-averages": "Średnie z 7 dni",
-			"1-year-averages": "Średnie z 1 roku",
+			"24-hour-averages": "Średnia z 24 godzin",
+			"7-day-averages": "Średnia z 7 dni",
+			"1-year-averages": "Średnia z 1 roku",
 			"season-released-in": "Wydane w {ynsn}",
 			"item-removed-from-marketplace": "Ten przedmiot został usunięty z rynku.",
 			"back-to-marketplace": "Powrót do Rynku",
@@ -173,7 +173,7 @@
 				},
 				"what-currency": {
 					"title": "Jaką walutę używamy na rynku?",
-					"description": "Możesz kupować przedmioty tylko za R6 Kredyty, a otrzymasz R6 Kredyty tylko wtedy, gdy sprzedasz przedmiot."
+					"description": "Możesz kupować przedmioty tylko za Kredyty R6, a otrzymasz Kredyty R6 tylko wtedy, gdy sprzedasz przedmiot."
 				},
 				"how-can-i-trade": {
 					"title": "Jak mogę handlować przedmiotami?",
@@ -197,14 +197,14 @@
 				"item-type": {
 					"none": "Brak",
 					"title": "Typ przedmiotu",
-					"weapon-skin": "Skórka broni",
-					"headgear": "Część głowy",
-					"uniform": "Mundur",
-					"attachment-skin": "Skórka akcesorium",
-					"charm": "Wisiorek",
+					"weapon-skin": "Malowanie broni",
+					"headgear": "Osprzęt głowy",
+					"uniform": "Uniform",
+					"attachment-skin": "Malowanie dodatku",
+					"charm": "Ozdoba",
 					"operator-portrait": "Portret operatora",
 					"card-background": "Tło karty",
-					"drone-skin": "Skórka drona"
+					"drone-skin": "Malowanie drona"
 				},
 				"operators": {
 					"title": "Operatorzy"
@@ -219,7 +219,7 @@
 					"title": "Sezony"
 				},
 				"events": {
-					"title": "Wydarzenia"
+					"title": "Eventy"
 				},
 				"others": {
 					"title": "Inne"
@@ -228,7 +228,7 @@
 		},
 		"streaming-widget": {
 			"title": "Widget transmisji",
-			"description": "Widgety transmisji są doskonałym sposobem na wyświetlanie statystyk Twojego profilu na żywo. Na razie nasz jest dość prosty, ale w przyszłości zapewnimy znacznie więcej możliwości dostosowania. Obecnie obsługuje tylko rankingowe, ale jeśli potrzebujesz wsparcia dla innych trybów, skontaktuj się z nami na {0}.",
+			"description": "Widgety transmisji są doskonałym sposobem na wyświetlanie statystyk Twojego profilu na żywo. Na razie nasz jest dość prosty, ale w przyszłości zapewnimy znacznie więcej możliwości dostosowania. Obecnie obsługuje tylko gry rankingowe, ale jeśli potrzebujesz wsparcia dla innych trybów, skontaktuj się z nami na {0}.",
 			"widget-image-caption": "Oto jak wygląda nasz widget:",
 			"invalid-profile-link": "Nieprawidłowy link profilu",
 			"how-to-use": {
@@ -242,11 +242,11 @@
 			}
 		},
 		"profile": {
-			"leaderboard-position": "Pozycja na liście rankingowej",
+			"leaderboard-position": "Pozycja na tabeli rankingowej",
 			"failed-to-load": "Nie udało się załadować tego profilu.",
 			"last-played": "Ostatnio grane",
 			"current-season": "Bieżący sezon",
-			"ranked-2-max-ranks": "Rangi 2.0 Maks. Rangi",
+			"ranked-2-max-ranks": "Ranked 2.0 Maks. Rangi",
 			"regions-played": "Regiony, w których grano",
 			"username-history": "Historia nazwy użytkownika",
 			"ranked-sessions": {
@@ -294,43 +294,43 @@
 		}
 	},
 	"seo": {
-		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
+		"title": "Siege Stats - Stats.CC {title} - Statystyki graczy Rainbow Six Siege",
 		"home": {
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+			"description": "Zobacz statystyki profili Rainbow Six Siege, tabele rankingowe najlepszych graczy i więcej"
 		},
 		"streaming-widget": {
-			"title": "Streaming Widget",
-			"description": "Display your siege profile stats on your livestream with our streaming widget."
+			"title": "Widget transmisji",
+			"description": "Wyświetl statystyki swojego profilu na twojej transmisji przy użyciu naszego widgetu transmisji."
 		},
 		"siege": {
-			"title": "All Rainbow Six Siege Stats",
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"title": "Wszystkie statystyki Rainbow Six Siege",
+			"description": "Zobacz statystyki profili Rainbow Six Siege, tabele rankingowe najlepszych graczy i więcej",
 			"bans": {
-				"title": "Recent Bans",
-				"description": "Recent bans for Rainbow Six: Siege"
+				"title": "Ostatnie Bany",
+				"description": "Ostatnie bany dla Rainbow Six: Siege"
 			},
 			"leaderboards": {
-				"title": "{platform} Leaderboards",
-				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+				"title": "Tabele rankingowe {platform}",
+				"description": "Zobacz najlepszych 10,000 graczy na {platform} w Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "Siege Marketplace - Stats.CC - Statystyki i Analizy Rynku Rainbow Six Siege",
+				"description": "R6 Siege Marketplace z dogłębnymi analizami i statystykami cen przedmiotów. Zobacz historyczne ceny przedmiotów rainbow six siege.",
 				"item": {
-					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
-					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+					"title": "Siege Marketplace - {itemName} - Statystyki i Analizy Rynku Rainbow Six Siege",
+					"description": "Historyczne dane cen rynkowych dla przedmiotu {itemName}"
 				}
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"description": "Zobacz statystyki sezonowe dla profilu {username} w Rainbow Six Siege",
 				"played-with": {
-					"title": "{username} Played With",
-					"description": "View who {username} plays against or with the most, and how many times they've played."
+					"title": "{username} Grał z",
+					"description": "Zobacz przeciwko komu albo z kim {username} grał najczęściej, oraz ile razy grali ze sobą."
 				},
 				"seasons": {
-					"title": "{username} Seasons",
-					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+					"title": "Sezony {username}",
+					"description": "Zobacz historię rankingową {username} włączając w to statystyki, maksymalną rangę i więcej."
 				}
 			}
 		}
