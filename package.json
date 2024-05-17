@@ -1,15 +1,10 @@
 {
-	"name": "i18n",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
+	"name": "@stats-cc/i18n",
+	"license": "Apache-2.0",
 	"scripts": {
 		"test": "vitest",
 		"test:once": "vitest run"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
 	"devDependencies": {
 		"@types/node": "^20.12.12",
 		"vitest": "^1.6.0"
