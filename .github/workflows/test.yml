@@ -1,4 +1,4 @@
-name: Continuous Delivery Frontend Nuxt
+name: Run tests
 
 on:
   push:
