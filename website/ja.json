@@ -120,7 +120,7 @@
 				"day": "日"
 			},
 			"n-recent-bans": "{count} 最近のban",
-			"n-bans": "{count} 禁止",
+			"n-bans": "{count} ban",
 			"no-bans-found-for-reason": "{reason} に対する禁止は見つかりませんでした",
 			"reason": {
 				"title": "禁止理由",
