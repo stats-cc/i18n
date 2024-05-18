@@ -323,7 +323,7 @@
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "{username} のレインボーシックスシージシーズンプロフィール統計を表示します",
+				"description": "{username} のレインボーシックスシージシーズンスタッツを表示します",
 				"played-with": {
 					"title": "{username} と一緒にプレイ",
 					"description": "{username} が最も対戦したプレイヤー、または一緒にプレイした回数を表示します"
