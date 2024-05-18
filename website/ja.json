@@ -121,7 +121,7 @@
 			},
 			"n-recent-bans": "{count} 最近のban",
 			"n-bans": "{count} ban",
-			"no-bans-found-for-reason": "{reason} に対する禁止は見つかりませんでした",
+			"no-bans-found-for-reason": "{reason} に対するbanは見つかりませんでした",
 			"reason": {
 				"title": "禁止理由",
 				"all": "すべて",
