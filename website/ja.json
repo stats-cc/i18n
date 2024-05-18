@@ -307,7 +307,7 @@
 			"description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します",
 			"bans": {
 				"title": "最近のban",
-				"description": "レインボーシックスシージの最近の禁止"
+				"description": "レインボーシックスシージの最近のban"
 			},
 			"leaderboards": {
 				"title": "{platform} リーダーボード",
