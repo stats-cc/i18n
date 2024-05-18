@@ -112,7 +112,7 @@
 		},
 		"bans": {
 			"title": "ban",
-			"recent-bans-data": "最近の禁止データ",
+			"recent-bans-data": "最近のbanデータ",
 			"period": {
 				"all-time": "すべての時間",
 				"month": "月",
