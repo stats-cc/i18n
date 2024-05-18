@@ -111,7 +111,7 @@
 			"last-update": "{date}に更新"
 		},
 		"bans": {
-			"title": "禁止",
+			"title": "ban",
 			"recent-bans-data": "最近の禁止データ",
 			"period": {
 				"all-time": "すべての時間",
