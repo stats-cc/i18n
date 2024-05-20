@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Marktplatz",
+			"title-short": "Marktplatz",
+			"title": "R6 Marktplatz",
 			"price": "Preis",
 			"supply": "Angebot",
 			"demand": "Nachfrage",
@@ -314,7 +315,7 @@
 				"description": "Schau dir die besten 10,000 {platform} Spieler in Rainbow Six Siege an"
 			},
 			"marketplace": {
-				"title": "Siege Marktplatz - Stats.CC - Rainbow Six Siege Marktplatz Statistiken & Analytik",
+				"title": "R6 Marktplatz - Rainbow Six Siege Marktplatz Statistiken & Analytik - Stats.CC",
 				"description": "R6 Siege Marktplatz mit detalierten Preis Alalysen und Statistiken. Finde historische Preise Rainbow von Six Siege Gegenständen.",
 				"item": {
 					"title": "Siege  - {itemName} - Rainbow Six Siege  Statistiken & Analytik",

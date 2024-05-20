@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Marktplaats",
+			"title-short": "Marktplaats",
+			"title": "R6 Marktplaats",
 			"price": "prijs",
 			"supply": "aanbod",
 			"demand": "vraag",
@@ -314,7 +315,7 @@
 				"description": "bekijk de top 10,000 {platform} spelers op Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplaats - Stats.CC - Rainbow Six Siege Marketplaats statistieken & Analyses",
+				"title": "R6 Marketplaats - Rainbow Six Siege Marketplaats statistieken & Analyses - Stats.CC",
 				"description": "R6 Siege Marketplaats met tot in de diepte item prijzen analyses en statistieken. bekijk de oude prijzen van rainbow six siege items.",
 				"item": {
 					"title": "Siege Marketplaats - {itemName} - Rainbow Six Siege Marketplaats statistieken & Analyses",

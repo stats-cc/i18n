@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Marketplace",
+			"title-short": "Marketplace",
+			"title": "R6 Marketplace",
 			"price": "prezzo",
 			"supply": "offerta",
 			"demand": "domanda",
@@ -314,7 +315,7 @@
 				"description": "Vedi i migliori 10,000 giocatori di {platform} su Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Statistiche & Approfondimenti",
+				"title": "R6 Marketplace - Rainbow Six Siege Marketplace Statistiche & Approfondimenti - Stats.CC",
 				"description": "R6 Siege Marketplace con analisi e statistiche approfondite sui prezzi degli oggetti. Visualizza la cronologia dei prezzi degli oggetti di rainbow six siege.",
 				"item": {
 					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Statistiche & Approfondimenti",

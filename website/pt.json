@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Mercado",
+			"title-short": "Mercado",
+			"title": "R6 Mercado",
 			"price": "preço",
 			"supply": "oferta",
 			"demand": "demanda",
