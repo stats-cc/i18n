@@ -1,7 +1,7 @@
 {
 	"common": {
 		"players": "Spieler",
-		"matches": "Spiele",
+		"matches": "Matches",
 		"pc": "PC",
 		"console": "Konsole",
 		"all": "alle",
@@ -23,13 +23,13 @@
 		"assists": "Assists",
 		"wins": "Siege",
 		"losses": "Niederlagen",
-		"views": "Ansichten",
+		"views": "Aufrufe",
 		"show-all": "alle anzeigen",
 		"show-less": "weniger anzeigen",
 		"show-more": "mehr anzeigen",
 		"kpm": "KPM",
-		"kills-per-match": "Kills pro Spiel",
-		"max-rank": "max. Rang",
+		"kills-per-match": "Kills pro Match",
+		"max-rank": "höhster Rang",
 		"missing-data": "fehlende Daten",
 		"rp": "{amount} RP",
 		"current": "aktuell",
@@ -38,53 +38,53 @@
 		"lost": "verloren",
 		"win": "Sieg",
 		"loss": "Niederlage",
-		"draw": "unentschieden",
-		"tie": "Gleichstand",
-		"rollback": "Rücknahme",
+		"draw": "Unentschieden",
+		"tie": "Unentschieden",
+		"rollback": "Ranganpassung",
 		"win-short": "S",
 		"loss-short": "N",
 		"email": "E-Mail",
 		"category": "Kategorie",
 		"message": "Nachricht",
 		"submit": "absenden",
-		"new": "new"
+		"new": "neu"
 	},
 	"social": {
 		"follow-us-twitter": "Folge uns auf Twitter",
 		"join-our-discord": "Trete unserem Discord bei",
-		"marketplace-subreddit": "Rainbow Six Siege Marktplatz Subreddit"
+		"marketplace-subreddit": "Siege Marktplatz Subreddit"
 	},
 	"footer": {
-		"extra-pages": "Zusätzliche Seiten",
-		"contact-us": "Kontaktiere uns",
+		"extra-pages": "weitere Seiten",
+		"contact-us": "Kontaktformular",
 		"roadmap": "Roadmap",
 		"privacy-policy": "Datenschutzrichtlinie",
 		"terms-of-service": "Nutzungsbedingungen",
 		"social-media": "Soziale Medien",
 		"language": "Sprache",
-		"discord-server": "Discord-Server",
-		"twitter-account": "Twitter-Konto",
+		"discord-server": "Discordserver",
+		"twitter-account": "Twitteraccount",
 		"reddit-marketplace-subreddit": "Rainbow Six Siege Marktplatz Subreddit",
 		"partners": "Partner"
 	},
 	"search": {
-		"profiles": "Profile suchen",
+		"profiles": "Profil suchen",
 		"clear-recents": "Verlauf löschen",
-		"force-search": "Erzwinge Suche",
+		"force-search": "Suche erzwingen",
 		"no-players-found": "Keine Spieler gefunden",
-		"error": "Fehler beim Suchen: {error}",
+		"error": "Fehler bei Suche: {error}",
 		"search-results": "{count} Suchergebnisse"
 	},
 	"contact-us": {
 		"title": "Kontaktiere uns",
-		"description": "Wir würden gerne von dir hören! Fülle das untenstehende Formular aus oder sende uns eine E-Mail an {0}.",
+		"description": "Wir hören gerne von dir! Fülle das untenstehende Formular aus oder sende uns eine E-Mail an {0}.",
 		"fill-out-all-fields": "Bitte fülle alle Felder aus.",
-		"fields-are-invalid": "Die folgenden Felder sind ungültig: {fields}",
+		"fields-are-invalid": "folgende Felder sind ungültig: {fields}",
 		"error-occured": "Beim Senden deiner Nachricht ist ein Fehler aufgetreten.",
 		"submitted": "Deine Anfrage wurde gesendet, wir werden bald per E-Mail antworten."
 	},
 	"misc": {
-		"help-translate": "Möchtest du bei der Übersetzung der Seite helfen? Tritt unserem Discord bei und frag nach!"
+		"help-translate": "Möchtest du beim übersetzen der Seite helfen? Tritt unserem Discord bei und melde dich!"
 	},
 	"siege": {
 		"home": {
@@ -98,7 +98,7 @@
 			"all": "Alle",
 			"ranked": "Rangliste",
 			"casual": "Gelegenheitsspiel",
-			"events": "Event",
+			"events": "Ereignis",
 			"warmup": "Aufwärmen",
 			"standard": "Standard"
 		},
@@ -112,9 +112,9 @@
 		},
 		"bans": {
 			"title": "Sperren",
-			"recent-bans-data": "Aktuelle Sperrdaten",
+			"recent-bans-data": "Zahlen  aktueller Sperren",
 			"period": {
-				"all-time": "Gesamt",
+				"all-time": "Insgesamt",
 				"month": "Monat",
 				"week": "Woche",
 				"day": "Tag"
@@ -123,7 +123,7 @@
 			"n-bans": "{count} Sperrungen",
 			"no-bans-found-for-reason": "Keine Sperrungen für {reason} gefunden",
 			"reason": {
-				"title": "Sperrgrund",
+				"title": "Fehlverhalten",
 				"all": "Alle",
 				"battleye": "BattlEye",
 				"boosted": "Boosted",
@@ -143,19 +143,19 @@
 			"r6-credits": "R6 Credits",
 			"price-change": "Preisänderung",
 			"search": "Nach Artikelnamen suchen",
-			"top-items-by-price": "Top-Artikel nach Preis",
-			"top-items-by-price-change": "Top-Artikel nach Preisänderung",
+			"top-items-by-price": "teurste Artikel",
+			"top-items-by-price-change": "höhste Preisänderung",
 			"avg-price-short": "Durchschn. Preis",
 			"avg-supply-short": "Durchschn. Angebot",
 			"avg-demand-short": "Durchschn. Nachfrage",
 			"avg-price-last-7-days": "Durchschn. Preis letzte 7 Tage",
-			"24-hour-averages": "24-Stunden-Durchschnitt",
-			"7-day-averages": "7-Tage-Durchschnitt",
-			"1-year-averages": "1-Jahres-Durchschnitt",
+			"24-hour-averages": "Tagesdurchschnitt",
+			"7-day-averages": "Wochendurchschnitt",
+			"1-year-averages": "Jahresdurchschnitt",
 			"season-released-in": "Veröffentlicht in {ynsn}",
 			"item-removed-from-marketplace": "Dieser Artikel wurde vom Marktplatz entfernt.",
 			"back-to-marketplace": "Zurück zum Marktplatz",
-			"view-on-ubisoft": "Auf Ubisoft ansehen",
+			"view-on-ubisoft": "Marktseite öffnen",
 			"interval-price-history": "{interval} Preisverlauf",
 			"interval": {
 				"hourly": "Stündlich",
@@ -173,7 +173,7 @@
 				},
 				"what-currency": {
 					"title": "Welche Währung wird auf dem Marktplatz verwendet?",
-					"description": "Du kannst nur Gegenstände mit R6 Credits kaufen, und du erhältst R6 Credits nur, wenn du einen Gegenstand verkaufst."
+					"description": "Du kannst nur Gegenstände mit R6 Credits kaufen, und du erhältst nur R6 Credits, wenn du einen Gegenstand verkaufst."
 				},
 				"how-can-i-trade": {
 					"title": "Wie kann ich Gegenstände handeln?",
@@ -196,18 +196,18 @@
 				},
 				"item-type": {
 					"none": "Keine",
-					"title": "Artikeltyp",
-					"weapon-skin": "Waffenskin",
+					"title": "Artikelsorte",
+					"weapon-skin": "Waffenlakierung",
 					"headgear": "Kopfbedeckung",
 					"uniform": "Uniform",
-					"attachment-skin": "Anhang-Skin",
-					"charm": "Anhänger",
+					"attachment-skin": "Aufsatzdesign",
+					"charm": "Talisman",
 					"operator-portrait": "Operator-Porträt",
 					"card-background": "Kartenhintergrund",
 					"drone-skin": "Drohnen-Skin"
 				},
 				"operators": {
-					"title": "Operatoren"
+					"title": "Operator"
 				},
 				"rarity": {
 					"title": "Seltenheit"
@@ -219,7 +219,7 @@
 					"title": "Saisons"
 				},
 				"events": {
-					"title": "Events"
+					"title": "Ereignis"
 				},
 				"others": {
 					"title": "Andere"
@@ -227,17 +227,17 @@
 			}
 		},
 		"streaming-widget": {
-			"title": "Streaming-Widget",
-			"description": "Streaming-Widgets sind eine großartige Möglichkeit, deine Profilstatistiken auf deinem Livestream anzuzeigen. Derzeit ist unser Widget recht einfach, aber in Zukunft werden wir viel mehr Anpassungsmöglichkeiten bieten. Derzeit unterstützt es nur Rangliste, aber wenn du Unterstützung für andere Modi benötigst, kontaktiere uns bitte auf {0}.",
+			"title": "Streamer-Widget",
+			"description": "Streamer-Widgets sind eine großartige Möglichkeit, deine Statistiken auf deinem Livestream anzuzeigen. Derzeit ist unser Widget recht einfach, aber in Zukunft werden wir viel mehr Anpassungsmöglichkeiten bieten. Derzeit unterstützt es nur Rangliste, aber wenn du Unterstützung für andere Modi benötigst, kontaktiere uns bitte auf {0}.",
 			"widget-image-caption": "So sieht unser Widget aus:",
 			"invalid-profile-link": "Ungültiger Profil-Link",
 			"how-to-use": {
 				"title": "Wie benutzt man",
 				"profile-link": "Profil-Link...",
-				"your-widget-link": "Dein Streaming-Widget-Link",
+				"your-widget-link": "Dein Streamer-Widget-Link",
 				"step-1": "1. Kopiere und füge deinen Profil-Link in das untenstehende Feld ein und klicke auf Kopieren",
-				"step-2": "2. Gehe zu deiner Livestream-Software und erstelle eine \"Browserquelle\" im \"Quellen\"-Tab.",
-				"step-3": "3. Füge deinen Streaming-Widget-Link in das Feld \"Browserquelle\" ein.",
+				"step-2": "2. Gehe zu deinem Livestream-Programm und erstelle eine \"Browserquelle\" im \"Quellen\"-Tab.",
+				"step-3": "3. Füge deinen Streamer-Widget-Link in das Feld \"Browserquelle\" ein.",
 				"step-4": "4. Passe die Größe und Position des Widgets nach Wunsch an."
 			}
 		},
@@ -246,21 +246,21 @@
 			"failed-to-load": "Dieses Profil konnte nicht geladen werden.",
 			"last-played": "Zuletzt gespielt",
 			"current-season": "Aktuelle Saison",
-			"ranked-2-max-ranks": "Rangliste 2.0 Maximalränge",
+			"ranked-2-max-ranks": "Rangliste 2.0 höhst Ränge",
 			"regions-played": "Gespielte Regionen",
-			"username-history": "Benutzername-Historie",
+			"username-history": "alte Benutzernamen",
 			"ranked-sessions": {
-				"title": "Ranglistensitzungen",
-				"1": "Diese Grafik zeigt die letzten Sitzungen eines Profils und deren Rang nach jeder Sitzung.",
+				"title": "Rang per Sitzungen",
+				"1": "Diese Grafik zeigt die letzten Sitzungen eines Profils und dessen Rang nach jeder Sitzung.",
 				"2": "Du kannst über einzelne Punkte fahren, um Details einer Sitzung zu sehen.",
 				"3": "Du kannst zoomen, indem du einen Bereich ziehst, und verschieben, indem du Strg gedrückt hältst und ziehst."
 			},
 			"past-24-hours": "Letzte 24 Stunden",
 			"past-7-days": "Letzte 7 Tage",
 			"past-30-days": "Letzte 30 Tage",
-			"wl-streak": "WL-Reihe",
+			"wl-streak": "S/N-Reihe",
 			"rp-change": "RP-Änderung",
-			"update-time-out": "Aktualisierung abgelaufen. Aktualisiere die Seite und es wird bald erledigt.",
+			"update-time-out": "Sitzung abgelaufen. Lade die Seite neu und es wird aktualisiert.",
 			"rank-reset-due-to-ban": "Rang zurückgesetzt aufgrund einer Sperre",
 			"no-matches-played": "Keine Spiele gespielt",
 			"match-count": "{count} Spiele",
@@ -273,7 +273,7 @@
 				"tooltip": {
 					"1": "Dieses Profil kann noch nicht aktualisiert werden.",
 					"2": "Du kannst auf diesem Profil bleiben, und es wird automatisch aktualisiert, wenn eine Aktualisierung verfügbar ist, z. B. wenn das Spiel des Spielers beendet ist.",
-					"3": "Normalerweise ist das Drücken dieser Aktualisierungsschaltfläche nicht erforderlich, kann jedoch helfen, wenn du das Gefühl hast, dass die Profildaten nicht synchron sind."
+					"3": "Normalerweise ist das neu laden der Seite nicht nötig, kann jedoch helfen, wenn du das Gefühl hast, dass die Profildaten nicht aktuell sind."
 				}
 			},
 			"seasons": {
@@ -281,56 +281,56 @@
 				"old-seasons-banner": "Daten zu alten Saisons werden in Zukunft hinzugefügt."
 			},
 			"played-with": {
-				"title": "Gespielt mit",
+				"title": "Mitspieler",
 				"info-banner": "Leute, mit denen {username} in dieser Saison gespielt hat oder gegen die er gespielt hat",
-				"no-played-with": "{username} hat noch nicht mit jemandem gespielt"
+				"no-played-with": "{username} hat noch niemandem gespielt"
 			},
 			"report": {
 				"title": "Melden"
 			},
 			"sessions": {
-				"no-sessions": "Keine Sitzungen basierend auf deinen Filtern gefunden."
+				"no-sessions": "Keine Sitzungen nach Filterkriterien gefunden."
 			}
 		}
 	},
 	"seo": {
-		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
+		"title": "Siege Statistiken - Stats.CC {title} - Rainbow Six Siege Spieler Statistiken",
 		"home": {
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+			"description": "Schau dir Rainbow Six Siege Statistiken an, die globale Bestenliste, und mehr"
 		},
 		"streaming-widget": {
-			"title": "Streaming Widget",
-			"description": "Display your siege profile stats on your livestream with our streaming widget."
+			"title": "Streamer Widget",
+			"description": "Präsentiere deine Siege Profil Statistiken in deinem Livestream mit unserem Streamer widget."
 		},
 		"siege": {
-			"title": "All Rainbow Six Siege Stats",
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"title": "Alle Rainbow Six Siege Statistiken",
+			"description": "Schau dir Rainbow Six Siege Statistiken an, die globale Bestenliste, und mehr",
 			"bans": {
-				"title": "Recent Bans",
-				"description": "Recent bans for Rainbow Six: Siege"
+				"title": "aktuelle Bans",
+				"description": "aktuelle Bans für Rainbow Six: Siege"
 			},
 			"leaderboards": {
-				"title": "{platform} Leaderboards",
-				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+				"title": "{platform} Bestenliste",
+				"description": "Schau dir die besten 10,000 {platform} Spieler in Rainbow Six Siege an"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "Siege Marktplatz - Stats.CC - Rainbow Six Siege Marktplatz Statistiken & Analytik",
+				"description": "R6 Siege Marktplatz mit detalierten Preis Alalysen und Statistiken. Finde historische Preise Rainbow von Six Siege Gegenständen.",
 				"item": {
-					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
-					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+					"title": "Siege  - {itemName} - Rainbow Six Siege  Statistiken & Analytik",
+					"description": "Historischer Marktplatz Preisverlauf  für Rainbow Six Siege Gegenstand {itemName}"
 				}
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"description": "{username}'s Rainbow Six Siege saisonale Leistungsstatistiken und Informationen",
 				"played-with": {
-					"title": "{username} Played With",
-					"description": "View who {username} plays against or with the most, and how many times they've played."
+					"title": "{username} Mitspieler",
+					"description": "Sieh mit wem oder gegen wen {username} am meisten zusammen spielt, und wie oft sie gemeinsam gespielt haben."
 				},
 				"seasons": {
-					"title": "{username} Seasons",
-					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+					"title": "{username} Saisons",
+					"description": "{username}'s Rainbow Six Siege Ranglistenverlauf inclusive Statistiken, höhstem Rang, und mehr."
 				}
 			}
 		}
