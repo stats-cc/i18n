@@ -5,7 +5,7 @@
 		"pc": "pc",
 		"console": "konsol",
 		"all": "tümü",
-		"name": "ad",
+		"name": "oyuncu ismi",
 		"mmr": "mmr",
 		"rank": "rütbe",
 		"level": "seviye",
@@ -20,7 +20,7 @@
 		"wr": "WR",
 		"kills": "öldürmeler",
 		"deaths": "ölümler",
-		"assists": "yardımlar",
+		"assists": "assists",
 		"wins": "kazanılanlar",
 		"losses": "kaybedilenler",
 		"views": "görüntülemeler",
@@ -39,20 +39,20 @@
 		"win": "kazanma",
 		"loss": "kaybetme",
 		"draw": "berabere",
-		"tie": "bağ",
-		"rollback": "geri al",
+		"tie": "berabere kalmak",
+		"rollback": "Rollback",
 		"win-short": "K",
-		"loss-short": "M",
+		"loss-short": "K",
 		"email": "e-posta",
 		"category": "kategori",
 		"message": "mesaj",
 		"submit": "gönder",
-		"new": "new"
+		"new": "yeni"
 	},
 	"social": {
 		"follow-us-twitter": "Twitter'da bizi takip et",
 		"join-our-discord": "Discord'a katıl",
-		"marketplace-subreddit": "Rainbow Six Siege Pazarı Altreddit'i"
+		"marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit"
 	},
 	"footer": {
 		"extra-pages": "Ekstra sayfalar",
@@ -64,7 +64,7 @@
 		"language": "Dil",
 		"discord-server": "Discord Sunucusu",
 		"twitter-account": "Twitter Hesabı",
-		"reddit-marketplace-subreddit": "Rainbow Six Siege Pazarı Altreddit'i",
+		"reddit-marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit",
 		"partners": "Ortaklar"
 	},
 	"search": {
@@ -77,14 +77,14 @@
 	},
 	"contact-us": {
 		"title": "Bize Ulaşın",
-		"description": "Senden haber almayı çok isteriz! Aşağıdaki formu doldur veya bize {0} adresinden e-posta gönder.",
+		"description": "Size her konuda yardımcı olabiliriz! Aşağıdaki formu doldur veya bize {0} adresinden e-posta gönder.",
 		"fill-out-all-fields": "Lütfen tüm alanları doldurun.",
 		"fields-are-invalid": "Aşağıdaki alanlar geçersiz: {fields}",
 		"error-occured": "Mesajınızı gönderirken bir hata oluştu.",
 		"submitted": "Talebinizi gönderdik, yakında e-posta ile cevaplayacağız."
 	},
 	"misc": {
-		"help-translate": "Sitenin çevirisine yardımcı olmak ister misiniz? Discord'umuza katılın ve sorun!"
+		"help-translate": "Sitenin çevirisine yardımcı olmak ister misiniz? Discord'umuza katılın ve bize nasıl yardımcı olabileceğinizi sorun!"
 	},
 	"siege": {
 		"home": {
@@ -96,15 +96,15 @@
 		},
 		"gamemodes": {
 			"all": "Hepsi",
-			"ranked": "Sıralı",
-			"casual": "Rahat",
-			"events": "Etkinlik",
+			"ranked": "Ranked",
+			"casual": "Casual",
+			"events": "Etkinlikler",
 			"warmup": "Isınma",
 			"standard": "Standart"
 		},
 		"leaderboards": {
-			"title": "Lider Tablolar",
-			"BAD-player-count": "{count} oy uncu",
+			"title": "Skor Tablosu",
+			"BAD-player-count": "{count} oyuncu",
 			"BAD-percent-of-players": "Tüm oyuncuların %{percent}'i",
 			"top-percent": "En Üst %{percent}",
 			"total-players": "{count} oyuncu",
@@ -112,31 +112,31 @@
 		},
 		"bans": {
 			"title": "Yasaklar",
-			"recent-bans-data": "Son Yasak Verileri",
+			"recent-bans-data": "Son Oyun Yasak Verileri",
 			"period": {
 				"all-time": "Tüm Zamanlar",
 				"month": "Ay",
 				"week": "Hafta",
 				"day": "Gün"
 			},
-			"n-recent-bans": "{count} Son Yasak",
-			"n-bans": "{count} Yasak",
-			"no-bans-found-for-reason": "{reason} için yasak bulunamadı",
+			"n-recent-bans": "{count} Son Oyun Yasakları",
+			"n-bans": "{count} Oyun Yasakları",
+			"no-bans-found-for-reason": "{reason} için oyun yasağı bulunamadı",
 			"reason": {
 				"title": "Yasak Sebebi",
 				"all": "Hepsi",
 				"battleye": "BattlEye",
-				"boosted": "Geliştirilmiş",
+				"boosted": "Boosted",
 				"botting": "Botlama",
 				"cheating": "Hile",
-				"tos-breach": "Kullanım Koşulları İhlali",
+				"tos-breach": "Kural İhlali",
 				"ddos": "DDoS",
-				"toxic-behavior": "Zehirli Davranış"
+				"toxic-behavior": "Toksik Davranış"
 			}
 		},
 		"marketplace": {
 			"title-short": "Pazar",
-			"title": "R6 Pazar",
+			"title": "R6 Pazarı",
 			"price": "fiyat",
 			"supply": "tedarik",
 			"demand": "talep",
@@ -146,9 +146,9 @@
 			"search": "Öğe adına göre ara",
 			"top-items-by-price": "Fiyata Göre En İyi Öğeler",
 			"top-items-by-price-change": "Fiyat Değişimine Göre En İyi Öğeler",
-			"avg-price-short": "Ort. Fiyat",
-			"avg-supply-short": "Ort. Ted.",
-			"avg-demand-short": "Ort. Talep",
+			"avg-price-short": "Ortalama Fiyat",
+			"avg-supply-short": "Ortalama Tedarik",
+			"avg-demand-short": "Ortalama Talep",
 			"avg-price-last-7-days": "Son 7 günlük ortalama fiyat",
 			"24-hour-averages": "24 saatlik ortalamalar",
 			"7-day-averages": "7 günlük ortalamalar",
@@ -198,14 +198,14 @@
 				"item-type": {
 					"none": "Hiçbiri",
 					"title": "Öğe Türü",
-					"weapon-skin": "Silah Kini",
-					"headgear": "Kafa Giysisi",
+					"weapon-skin": "Silah Skin",
+					"headgear": "Kaslık",
 					"uniform": "Üniforma",
-					"attachment-skin": "Eklenti Kini",
+					"attachment-skin": "Eklenti Skin",
 					"charm": "Şans",
 					"operator-portrait": "Operatör Portresi",
 					"card-background": "Kart Arka Planı",
-					"drone-skin": "Drone Kini"
+					"drone-skin": "Drone Skin"
 				},
 				"operators": {
 					"title": "Operatörler"
@@ -251,10 +251,10 @@
 			"regions-played": "Oynanan Bölgeler",
 			"username-history": "Kullanıcı Adı Geçmişi",
 			"ranked-sessions": {
-				"title": "Sıralı Oturumlar",
 				"1": "Bu grafik, bir profilin son oturumlarını ve her oturumdan sonra rütbesini gösterir.",
 				"2": "Bireysel noktaların üzerine gelerek bir oturumun detaylarını görebilirsiniz.",
-				"3": "Bir aralığı sürükleyerek yakınlaştırabilir ve kontrol tuşunu basılı tutarak sürükleyerek kaydırabilirsiniz."
+				"3": "Bir aralığı sürükleyerek yakınlaştırabilir ve kontrol tuşunu basılı tutarak sürükleyerek kaydırabilirsiniz.",
+				"title": "Sıralı Oturumlar"
 			},
 			"past-24-hours": "Son 24 Saat",
 			"past-7-days": "Son 7 Gün",
