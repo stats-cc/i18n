@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Mercado",
+			"title-short": "Mercado",
+			"title": "R6 Mercado",
 			"price": "precio",
 			"supply": "oferta",
 			"demand": "demanda",
@@ -314,7 +315,7 @@
 				"description": "Ver el top 10,000 jugadores de {platform} de Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Mercado - Stats.CC - Estadísticas y análisis del mercado de Rainbow Six Siege",
+				"title": "R6 Mercado - Stats.CC - Estadísticas y análisis del mercado de Rainbow Six Siege",
 				"description": "Mercado R6 Siege con análisis detallado de precios y estadísticas de artículos. Datos históricos de precios de los artículos de Rainbow Six Siege.",
 				"item": {
 					"title": "Siege Mercado - {itemName} - Mercado Rainbow Six Siege Estadísticas & Análisis",

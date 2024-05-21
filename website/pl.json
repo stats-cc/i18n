@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Rynek",
+			"title-short": "Rynek",
+			"title": "R6 Rynek",
 			"price": "cena",
 			"supply": "podaż",
 			"demand": "popyt",
@@ -314,7 +315,7 @@
 				"description": "Zobacz najlepszych 10,000 graczy na {platform} w Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Statystyki i Analizy Rynku Rainbow Six Siege",
+				"title": "R6 Marketplace - Statystyki i Analizy Rynku Rainbow Six Siege - Stats.CC",
 				"description": "R6 Siege Marketplace z dogłębnymi analizami i statystykami cen przedmiotów. Zobacz historyczne ceny przedmiotów rainbow six siege.",
 				"item": {
 					"title": "Siege Marketplace - {itemName} - Statystyki i Analizy Rynku Rainbow Six Siege",

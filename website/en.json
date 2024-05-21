@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "marketplace",
+			"title-short": "Marketplace",
+			"title": "R6 Marketplace",
 			"price": "price",
 			"supply": "supply",
 			"demand": "demand",
@@ -144,7 +145,7 @@
 			"price-change": "Price Change",
 			"search": "Search by item name",
 			"top-items-by-price": "Top Items by Price",
-			"top-items-by-price-change": "Top Items by Price Change",
+			"top-items-by-price-change": "Top Skins by Price Change",
 			"avg-price-short": "Avg. Price",
 			"avg-supply-short": "Avg. Supply",
 			"avg-demand-short": "Avg. Demand",
@@ -166,7 +167,7 @@
 				"yearly": "Yearly"
 			},
 			"faq": {
-				"title": "R6 Marketplace FAQ",
+				"title": "Siege Marketplace FAQ",
 				"what-is-marketplace": {
 					"title": "What is the Rainbow Six Siege Marketplace?",
 					"description": "The marketplace is a place where you can buy and sell items for Rainbow Six Siege. You can buy items from other players, or you can sell items you've unlocked yourself. This allows you to buy skins that were previously immensely rare and locked to a specific account."
@@ -314,8 +315,8 @@
 				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "R6 Marketplace Stats - Siege Item Pricing Analytics - Stats.CC",
+				"description": "Explore the R6 Siege Marketplace with detailed item pricing analytics and historical data. Stay updated on Rainbow Six Siege item values with Stats.CC",
 				"item": {
 					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
 					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
