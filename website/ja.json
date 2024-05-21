@@ -23,7 +23,7 @@
 		"assists": "アシスト",
 		"wins": "勝利",
 		"losses": "敗北",
-		"views": "ビュー",
+		"views": "閲覧回数",
 		"show-all": "すべて表示",
 		"show-less": "少なく表示",
 		"show-more": "もっと表示",
@@ -55,7 +55,7 @@
 		"marketplace-subreddit": "Siegeマーケットプレースのサブレディット"
 	},
 	"footer": {
-		"extra-pages": "追加ページ",
+		"extra-pages": "その他のページ",
 		"contact-us": "お問い合わせ",
 		"roadmap": "ロードマップ",
 		"privacy-policy": "プライバシーポリシー",
@@ -84,15 +84,15 @@
 		"submitted": "お問い合わせを送信しました。近日中にメールで返信いたします。"
 	},
 	"misc": {
-		"help-translate": "サイトの翻訳にご協力いただけますか？Discordに参加して、お問い合わせください！"
+		"help-translate": "サイトの翻訳にご協力いただけませんか？Discordに参加して、お問い合わせください！"
 	},
 	"siege": {
 		"home": {
 			"title": "ホーム",
 			"player-search": "プレイヤー検索",
-			"top-pc-players": "トップPCプレイヤー",
-			"top-console-players": "トップコンソールプレイヤー",
-			"search-a-profile": "プロファイルを検索..."
+			"top-pc-players": "Top PCプレイヤー",
+			"top-console-players": "Top CSプレイヤー",
+			"search-a-profile": "プロフィールを検索..."
 		},
 		"gamemodes": {
 			"all": "すべて",
@@ -100,7 +100,7 @@
 			"casual": "カジュアル",
 			"events": "イベント",
 			"warmup": "ウォームアップ",
-			"standard": "標準"
+			"standard": "スタンダード"
 		},
 		"leaderboards": {
 			"title": "リーダーボード",
@@ -111,27 +111,27 @@
 			"last-update": "{date}に更新"
 		},
 		"bans": {
-			"title": "禁止",
-			"recent-bans-data": "最近の禁止データ",
+			"title": "ban",
+			"recent-bans-data": "最近のbanデータ",
 			"period": {
 				"all-time": "すべての時間",
 				"month": "月",
 				"week": "週",
 				"day": "日"
 			},
-			"n-recent-bans": "{count} 最近の禁止",
-			"n-bans": "{count} 禁止",
-			"no-bans-found-for-reason": "{reason} に対する禁止は見つかりませんでした",
+			"n-recent-bans": "{count} 最近のban",
+			"n-bans": "{count} ban",
+			"no-bans-found-for-reason": "{reason} に対するbanは見つかりませんでした",
 			"reason": {
-				"title": "禁止理由",
+				"title": "ban理由",
 				"all": "すべて",
 				"battleye": "BattlEye",
 				"boosted": "ブースト",
 				"botting": "ボット",
 				"cheating": "チート",
-				"tos-breach": "ToS違反",
+				"tos-breach": "利用規約違反",
 				"ddos": "DDoS",
-				"toxic-behavior": "有害な行動"
+				"toxic-behavior": "トキシック"
 			}
 		},
 		"marketplace": {
@@ -177,7 +177,7 @@
 				},
 				"how-can-i-trade": {
 					"title": "どのようにアイテムを取引できますか？",
-					"description": "当社はユービーソフトと提携していませんので、公式の{0}でアイテムを取引する必要があります。",
+					"description": "当社はUBISOFTと提携していませんので、公式の{0}でアイテムを取引する必要があります。",
 					"description-link": "レインボーシックスシージマーケットプレース"
 				}
 			},
@@ -199,7 +199,7 @@
 					"title": "アイテムタイプ",
 					"weapon-skin": "ウェポンスキン",
 					"headgear": "ヘッドギア",
-					"uniform": "制服",
+					"uniform": "ユニフォーム",
 					"attachment-skin": "アタッチメントスキン",
 					"charm": "チャーム",
 					"operator-portrait": "オペレーターポートレート",
@@ -306,8 +306,8 @@
 			"title": "全レインボーシックスシージ統計",
 			"description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します",
 			"bans": {
-				"title": "最近の禁止",
-				"description": "レインボーシックスシージの最近の禁止"
+				"title": "最近のban",
+				"description": "レインボーシックスシージの最近のban"
 			},
 			"leaderboards": {
 				"title": "{platform} リーダーボード",
@@ -323,7 +323,7 @@
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "{username} のレインボーシックスシージシーズンプロフィール統計を表示します",
+				"description": "{username} のレインボーシックスシージシーズンスタッツを表示します",
 				"played-with": {
 					"title": "{username} と一緒にプレイ",
 					"description": "{username} が最も対戦したプレイヤー、または一緒にプレイした回数を表示します"
