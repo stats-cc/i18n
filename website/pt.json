@@ -318,7 +318,7 @@
 				"title": "Estatísticas e Análise do Mercado de Rainbow Six Siege",
 				"description": "Mercado do R6 Siege com precificação, estatísticas e análise detalhada dos itens a venda. Veja histórico de preços dos itens de Rainbow Six Siege.",
 				"item": {
-					"title": "Mercado Siege - Stats.CC - {itemName} - Estatísticas e Análise do Mercado de Rainbow Six Siege",
+					"title": "Mercado Siege - {itemName} - Estatísticas e Análise do Mercado de Rainbow Six Siege",
 					"description": "Histórico de preços para {itemName} em Rainbow Six Siege"
 				}
 			},
