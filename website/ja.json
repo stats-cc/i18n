@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "マーケットプレース",
+			"title-short": "マーケットプレイス",
+			"title": "R6 マーケットプレース",
 			"price": "価格",
 			"supply": "供給",
 			"demand": "需要",

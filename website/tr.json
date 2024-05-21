@@ -135,7 +135,8 @@
 			}
 		},
 		"marketplace": {
-			"title": "Pazar",
+			"title-short": "Pazar",
+			"title": "R6 Pazar",
 			"price": "fiyat",
 			"supply": "tedarik",
 			"demand": "talep",
