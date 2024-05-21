@@ -229,8 +229,8 @@
 		},
 		"streaming-widget": {
 			"title": "Akış Widget'ı",
-			"description": "Akış widget'ları profil istatistiklerinizi canlı yayınınızda göstermenin harika bir yoludur. Şu anda bizimki oldukça basit, ancak gelecekte çok daha fazla özelleştirme sağlayacağız. Şu anda sadece sıralıyı destekliyor, ancak diğer modlar için destek arıyorsanız lütfen {0} üzerinden bize ulaşın.",
-			"widget-image-caption": "İşte widget'ımızın nasıl göründüğü:",
+			"description": "Akış widgetları profil istatistiklerinizi canlı yayınınızda göstermenin harika bir yoludur. Şu anda bizimki oldukça basit, ancak gelecekte çok daha fazla özelleştirme sağlayacağız. Şu anda sadece ranked maçları destekliyor, ancak diğer modlar için destek arıyorsanız lütfen {0} üzerinden bize ulaşın.",
+			"widget-image-caption": "İşte widgetımızın nasıl göründüğü:",
 			"invalid-profile-link": "Geçersiz profil bağlantısı",
 			"how-to-use": {
 				"title": "Nasıl kullanılır",
@@ -246,7 +246,7 @@
 			"leaderboard-position": "Liderlik Pozisyonu",
 			"failed-to-load": "Bu profil yüklenemedi.",
 			"last-played": "Son Oynanma",
-			"current-season": "Geçerli Sezon",
+			"current-season": "Şu anki Sezon",
 			"ranked-2-max-ranks": "Sıralı 2.0 Maksimum Rütbe",
 			"regions-played": "Oynanan Bölgeler",
 			"username-history": "Kullanıcı Adı Geçmişi",
@@ -261,8 +261,8 @@
 			"past-30-days": "Son 30 Gün",
 			"wl-streak": "WL Serisi",
 			"rp-change": "RP Değişimi",
-			"update-time-out": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve yakında yapılacaktır.",
-			"rank-reset-due-to-ban": "Yasak nedeniyle rütbe sıfırlandı",
+			"update-time-out": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve güncelleme yakında yapılacaktır.",
+			"rank-reset-due-to-ban": "Oyun yasağı nedeniyle rütbe sıfırlandı",
 			"no-matches-played": "Hiç maç oynanmadı",
 			"match-count": "{count} Maçlar",
 			"update": {
@@ -270,7 +270,7 @@
 				"updating": "Güncelleniyor",
 				"updated": "Güncellendi",
 				"failed": "Başarısız",
-				"timeout": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve yakında yapılacaktır.",
+				"timeout": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve güncelleme yakında yapılacaktır.",
 				"tooltip": {
 					"1": "Bu profil henüz güncellenemiyor.",
 					"2": "Bu profilde kalabilirsiniz ve oyuncunun maçı bitince otomatik olarak yenilenecektir.",
@@ -290,48 +290,48 @@
 				"title": "Bildir"
 			},
 			"sessions": {
-				"no-sessions": "Filtrelerinize göre hiç oturum bulunamadı."
+				"no-sessions": "Filtrelerinize göre hiç sonuç bulunamadı."
 			}
 		}
 	},
 	"seo": {
 		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats",
 		"home": {
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more"
+			"description": "Rainbow Six Siege profili statistiklerini, en iyi oyuncuların liderlik tablosunu ve daha fazlasını görüntüleyin"
 		},
 		"streaming-widget": {
-			"title": "Streaming Widget",
-			"description": "Display your siege profile stats on your livestream with our streaming widget."
+			"title": "Yayın Widget",
+			"description": "Canlı yayınınızda Rainbow Six Siege profili statistiklerini gösterin."
 		},
 		"siege": {
-			"title": "All Rainbow Six Siege Stats",
-			"description": "View Rainbow Six Siege profile stats, top player leaderboards, and more",
+			"title": "Tüm Rainbow Six Siege Statistikleri",
+			"description": "Rainbow Six Siege profili statistiklerini, en iyi oyuncuların liderlik tablosunu ve daha fazlasını görüntüleyin",
 			"bans": {
-				"title": "Recent Bans",
-				"description": "Recent bans for Rainbow Six: Siege"
+				"title": "Son Oyun Yasakları",
+				"description": "Rainbow Six: Siege'de son oyun yasakları"
 			},
 			"leaderboards": {
-				"title": "{platform} Leaderboards",
-				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
+				"title": "{platform} Liderlik Tablosu",
+				"description": "En iyi 10,000 oyuncuların Rainbow Six Siege'de liderlik tablosunu görüntüleyin"
 			},
 			"marketplace": {
-				"title": "Siege Marketplace - Stats.CC - Rainbow Six Siege Marketplace Stats & Analytics",
-				"description": "R6 Siege Marketplace with in-depth item pricing analytics and stats. View historical prices of rainbow six siege items.",
+				"title": "R6 Pazar Statistikleri - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri - Stats.CC",
+				"description": "R6 Siege Pazarı ile ilgili öğe fiyatları ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
 				"item": {
-					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
-					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
+					"title": "Siege Pazar - {itemName} - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri",
+					"description": "Tarihi öğe fiyatlarını ve analitiklerini görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin."
 				}
 			},
 			"profile": {
 				"title": "{username}",
-				"description": "View {username}'s Rainbow Six Siege seasonal profile stats",
+				"description": " Rainbow Six Siege'de {username}'in sezonal profili statistiklerini görüntüleyin ",
 				"played-with": {
-					"title": "{username} Played With",
-					"description": "View who {username} plays against or with the most, and how many times they've played."
+					"title": "{username} Beraber Oynadı",
+					"description": "{username}'in kiminle beraber oynadığını veya kiminle karşılaştığını görüntüleyin."
 				},
 				"seasons": {
-					"title": "{username} Seasons",
-					"description": "View {username}'s Rainbow Six Siege ranked season history including stats, max rank, and more."
+					"title": "{username} Sezonlar",
+					"description": "{username}'in Rainbow Six Siege'de sezonal profil statistiklerini, maksimum rütbe ve daha fazlasını görüntüleyin."
 				}
 			}
 		}
