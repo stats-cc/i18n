@@ -196,7 +196,6 @@
 					"descending": "Descending (Z > A)"
 				},
 				"item-type": {
-					"none": "None",
 					"title": "Item Type",
 					"weapon-skin": "Weapon Skin",
 					"headgear": "Headgear",

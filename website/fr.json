@@ -196,7 +196,6 @@
 					"descending": "Descendant (Z > A)"
 				},
 				"item-type": {
-					"none": "Aucun",
 					"title": "Type d'Objet",
 					"weapon-skin": "Skin d'Arme",
 					"headgear": "Coiffe",

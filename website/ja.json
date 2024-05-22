@@ -196,7 +196,6 @@
 					"descending": "降順（Z > A）"
 				},
 				"item-type": {
-					"none": "なし",
 					"title": "アイテムタイプ",
 					"weapon-skin": "ウェポンスキン",
 					"headgear": "ヘッドギア",

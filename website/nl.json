@@ -196,7 +196,6 @@
 					"descending": "Aflopend (Z > A)"
 				},
 				"item-type": {
-					"none": "Geen",
 					"title": "Itemtype",
 					"weapon-skin": "Wapenskin",
 					"headgear": "Hoofddeksel",

@@ -196,7 +196,6 @@
 					"descending": "Descendente (Z > A)"
 				},
 				"item-type": {
-					"none": "Nenhum",
 					"title": "Tipo de Item",
 					"weapon-skin": "Skins de Arma",
 					"headgear": "Capacetes",

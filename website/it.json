@@ -196,7 +196,6 @@
 					"descending": "Decrescente (Z > A)"
 				},
 				"item-type": {
-					"none": "Nessuno",
 					"title": "Tipo di Oggetto",
 					"weapon-skin": "Skin Arma",
 					"headgear": "Copricapo",
