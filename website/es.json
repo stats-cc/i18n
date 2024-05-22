@@ -196,7 +196,6 @@
 					"descending": "Descendente (Z > A)"
 				},
 				"item-type": {
-					"none": "Ninguno",
 					"title": "Tipo de artículo",
 					"weapon-skin": "Skin de arma",
 					"headgear": "Accesorio de cabeza",

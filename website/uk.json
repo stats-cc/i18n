@@ -196,7 +196,6 @@
 					"descending": "Спадаючий (Z > A)"
 				},
 				"item-type": {
-					"none": "Немає",
 					"title": "Тип товару",
 					"weapon-skin": "Скіни для зброї",
 					"headgear": "Головні убори",
