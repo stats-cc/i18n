@@ -312,14 +312,14 @@
 			},
 			"leaderboards": {
 				"title": "{platform} Liderlik Tablosu",
-				"description": "En iyi 10,000 oyuncuların Rainbow Six Siege'de liderlik tablosunu görüntüleyin"
+				"description": "En iyi 10,000 {platform} oyuncularının Rainbow Six Siege'de liderlik tablosunu görüntüleyin"
 			},
 			"marketplace": {
 				"title": "R6 Pazar Statistikleri - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri - Stats.CC",
 				"description": "R6 Siege Pazarı ile ilgili öğe fiyatları ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
 				"item": {
 					"title": "Siege Pazar - {itemName} - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri",
-					"description": "Tarihi öğe fiyatlarını ve analitiklerini görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin."
+					"description": "R6 Siege Pazarı ile ilgili {itemName} fiyatlarının ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin."
 				}
 			},
 			"profile": {

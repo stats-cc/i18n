@@ -16,11 +16,14 @@ describe("translations", () => {
 		expect(getObjectKeysDeep(fileJSON)).toEqual(englishKeys);
 	});
 
-	it.each(testFiles)("each translation should still have replacement variables present", (path, content) => {
-		const fileJSON = JSON.parse(content);
-		const englishKeyReplacements = getObjectReplacementValuesByKey(englishTranslation);
-		expect(getObjectReplacementValuesByKey(fileJSON)).toEqual(englishKeyReplacements);
-	});
+	it.each(testFiles)(
+		"each translation should still have replacement variables present %s",
+		(path, content) => {
+			const fileJSON = JSON.parse(content);
+			const englishKeyReplacements = getObjectReplacementValuesByKey(englishTranslation);
+			expect(getObjectReplacementValuesByKey(fileJSON)).toEqual(englishKeyReplacements);
+		}
+	);
 });
 
 test("getObjectKeysDeep", () => {
