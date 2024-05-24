@@ -314,8 +314,8 @@
 				"description": "View the top 10,000 {platform} players on the Rainbow Six Siege"
 			},
 			"marketplace": {
-				"title": "R6 Marketplace Stats - Siege Item Pricing Analytics - Stats.CC",
-				"description": "Explore the R6 Siege Marketplace with detailed item pricing analytics and historical data. Stay updated on Rainbow Six Siege item values with Stats.CC",
+				"title": "R6 Marketplace - Siege Item Prices - Stats.CC",
+				"description": "Explore the R6 Siege Marketplace with detail item prices and statistics. Stay updated on Rainbow Six Siege item values with Stats.CC",
 				"item": {
 					"title": "Siege Marketplace - {itemName} - Rainbow Six Siege Marketplace Stats & Analytics",
 					"description": "Historical marketplace price data for Rainbow Six Siege item {itemName}"
