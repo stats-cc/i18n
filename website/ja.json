@@ -1,338 +1,338 @@
 {
-  "common": {
-    "all": "すべて",
-    "assists": "アシスト",
-    "category": "カテゴリー",
-    "console": "コンソール",
-    "copied!": "コピーしました！",
-    "copy": "コピー",
-    "current": "現在",
-    "date": "日付",
-    "deaths": "デス",
-    "draw": "引き分け",
-    "email": "メール",
-    "kd": "KD",
-    "kills": "キル",
-    "kills-per-match": "マッチあたりのキル",
-    "kpm": "KPM",
-    "level": "レベル",
-    "loss": "負け",
-    "loss-short": "L",
-    "losses": "敗北",
-    "lost": "負け",
-    "matches": "マッチ",
-    "max-rank": "最高ランク",
-    "message": "メッセージ",
-    "missing-data": "データ不足",
-    "mmr": "MMR",
-    "name": "名前",
-    "new": "new",
-    "no-data": "データなし",
-    "no-results": "結果なし",
-    "pc": "PC",
-    "players": "プレイヤー",
-    "rank": "ランク",
-    "reason": "理由",
-    "rollback": "ロールバック",
-    "rp": "{amount} RP",
-    "season": "シーズン",
-    "show-all": "すべて表示",
-    "show-less": "少なく表示",
-    "show-more": "もっと表示",
-    "submit": "送信",
-    "tie": "引き分け",
-    "view-details": "詳細を表示",
-    "views": "閲覧回数",
-    "win": "勝ち",
-    "win-short": "W",
-    "wins": "勝利",
-    "won": "勝ち",
-    "wr": "WR"
-  },
-  "contact-us": {
-    "description": "お問い合わせいただき、ありがとうございます！以下のフォームに記入するか、{0}までメールでお問い合わせください。",
-    "error-occured": "メッセージの送信中にエラーが発生しました。",
-    "fields-are-invalid": "次のフィールドが無効です： {fields}",
-    "fill-out-all-fields": "すべてのフィールドに記入してください。",
-    "submitted": "お問い合わせを送信しました。近日中にメールで返信いたします。",
-    "title": "お問い合わせ"
-  },
-  "footer": {
-    "contact-us": "お問い合わせ",
-    "discord-server": "Discordサーバー",
-    "extra-pages": "その他のページ",
-    "language": "言語",
-    "partners": "パートナー",
-    "privacy-policy": "プライバシーポリシー",
-    "reddit-marketplace-subreddit": "Siegeマーケットプレースのサブレディット",
-    "roadmap": "ロードマップ",
-    "social-media": "ソーシャルメディア",
-    "terms-of-service": "利用規約",
-    "twitter-account": "Twitterアカウント"
-  },
-  "misc": {
-    "help-translate": "サイトの翻訳にご協力いただけませんか？Discordに参加して、お問い合わせください！"
-  },
-  "search": {
-    "clear-recents": "最近のクリア",
-    "error": "検索中にエラーが発生しました： {error}",
-    "force-search": "検索を強制",
-    "no-players-found": "プレイヤーが見つかりません",
-    "profiles": "プロファイルを検索",
-    "search-results": "{count} 件の検索結果"
-  },
-  "seo": {
-    "home": {
-      "description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します"
+    "common": {
+        "all": "すべて",
+        "assists": "アシスト",
+        "category": "カテゴリー",
+        "console": "コンソール",
+        "copied!": "コピーしました！",
+        "copy": "コピー",
+        "current": "現在",
+        "date": "日付",
+        "deaths": "デス",
+        "draw": "引き分け",
+        "email": "メール",
+        "kd": "KD",
+        "kills": "キル",
+        "kills-per-match": "マッチあたりのキル",
+        "kpm": "KPM",
+        "level": "レベル",
+        "loss": "負け",
+        "loss-short": "L",
+        "losses": "敗北",
+        "lost": "負け",
+        "matches": "マッチ",
+        "max-rank": "最高ランク",
+        "message": "メッセージ",
+        "missing-data": "データ不足",
+        "mmr": "MMR",
+        "name": "名前",
+        "new": "new",
+        "no-data": "データなし",
+        "no-results": "結果なし",
+        "pc": "PC",
+        "players": "プレイヤー",
+        "rank": "ランク",
+        "reason": "理由",
+        "rollback": "ロールバック",
+        "rp": "{amount} RP",
+        "season": "シーズン",
+        "show-all": "すべて表示",
+        "show-less": "少なく表示",
+        "show-more": "もっと表示",
+        "submit": "送信",
+        "tie": "引き分け",
+        "view-details": "詳細を表示",
+        "views": "閲覧回数",
+        "win": "勝ち",
+        "win-short": "W",
+        "wins": "勝利",
+        "won": "勝ち",
+        "wr": "WR"
+    },
+    "contact-us": {
+        "description": "お問い合わせいただき、ありがとうございます！以下のフォームに記入するか、{0}までメールでお問い合わせください。",
+        "error-occured": "メッセージの送信中にエラーが発生しました。",
+        "fields-are-invalid": "次のフィールドが無効です： {fields}",
+        "fill-out-all-fields": "すべてのフィールドに記入してください。",
+        "submitted": "お問い合わせを送信しました。近日中にメールで返信いたします。",
+        "title": "お問い合わせ"
+    },
+    "footer": {
+        "contact-us": "お問い合わせ",
+        "discord-server": "Discordサーバー",
+        "extra-pages": "その他のページ",
+        "language": "言語",
+        "partners": "パートナー",
+        "privacy-policy": "プライバシーポリシー",
+        "reddit-marketplace-subreddit": "Siegeマーケットプレースのサブレディット",
+        "roadmap": "ロードマップ",
+        "social-media": "ソーシャルメディア",
+        "terms-of-service": "利用規約",
+        "twitter-account": "Twitterアカウント"
+    },
+    "misc": {
+        "help-translate": "サイトの翻訳にご協力いただけませんか？Discordに参加して、お問い合わせください！"
+    },
+    "search": {
+        "clear-recents": "最近のクリア",
+        "error": "検索中にエラーが発生しました： {error}",
+        "force-search": "検索を強制",
+        "no-players-found": "プレイヤーが見つかりません",
+        "profiles": "プロファイルを検索",
+        "search-results": "{count} 件の検索結果"
+    },
+    "seo": {
+        "home": {
+            "description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します"
+        },
+        "siege": {
+            "bans": {
+                "description": "レインボーシックスシージの最近のban",
+                "title": "最近のban"
+            },
+            "description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します",
+            "leaderboards": {
+                "description": "レインボーシックスシージのトップ 10,000 {platform} プレイヤーを表示します",
+                "title": "{platform} リーダーボード"
+            },
+            "marketplace": {
+                "description": "R6シージのマーケットプレイスには、詳細なアイテム価格分析と統計があります。レインボーシックスシージアイテムの過去の価格を表示します。",
+                "item": {
+                    "description": "レインボーシックスシージアイテム {itemName} の歴史的なマーケットプレイス価格データ",
+                    "title": "シージマーケットプレイス - {itemName} - レインボーシックスシージマーケットプレイス統計 & アナリティクス"
+                },
+                "title": "シージマーケットプレイス - Stats.CC - レインボーシックスシージマーケットプレイス統計 & アナリティクス"
+            },
+            "profile": {
+                "description": "{username} のレインボーシックスシージシーズンスタッツを表示します",
+                "played-with": {
+                    "description": "{username} が最も対戦したプレイヤー、または一緒にプレイした回数を表示します",
+                    "title": "{username} と一緒にプレイ"
+                },
+                "seasons": {
+                    "description": "{username} のレインボーシックスシージランクシーズン履歴を表示します。",
+                    "title": "{username} シーズン"
+                },
+                "title": "{username}"
+            },
+            "title": "全レインボーシックスシージ統計"
+        },
+        "streaming-widget": {
+            "description": "ストリーミングウィジェットであなたのシージプロフィール統計をライブストリームに表示します",
+            "title": "ストリーミングウィジェット"
+        },
+        "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
     },
     "siege": {
-      "bans": {
-        "description": "レインボーシックスシージの最近のban",
-        "title": "最近のban"
-      },
-      "description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します",
-      "leaderboards": {
-        "description": "レインボーシックスシージのトップ 10,000 {platform} プレイヤーを表示します",
-        "title": "{platform} リーダーボード"
-      },
-      "marketplace": {
-        "description": "R6シージのマーケットプレイスには、詳細なアイテム価格分析と統計があります。レインボーシックスシージアイテムの過去の価格を表示します。",
-        "item": {
-          "description": "レインボーシックスシージアイテム {itemName} の歴史的なマーケットプレイス価格データ",
-          "title": "シージマーケットプレイス - {itemName} - レインボーシックスシージマーケットプレイス統計 & アナリティクス"
+        "bans": {
+            "n-bans": "{count} ban",
+            "n-recent-bans": "{count} 最近のban",
+            "no-bans-found-for-reason": "{reason} に対するbanは見つかりませんでした",
+            "period": {
+                "all-time": "すべての時間",
+                "day": "日",
+                "month": "月",
+                "week": "週"
+            },
+            "reason": {
+                "all": "すべて",
+                "battleye": "BattlEye",
+                "boosted": "ブースト",
+                "botting": "ボット",
+                "cheating": "チート",
+                "ddos": "DDoS",
+                "title": "ban理由",
+                "tos-breach": "利用規約違反",
+                "toxic-behavior": "トキシック"
+            },
+            "recent-bans-data": "最近のbanデータ",
+            "title": "ban"
         },
-        "title": "シージマーケットプレイス - Stats.CC - レインボーシックスシージマーケットプレイス統計 & アナリティクス"
-      },
-      "profile": {
-        "description": "{username} のレインボーシックスシージシーズンスタッツを表示します",
-        "played-with": {
-          "description": "{username} が最も対戦したプレイヤー、または一緒にプレイした回数を表示します",
-          "title": "{username} と一緒にプレイ"
+        "gamemodes": {
+            "all": "すべて",
+            "casual": "カジュアル",
+            "events": "イベント",
+            "ranked": "ランク",
+            "standard": "スタンダード",
+            "warmup": "ウォームアップ"
         },
-        "seasons": {
-          "description": "{username} のレインボーシックスシージランクシーズン履歴を表示します。",
-          "title": "{username} シーズン"
+        "home": {
+            "player-search": "プレイヤー検索",
+            "search-a-profile": "プロフィールを検索...",
+            "title": "ホーム",
+            "top-console-players": "Top CSプレイヤー",
+            "top-pc-players": "Top PCプレイヤー"
         },
-        "title": "{username}"
-      },
-      "title": "全レインボーシックスシージ統計"
-    },
-    "streaming-widget": {
-      "description": "ストリーミングウィジェットであなたのシージプロフィール統計をライブストリームに表示します",
-      "title": "ストリーミングウィジェット"
-    },
-    "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
-  },
-  "siege": {
-    "bans": {
-      "n-bans": "{count} ban",
-      "n-recent-bans": "{count} 最近のban",
-      "no-bans-found-for-reason": "{reason} に対するbanは見つかりませんでした",
-      "period": {
-        "all-time": "すべての時間",
-        "day": "日",
-        "month": "月",
-        "week": "週"
-      },
-      "reason": {
-        "all": "すべて",
-        "battleye": "BattlEye",
-        "boosted": "ブースト",
-        "botting": "ボット",
-        "cheating": "チート",
-        "ddos": "DDoS",
-        "title": "ban理由",
-        "tos-breach": "利用規約違反",
-        "toxic-behavior": "トキシック"
-      },
-      "recent-bans-data": "最近のbanデータ",
-      "title": "ban"
-    },
-    "gamemodes": {
-      "all": "すべて",
-      "casual": "カジュアル",
-      "events": "イベント",
-      "ranked": "ランク",
-      "standard": "スタンダード",
-      "warmup": "ウォームアップ"
-    },
-    "home": {
-      "player-search": "プレイヤー検索",
-      "search-a-profile": "プロフィールを検索...",
-      "title": "ホーム",
-      "top-console-players": "Top CSプレイヤー",
-      "top-pc-players": "Top PCプレイヤー"
-    },
-    "leaderboards": {
-      "BAD-percent-of-players": "{percent} のプレイヤーのうち",
-      "BAD-player-count": "{count} プレイヤー",
-      "last-update": "{date}に更新",
-      "title": "リーダーボード",
-      "top-percent": "上位 {percent}%",
-      "total-players": "{count} プレイヤー"
-    },
-    "marketplace": {
-      "1-year-averages": "1年間の平均",
-      "24-hour-averages": "24時間平均",
-      "7-day-averages": "7日間の平均",
-      "avg-demand-short": "平均需要",
-      "avg-price-last-7-days": "過去7日間の平均価格",
-      "avg-price-short": "平均価格",
-      "avg-supply-short": "平均供給",
-      "back-to-marketplace": "マーケットプレースに戻る",
-      "currency": "通貨",
-      "demand": "需要",
-      "faq": {
-        "how-can-i-trade": {
-          "description": "当社はUBISOFTと提携していませんので、公式の{0}でアイテムを取引する必要があります。",
-          "description-link": "レインボーシックスシージマーケットプレース",
-          "title": "どのようにアイテムを取引できますか？"
+        "leaderboards": {
+            "BAD-percent-of-players": "{percent} のプレイヤーのうち",
+            "BAD-player-count": "{count} プレイヤー",
+            "last-update": "{date}に更新",
+            "title": "リーダーボード",
+            "top-percent": "上位 {percent}%",
+            "total-players": "{count} プレイヤー"
         },
-        "title": "R6マーケットプレースFAQ",
-        "what-currency": {
-          "description": "R6クレジットのみでアイテムを購入でき、アイテムを売却するとR6クレジットのみを受け取ります。",
-          "title": "マーケットプレースで使用される通貨は何ですか？"
+        "marketplace": {
+            "1-year-averages": "1年間の平均",
+            "24-hour-averages": "24時間平均",
+            "7-day-averages": "7日間の平均",
+            "avg-demand-short": "平均需要",
+            "avg-price-last-7-days": "過去7日間の平均価格",
+            "avg-price-short": "平均価格",
+            "avg-supply-short": "平均供給",
+            "back-to-marketplace": "マーケットプレースに戻る",
+            "currency": "通貨",
+            "demand": "需要",
+            "faq": {
+                "how-can-i-trade": {
+                    "description": "当社はUBISOFTと提携していませんので、公式の{0}でアイテムを取引する必要があります。",
+                    "description-link": "レインボーシックスシージマーケットプレース",
+                    "title": "どのようにアイテムを取引できますか？"
+                },
+                "title": "R6マーケットプレースFAQ",
+                "what-currency": {
+                    "description": "R6クレジットのみでアイテムを購入でき、アイテムを売却するとR6クレジットのみを受け取ります。",
+                    "title": "マーケットプレースで使用される通貨は何ですか？"
+                },
+                "what-is-marketplace": {
+                    "description": "マーケットプレースは、レインボーシックスシージのアイテムを購入および販売する場所です。他のプレイヤーからアイテムを購入したり、自分でアンロックしたアイテムを販売したりできます。これにより、以前は非常にレアで特定のアカウントにロックされていたスキンを購入できるようになります。",
+                    "title": "レインボーシックスシージマーケットプレースとは何ですか？"
+                }
+            },
+            "filters": {
+                "events": {
+                    "title": "イベント"
+                },
+                "item-type": {
+                    "attachment-skin": "アタッチメントスキン",
+                    "card-background": "カードの背景",
+                    "charm": "チャーム",
+                    "drone-skin": "ドローンスキン",
+                    "headgear": "ヘッドギア",
+                    "operator-portrait": "オペレーターポートレート",
+                    "title": "アイテムタイプ",
+                    "uniform": "ユニフォーム",
+                    "weapon-skin": "ウェポンスキン"
+                },
+                "operators": {
+                    "title": "オペレーター"
+                },
+                "others": {
+                    "title": "その他"
+                },
+                "rarity": {
+                    "title": "レアリティ"
+                },
+                "seasons": {
+                    "title": "シーズン"
+                },
+                "sort-by": {
+                    "average-price": "平均価格",
+                    "display-name": "表示名",
+                    "price-change": "価格変動",
+                    "title": "並び替え"
+                },
+                "sort-order": {
+                    "ascending": "昇順（A > Z）",
+                    "descending": "降順（Z > A）",
+                    "title": "順序"
+                },
+                "title": "フィルター",
+                "weapons": {
+                    "title": "武器"
+                }
+            },
+            "interval": {
+                "daily": "毎日",
+                "hourly": "毎時",
+                "monthly": "毎月",
+                "quarterly": "四半期ごと",
+                "weekly": "毎週",
+                "yearly": "毎年"
+            },
+            "interval-price-history": "{interval} 価格履歴",
+            "item-removed-from-marketplace": "このアイテムはマーケットプレースから削除されました。",
+            "price": "価格",
+            "price-change": "価格変動",
+            "r6-credits": "R6クレジット",
+            "search": "アイテム名で検索",
+            "season-released-in": "{ynsn}にリリース",
+            "supply": "供給",
+            "title": "R6 マーケットプレース",
+            "title-short": "マーケットプレイス",
+            "top-items-by-price": "価格別トップアイテム",
+            "top-items-by-price-change": "価格変動別トップアイテム",
+            "view-on-ubisoft": "Ubisoftで表示"
         },
-        "what-is-marketplace": {
-          "description": "マーケットプレースは、レインボーシックスシージのアイテムを購入および販売する場所です。他のプレイヤーからアイテムを購入したり、自分でアンロックしたアイテムを販売したりできます。これにより、以前は非常にレアで特定のアカウントにロックされていたスキンを購入できるようになります。",
-          "title": "レインボーシックスシージマーケットプレースとは何ですか？"
+        "profile": {
+            "current-season": "現在のシーズン",
+            "failed-to-load": "このプロファイルの読み込みに失敗しました。",
+            "last-played": "最終プレイ",
+            "leaderboard-position": "リーダーボードポジション",
+            "match-count": "{count} マッチ",
+            "no-matches-played": "試合はありません",
+            "past-24-hours": "過去24時間",
+            "past-30-days": "過去30日間",
+            "past-7-days": "過去7日間",
+            "played-with": {
+                "info-banner": "{username} がこのシーズンに一緒にプレイした人々",
+                "no-played-with": "{username} はまだ誰ともプレイしていません",
+                "title": "一緒にプレイした"
+            },
+            "rank-reset-due-to-ban": "禁止のためランクがリセットされました",
+            "ranked-2-max-ranks": "ランク2.0の最大ランク",
+            "ranked-sessions": {
+                "1": "このチャートは、プロファイルの最近のセッションと各セッションの後のランクを示しています。",
+                "2": "個々のポイントにカーソルを合わせると、セッションの詳細が表示されます。",
+                "3": "範囲をドラッグしてズームし、Ctrlキーを押しながらドラッグしてパンすることができます。",
+                "title": "ランクセッション"
+            },
+            "regions-played": "プレイされた地域",
+            "report": {
+                "title": "報告"
+            },
+            "rp-change": "RP変更",
+            "seasons": {
+                "old-seasons-banner": "過去のシーズンデータは将来追加されます。",
+                "title": "シーズン"
+            },
+            "sessions": {
+                "no-sessions": "フィルターに基づいてセッションが見つかりませんでした。"
+            },
+            "update": {
+                "failed": "失敗しました",
+                "timeout": "更新がタイムアウトしました。ページを更新するとすぐに完了します。",
+                "tooltip": {
+                    "1": "このプロファイルはまだ更新できません。",
+                    "2": "このプロファイルにとどまり、プレイヤーのマッチが終了すると自動的に更新されます。",
+                    "3": "通常、この更新ボタンを押す必要はありませんが、プロファイルのデータが同期されていないと感じる場合に役立ちます。"
+                },
+                "update": "更新",
+                "updated": "更新済み",
+                "updating": "更新中"
+            },
+            "update-time-out": "更新がタイムアウトしました。ページを更新するとすぐに完了します。",
+            "username-history": "ユーザー名の履歴",
+            "wl-streak": "WLストリーク"
+        },
+        "streaming-widget": {
+            "description": "ストリーミングウィジェットは、ライブストリームでプロフィールの統計を表示する素晴らしい方法です。現在はかなりシンプルですが、将来的にはより多くのカスタマイズを提供します。現在はランクのみをサポートしていますが、他のモードのサポートをお探しの場合は、{0}でお問い合わせください。",
+            "how-to-use": {
+                "profile-link": "プロファイルリンク...",
+                "step-1": "1. 下のボックスにプロファイルリンクをコピーして貼り付け、コピーをクリックします。",
+                "step-2": "2. ライブストリームソフトウェアに移動し、\"ソース\"タブで\"ブラウザソース\"を作成します。",
+                "step-3": "3. ストリーミングウィジェットリンクを\"ブラウザソース\"フィールドに貼り付けます。",
+                "step-4": "4. ウィジェットのサイズと位置を必要に応じて調整します。",
+                "title": "使用方法",
+                "your-widget-link": "ストリーミングウィジェットリンク"
+            },
+            "invalid-profile-link": "無効なプロファイルリンク",
+            "title": "ストリーミングウィジェット",
+            "widget-image-caption": "これが当社のウィジェットの外観です："
         }
-      },
-      "filters": {
-        "events": {
-          "title": "イベント"
-        },
-        "item-type": {
-          "attachment-skin": "アタッチメントスキン",
-          "card-background": "カードの背景",
-          "charm": "チャーム",
-          "drone-skin": "ドローンスキン",
-          "headgear": "ヘッドギア",
-          "operator-portrait": "オペレーターポートレート",
-          "title": "アイテムタイプ",
-          "uniform": "ユニフォーム",
-          "weapon-skin": "ウェポンスキン"
-        },
-        "operators": {
-          "title": "オペレーター"
-        },
-        "others": {
-          "title": "その他"
-        },
-        "rarity": {
-          "title": "レアリティ"
-        },
-        "seasons": {
-          "title": "シーズン"
-        },
-        "sort-by": {
-          "average-price": "平均価格",
-          "display-name": "表示名",
-          "price-change": "価格変動",
-          "title": "並び替え"
-        },
-        "sort-order": {
-          "ascending": "昇順（A > Z）",
-          "descending": "降順（Z > A）",
-          "title": "順序"
-        },
-        "title": "フィルター",
-        "weapons": {
-          "title": "武器"
-        }
-      },
-      "interval": {
-        "daily": "毎日",
-        "hourly": "毎時",
-        "monthly": "毎月",
-        "quarterly": "四半期ごと",
-        "weekly": "毎週",
-        "yearly": "毎年"
-      },
-      "interval-price-history": "{interval} 価格履歴",
-      "item-removed-from-marketplace": "このアイテムはマーケットプレースから削除されました。",
-      "price": "価格",
-      "price-change": "価格変動",
-      "r6-credits": "R6クレジット",
-      "search": "アイテム名で検索",
-      "season-released-in": "{ynsn}にリリース",
-      "supply": "供給",
-      "title": "R6 マーケットプレース",
-      "title-short": "マーケットプレイス",
-      "top-items-by-price": "価格別トップアイテム",
-      "top-items-by-price-change": "価格変動別トップアイテム",
-      "view-on-ubisoft": "Ubisoftで表示"
     },
-    "profile": {
-      "current-season": "現在のシーズン",
-      "failed-to-load": "このプロファイルの読み込みに失敗しました。",
-      "last-played": "最終プレイ",
-      "leaderboard-position": "リーダーボードポジション",
-      "match-count": "{count} マッチ",
-      "no-matches-played": "試合はありません",
-      "past-24-hours": "過去24時間",
-      "past-30-days": "過去30日間",
-      "past-7-days": "過去7日間",
-      "played-with": {
-        "info-banner": "{username} がこのシーズンに一緒にプレイした人々",
-        "no-played-with": "{username} はまだ誰ともプレイしていません",
-        "title": "一緒にプレイした"
-      },
-      "rank-reset-due-to-ban": "禁止のためランクがリセットされました",
-      "ranked-2-max-ranks": "ランク2.0の最大ランク",
-      "ranked-sessions": {
-        "1": "このチャートは、プロファイルの最近のセッションと各セッションの後のランクを示しています。",
-        "2": "個々のポイントにカーソルを合わせると、セッションの詳細が表示されます。",
-        "3": "範囲をドラッグしてズームし、Ctrlキーを押しながらドラッグしてパンすることができます。",
-        "title": "ランクセッション"
-      },
-      "regions-played": "プレイされた地域",
-      "report": {
-        "title": "報告"
-      },
-      "rp-change": "RP変更",
-      "seasons": {
-        "old-seasons-banner": "過去のシーズンデータは将来追加されます。",
-        "title": "シーズン"
-      },
-      "sessions": {
-        "no-sessions": "フィルターに基づいてセッションが見つかりませんでした。"
-      },
-      "update": {
-        "failed": "失敗しました",
-        "timeout": "更新がタイムアウトしました。ページを更新するとすぐに完了します。",
-        "tooltip": {
-          "1": "このプロファイルはまだ更新できません。",
-          "2": "このプロファイルにとどまり、プレイヤーのマッチが終了すると自動的に更新されます。",
-          "3": "通常、この更新ボタンを押す必要はありませんが、プロファイルのデータが同期されていないと感じる場合に役立ちます。"
-        },
-        "update": "更新",
-        "updated": "更新済み",
-        "updating": "更新中"
-      },
-      "update-time-out": "更新がタイムアウトしました。ページを更新するとすぐに完了します。",
-      "username-history": "ユーザー名の履歴",
-      "wl-streak": "WLストリーク"
-    },
-    "streaming-widget": {
-      "description": "ストリーミングウィジェットは、ライブストリームでプロフィールの統計を表示する素晴らしい方法です。現在はかなりシンプルですが、将来的にはより多くのカスタマイズを提供します。現在はランクのみをサポートしていますが、他のモードのサポートをお探しの場合は、{0}でお問い合わせください。",
-      "how-to-use": {
-        "profile-link": "プロファイルリンク...",
-        "step-1": "1. 下のボックスにプロファイルリンクをコピーして貼り付け、コピーをクリックします。",
-        "step-2": "2. ライブストリームソフトウェアに移動し、\"ソース\"タブで\"ブラウザソース\"を作成します。",
-        "step-3": "3. ストリーミングウィジェットリンクを\"ブラウザソース\"フィールドに貼り付けます。",
-        "step-4": "4. ウィジェットのサイズと位置を必要に応じて調整します。",
-        "title": "使用方法",
-        "your-widget-link": "ストリーミングウィジェットリンク"
-      },
-      "invalid-profile-link": "無効なプロファイルリンク",
-      "title": "ストリーミングウィジェット",
-      "widget-image-caption": "これが当社のウィジェットの外観です："
+    "social": {
+        "follow-us-twitter": "Twitterでフォロー",
+        "join-our-discord": "Discordに参加",
+        "marketplace-subreddit": "Siegeマーケットプレースのサブレディット"
     }
-  },
-  "social": {
-    "follow-us-twitter": "Twitterでフォロー",
-    "join-our-discord": "Discordに参加",
-    "marketplace-subreddit": "Siegeマーケットプレースのサブレディット"
-  }
 }

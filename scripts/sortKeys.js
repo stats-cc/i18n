@@ -30,9 +30,7 @@ function sortJsonFiles(directory) {
 		const fileData = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
 		const sortedData = deepSortObject(fileData);
-		fs.writeFileSync(filePath, JSON.stringify(sortedData, null, 2), "utf8");
-
-		console.log(`Sorted ${file}`);
+		fs.writeFileSync(filePath, JSON.stringify(sortedData, null, 4), "utf8");
 	});
 
 	console.log("All JSON files have been sorted.");

@@ -1,338 +1,338 @@
 {
-  "common": {
-    "all": "tous",
-    "assists": "assistances",
-    "category": "catégorie",
-    "console": "console",
-    "copied!": "copié!",
-    "copy": "copier",
-    "current": "actuel",
-    "date": "date",
-    "deaths": "morts",
-    "draw": "match nul",
-    "email": "email",
-    "kd": "KD",
-    "kills": "éliminations",
-    "kills-per-match": "élim/Match",
-    "kpm": "KPM",
-    "level": "niveau",
-    "loss": "défaite",
-    "loss-short": "D",
-    "losses": "défaites",
-    "lost": "perdues",
-    "matches": "matchs",
-    "max-rank": "classement maximum",
-    "message": "message",
-    "missing-data": "données manquantes",
-    "mmr": "mmr",
-    "name": "nom",
-    "new": "nouveau",
-    "no-data": "pas de données",
-    "no-results": "aucun résultat",
-    "pc": "pc",
-    "players": "joueurs",
-    "rank": "classement",
-    "reason": "raison",
-    "rollback": "rollback",
-    "rp": "{amount} RP",
-    "season": "saison",
-    "show-all": "afficher tout",
-    "show-less": "afficher moins",
-    "show-more": "afficher plus",
-    "submit": "envoyer",
-    "tie": "égalité",
-    "view-details": "voir les détails",
-    "views": "vues",
-    "win": "victoire",
-    "win-short": "V",
-    "wins": "victoires",
-    "won": "gagnées",
-    "wr": "WR"
-  },
-  "contact-us": {
-    "description": "Nous aimerions avoir de vos nouvelles ! Remplissez le formulaire ci-dessous ou envoyez-nous un email à {0}.",
-    "error-occured": "Une erreur s'est produite lors de l'envoi de votre message.",
-    "fields-are-invalid": "Les champs suivants ne sont pas valides : {fields}",
-    "fill-out-all-fields": "Veuillez remplir tous les champs.",
-    "submitted": "Votre demande a été envoyée, nous vous répondrons par email bientôt.",
-    "title": "Contactez-nous"
-  },
-  "footer": {
-    "contact-us": "Contactez-nous",
-    "discord-server": "Serveur Discord",
-    "extra-pages": "Pages Supplémentaires",
-    "language": "Langue",
-    "partners": "Partenaires",
-    "privacy-policy": "Politique de Confidentialité",
-    "reddit-marketplace-subreddit": "Subreddit du Marketplace Rainbow Six Siege",
-    "roadmap": "Feuille de Route",
-    "social-media": "Réseaux Sociaux",
-    "terms-of-service": "Conditions d'Utilisation",
-    "twitter-account": "Compte Twitter"
-  },
-  "misc": {
-    "help-translate": "Vous voulez aider à traduire le site ? Rejoignez notre Discord et demandez !"
-  },
-  "search": {
-    "clear-recents": "Effacer les Récents",
-    "error": "Erreur lors de la recherche : {error}",
-    "force-search": "Forcer la Recherche",
-    "no-players-found": "Aucun joueur trouvé",
-    "profiles": "Rechercher des Profils",
-    "search-results": "{count} résultats de recherche"
-  },
-  "seo": {
-    "home": {
-      "description": "Consultez les statistiques des profils Rainbow Six Siege"
+    "common": {
+        "all": "tous",
+        "assists": "assistances",
+        "category": "catégorie",
+        "console": "console",
+        "copied!": "copié!",
+        "copy": "copier",
+        "current": "actuel",
+        "date": "date",
+        "deaths": "morts",
+        "draw": "match nul",
+        "email": "email",
+        "kd": "KD",
+        "kills": "éliminations",
+        "kills-per-match": "élim/Match",
+        "kpm": "KPM",
+        "level": "niveau",
+        "loss": "défaite",
+        "loss-short": "D",
+        "losses": "défaites",
+        "lost": "perdues",
+        "matches": "matchs",
+        "max-rank": "classement maximum",
+        "message": "message",
+        "missing-data": "données manquantes",
+        "mmr": "mmr",
+        "name": "nom",
+        "new": "nouveau",
+        "no-data": "pas de données",
+        "no-results": "aucun résultat",
+        "pc": "pc",
+        "players": "joueurs",
+        "rank": "classement",
+        "reason": "raison",
+        "rollback": "rollback",
+        "rp": "{amount} RP",
+        "season": "saison",
+        "show-all": "afficher tout",
+        "show-less": "afficher moins",
+        "show-more": "afficher plus",
+        "submit": "envoyer",
+        "tie": "égalité",
+        "view-details": "voir les détails",
+        "views": "vues",
+        "win": "victoire",
+        "win-short": "V",
+        "wins": "victoires",
+        "won": "gagnées",
+        "wr": "WR"
+    },
+    "contact-us": {
+        "description": "Nous aimerions avoir de vos nouvelles ! Remplissez le formulaire ci-dessous ou envoyez-nous un email à {0}.",
+        "error-occured": "Une erreur s'est produite lors de l'envoi de votre message.",
+        "fields-are-invalid": "Les champs suivants ne sont pas valides : {fields}",
+        "fill-out-all-fields": "Veuillez remplir tous les champs.",
+        "submitted": "Votre demande a été envoyée, nous vous répondrons par email bientôt.",
+        "title": "Contactez-nous"
+    },
+    "footer": {
+        "contact-us": "Contactez-nous",
+        "discord-server": "Serveur Discord",
+        "extra-pages": "Pages Supplémentaires",
+        "language": "Langue",
+        "partners": "Partenaires",
+        "privacy-policy": "Politique de Confidentialité",
+        "reddit-marketplace-subreddit": "Subreddit du Marketplace Rainbow Six Siege",
+        "roadmap": "Feuille de Route",
+        "social-media": "Réseaux Sociaux",
+        "terms-of-service": "Conditions d'Utilisation",
+        "twitter-account": "Compte Twitter"
+    },
+    "misc": {
+        "help-translate": "Vous voulez aider à traduire le site ? Rejoignez notre Discord et demandez !"
+    },
+    "search": {
+        "clear-recents": "Effacer les Récents",
+        "error": "Erreur lors de la recherche : {error}",
+        "force-search": "Forcer la Recherche",
+        "no-players-found": "Aucun joueur trouvé",
+        "profiles": "Rechercher des Profils",
+        "search-results": "{count} résultats de recherche"
+    },
+    "seo": {
+        "home": {
+            "description": "Consultez les statistiques des profils Rainbow Six Siege"
+        },
+        "siege": {
+            "bans": {
+                "description": "Banissements récents de Rainbow Six: Siege",
+                "title": "Banissements Récents"
+            },
+            "description": "Consultez les statistiques de profil de Rainbow Six Siege, les classements des meilleurs joueurs et bien plus encore.",
+            "leaderboards": {
+                "description": "Découvrez les 10 000 meilleurs joueurs {platform} de Rainbow Six Siege ",
+                "title": "{platform} Classements"
+            },
+            "marketplace": {
+                "description": "Le Rainbow Six Siege Marketplace avec des analyses et des statistiques approfondies sur les prix des articles. Consultez l’historique des prix des articles Rainbow Six Siege.",
+                "item": {
+                    "description": "Données historiques sur les prix du Marketplace pour les articles Rainbow Six Siege {itemName}",
+                    "title": "Siege Marketplace - {itemName} - Statistiques et analyses du Marketplace Rainbow Six Siege"
+                },
+                "title": "Siege Marketplace - Rainbow Six Siege Marketplace Stats & Analytics - Stats.CC"
+            },
+            "profile": {
+                "description": "Voir les statistiques du profil saisonnier de Rainbow Six Siege de {username}",
+                "played-with": {
+                    "description": "Découvrez contre qui ou avec qui {username} joue le plus, et combien de fois ils ont joué.",
+                    "title": "{username} Joué avec"
+                },
+                "seasons": {
+                    "description": "Consultez l'historique de la saison classée de Rainbow Six Siege de {username}, y compris les statistiques, le classement maximum et bien plus encore.",
+                    "title": "{username} Saisons"
+                },
+                "title": "{username}"
+            },
+            "title": "Toutes les statistiques Rainbow Six Siege"
+        },
+        "streaming-widget": {
+            "description": "Affichez vos statistiques de votre profil Rainbow Six Siege sur votre stream avec notre widget.",
+            "title": "Streaming Widget"
+        },
+        "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
     },
     "siege": {
-      "bans": {
-        "description": "Banissements récents de Rainbow Six: Siege",
-        "title": "Banissements Récents"
-      },
-      "description": "Consultez les statistiques de profil de Rainbow Six Siege, les classements des meilleurs joueurs et bien plus encore.",
-      "leaderboards": {
-        "description": "Découvrez les 10 000 meilleurs joueurs {platform} de Rainbow Six Siege ",
-        "title": "{platform} Classements"
-      },
-      "marketplace": {
-        "description": "Le Rainbow Six Siege Marketplace avec des analyses et des statistiques approfondies sur les prix des articles. Consultez l’historique des prix des articles Rainbow Six Siege.",
-        "item": {
-          "description": "Données historiques sur les prix du Marketplace pour les articles Rainbow Six Siege {itemName}",
-          "title": "Siege Marketplace - {itemName} - Statistiques et analyses du Marketplace Rainbow Six Siege"
+        "bans": {
+            "n-bans": "{count} Bannissements",
+            "n-recent-bans": "{count} Bannissements Récents",
+            "no-bans-found-for-reason": "Aucun bannissement trouvé pour {reason}",
+            "period": {
+                "all-time": "Tout le Temps",
+                "day": "Jour",
+                "month": "Mois",
+                "week": "Semaine"
+            },
+            "reason": {
+                "all": "Tous",
+                "battleye": "BattlEye",
+                "boosted": "Boosté",
+                "botting": "Botting",
+                "cheating": "Triche",
+                "ddos": "DDoS",
+                "title": "Raison du Bannissement",
+                "tos-breach": "Violation des CGU",
+                "toxic-behavior": "Comportement Toxique"
+            },
+            "recent-bans-data": "Données des Bannissements Récents",
+            "title": "Bannissements"
         },
-        "title": "Siege Marketplace - Rainbow Six Siege Marketplace Stats & Analytics - Stats.CC"
-      },
-      "profile": {
-        "description": "Voir les statistiques du profil saisonnier de Rainbow Six Siege de {username}",
-        "played-with": {
-          "description": "Découvrez contre qui ou avec qui {username} joue le plus, et combien de fois ils ont joué.",
-          "title": "{username} Joué avec"
+        "gamemodes": {
+            "all": "Tous",
+            "casual": "Simple",
+            "events": "Événement",
+            "ranked": "Classé",
+            "standard": "Standard",
+            "warmup": "Échauffement"
         },
-        "seasons": {
-          "description": "Consultez l'historique de la saison classée de Rainbow Six Siege de {username}, y compris les statistiques, le classement maximum et bien plus encore.",
-          "title": "{username} Saisons"
+        "home": {
+            "player-search": "Recherche de Joueur",
+            "search-a-profile": "Rechercher un profil",
+            "title": "Accueil",
+            "top-console-players": "Meilleurs Joueurs Console",
+            "top-pc-players": "Meilleurs Joueurs PC"
         },
-        "title": "{username}"
-      },
-      "title": "Toutes les statistiques Rainbow Six Siege"
-    },
-    "streaming-widget": {
-      "description": "Affichez vos statistiques de votre profil Rainbow Six Siege sur votre stream avec notre widget.",
-      "title": "Streaming Widget"
-    },
-    "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
-  },
-  "siege": {
-    "bans": {
-      "n-bans": "{count} Bannissements",
-      "n-recent-bans": "{count} Bannissements Récents",
-      "no-bans-found-for-reason": "Aucun bannissement trouvé pour {reason}",
-      "period": {
-        "all-time": "Tout le Temps",
-        "day": "Jour",
-        "month": "Mois",
-        "week": "Semaine"
-      },
-      "reason": {
-        "all": "Tous",
-        "battleye": "BattlEye",
-        "boosted": "Boosté",
-        "botting": "Botting",
-        "cheating": "Triche",
-        "ddos": "DDoS",
-        "title": "Raison du Bannissement",
-        "tos-breach": "Violation des CGU",
-        "toxic-behavior": "Comportement Toxique"
-      },
-      "recent-bans-data": "Données des Bannissements Récents",
-      "title": "Bannissements"
-    },
-    "gamemodes": {
-      "all": "Tous",
-      "casual": "Simple",
-      "events": "Événement",
-      "ranked": "Classé",
-      "standard": "Standard",
-      "warmup": "Échauffement"
-    },
-    "home": {
-      "player-search": "Recherche de Joueur",
-      "search-a-profile": "Rechercher un profil",
-      "title": "Accueil",
-      "top-console-players": "Meilleurs Joueurs Console",
-      "top-pc-players": "Meilleurs Joueurs PC"
-    },
-    "leaderboards": {
-      "BAD-percent-of-players": "{percent} de tous les joueurs",
-      "BAD-player-count": "{count} joueurs",
-      "last-update": "Mis à jour le {date}",
-      "title": "Classements",
-      "top-percent": "Top {percent}%",
-      "total-players": "{count} joueurs"
-    },
-    "marketplace": {
-      "1-year-averages": "Moyennes d'1 an",
-      "24-hour-averages": "Moyennes de 24 heures",
-      "7-day-averages": "Moyennes de 7 jours",
-      "avg-demand-short": "Demande Moy.",
-      "avg-price-last-7-days": "Prix moyen des 7 derniers jours",
-      "avg-price-short": "Prix Moy.",
-      "avg-supply-short": "Offre Moy.",
-      "back-to-marketplace": "Retour au Marketplace",
-      "currency": "devise",
-      "demand": "demande",
-      "faq": {
-        "how-can-i-trade": {
-          "description": "Nous ne sommes pas affiliés à Ubisoft, donc vous devrez échanger vos objets sur le {0} officiel.",
-          "description-link": "Marketplace Rainbow Six Siege",
-          "title": "Comment puis-je échanger des objets ?"
+        "leaderboards": {
+            "BAD-percent-of-players": "{percent} de tous les joueurs",
+            "BAD-player-count": "{count} joueurs",
+            "last-update": "Mis à jour le {date}",
+            "title": "Classements",
+            "top-percent": "Top {percent}%",
+            "total-players": "{count} joueurs"
         },
-        "title": "FAQ du Marketplace de R6",
-        "what-currency": {
-          "description": "Vous ne pouvez acheter des objets qu'avec des R6 Credits, et vous ne recevrez des R6 Credits que lorsque vous vendrez un objet.",
-          "title": "Quelle est la devise utilisée sur le Marketplace ?"
+        "marketplace": {
+            "1-year-averages": "Moyennes d'1 an",
+            "24-hour-averages": "Moyennes de 24 heures",
+            "7-day-averages": "Moyennes de 7 jours",
+            "avg-demand-short": "Demande Moy.",
+            "avg-price-last-7-days": "Prix moyen des 7 derniers jours",
+            "avg-price-short": "Prix Moy.",
+            "avg-supply-short": "Offre Moy.",
+            "back-to-marketplace": "Retour au Marketplace",
+            "currency": "devise",
+            "demand": "demande",
+            "faq": {
+                "how-can-i-trade": {
+                    "description": "Nous ne sommes pas affiliés à Ubisoft, donc vous devrez échanger vos objets sur le {0} officiel.",
+                    "description-link": "Marketplace Rainbow Six Siege",
+                    "title": "Comment puis-je échanger des objets ?"
+                },
+                "title": "FAQ du Marketplace de R6",
+                "what-currency": {
+                    "description": "Vous ne pouvez acheter des objets qu'avec des R6 Credits, et vous ne recevrez des R6 Credits que lorsque vous vendrez un objet.",
+                    "title": "Quelle est la devise utilisée sur le Marketplace ?"
+                },
+                "what-is-marketplace": {
+                    "description": "Le Marketplace est un endroit où vous pouvez acheter et vendre des objets pour Rainbow Six Siege. Vous pouvez acheter des objets à d'autres joueurs, ou vous pouvez vendre des objets que vous avez débloqués vous-même. Cela vous permet d'acheter des skins qui étaient auparavant extrêmement rares et verrouillées sur un compte spécifique.",
+                    "title": "Qu'est-ce que le Marketplace Rainbow Six Siege ?"
+                }
+            },
+            "filters": {
+                "events": {
+                    "title": "Événements"
+                },
+                "item-type": {
+                    "attachment-skin": "Skin de Fixation",
+                    "card-background": "Arrière-plan de Carte",
+                    "charm": "Breloque",
+                    "drone-skin": "Skin de Drone",
+                    "headgear": "Coiffe",
+                    "operator-portrait": "Portrait d'Opérateur",
+                    "title": "Type d'Objet",
+                    "uniform": "Uniforme",
+                    "weapon-skin": "Skin d'Arme"
+                },
+                "operators": {
+                    "title": "Opérateurs"
+                },
+                "others": {
+                    "title": "Autres"
+                },
+                "rarity": {
+                    "title": "Rareté"
+                },
+                "seasons": {
+                    "title": "Saisons"
+                },
+                "sort-by": {
+                    "average-price": "Prix Moyen",
+                    "display-name": "Nom d'Affichage",
+                    "price-change": "Changement de Prix",
+                    "title": "Trier par"
+                },
+                "sort-order": {
+                    "ascending": "Ascendant (A > Z)",
+                    "descending": "Descendant (Z > A)",
+                    "title": "Ordre"
+                },
+                "title": "Filtres",
+                "weapons": {
+                    "title": "Armes"
+                }
+            },
+            "interval": {
+                "daily": "Quotidien",
+                "hourly": "Par Heure",
+                "monthly": "Mensuel",
+                "quarterly": "Trimestriel",
+                "weekly": "Hebdomadaire",
+                "yearly": "Annuel"
+            },
+            "interval-price-history": "{interval} Historique des Prix",
+            "item-removed-from-marketplace": "Cet objet a été retiré du marché.",
+            "price": "prix",
+            "price-change": "Changement de Prix",
+            "r6-credits": "R6 Credits",
+            "search": "Rechercher par nom d'objet",
+            "season-released-in": "Sorti dans {ynsn}",
+            "supply": "offre",
+            "title": "R6 Marketplace",
+            "title-short": "Marketplace",
+            "top-items-by-price": "Meilleurs Objets par Prix",
+            "top-items-by-price-change": "Meilleurs Objets par Changement de Prix",
+            "view-on-ubisoft": "Voir sur Ubisoft"
         },
-        "what-is-marketplace": {
-          "description": "Le Marketplace est un endroit où vous pouvez acheter et vendre des objets pour Rainbow Six Siege. Vous pouvez acheter des objets à d'autres joueurs, ou vous pouvez vendre des objets que vous avez débloqués vous-même. Cela vous permet d'acheter des skins qui étaient auparavant extrêmement rares et verrouillées sur un compte spécifique.",
-          "title": "Qu'est-ce que le Marketplace Rainbow Six Siege ?"
+        "profile": {
+            "current-season": "Saison Actuelle",
+            "failed-to-load": "Ce profil n'a pas pu être chargé.",
+            "last-played": "Dernière Partie",
+            "leaderboard-position": "Position dans le Classement",
+            "match-count": "{count} Parties",
+            "no-matches-played": "Aucunes parties jouées",
+            "past-24-hours": "24 Dernières Heures",
+            "past-30-days": "30 Derniers Jours",
+            "past-7-days": "7 Derniers Jours",
+            "played-with": {
+                "info-banner": "Personnes avec lesquelles {username} a joué ou contre cette saison",
+                "no-played-with": "{username} n'a pas encore joué avec personne",
+                "title": "Joué Avec"
+            },
+            "rank-reset-due-to-ban": "Réinitialisation du Classement en raison d'un Bannissement",
+            "ranked-2-max-ranks": "Rangs Max du Classé 2.0",
+            "ranked-sessions": {
+                "1": "Ce graphique trace les sessions récentes d'un profil et leur classement après chaque session.",
+                "2": "Vous pouvez survoler les points individuels pour voir les détails d'une session.",
+                "3": "Vous pouvez zoomer en faisant glisser sur une plage et déplacer en maintenant la touche ctrl enfoncée et en faisant glisser.",
+                "title": "Sessions Classées"
+            },
+            "regions-played": "Régions Jouées",
+            "report": {
+                "title": "Signaler"
+            },
+            "rp-change": "Changement RP",
+            "seasons": {
+                "old-seasons-banner": "Les données des anciennes saisons seront ajoutées ultérieurement.",
+                "title": "Saisons"
+            },
+            "sessions": {
+                "no-sessions": "Aucune session trouvée selon vos filtres."
+            },
+            "update": {
+                "failed": "Échoué",
+                "timeout": "La mise à jour a expiré. Actualisez la page et elle sera bientôt effectuée.",
+                "tooltip": {
+                    "1": "Ce profil ne peut pas encore être mis à jour.",
+                    "2": "Vous pouvez rester sur ce profil et il se rafraîchira automatiquement lorsqu'une mise à jour sera disponible, par exemple lorsque la partie du joueur se termine.",
+                    "3": "Généralement, appuyer sur ce bouton de rafraîchissement n'est pas nécessaire, mais peut aider si vous pensez que les données du profil ne sont pas synchronisées."
+                },
+                "update": "Actualiser",
+                "updated": "Mis à Jour",
+                "updating": "Mise à Jour"
+            },
+            "update-time-out": "Mise à jour expirée. Actualisez la page et elle sera bientôt effectuée.",
+            "username-history": "Historique des Pseudonymes",
+            "wl-streak": "Série V/D"
+        },
+        "streaming-widget": {
+            "description": "Les widgets de streaming sont un excellent moyen d'afficher les statistiques de votre profil sur votre flux en direct. Pour l'instant, le nôtre est assez simple, mais à l'avenir, nous fournirons beaucoup plus de personnalisation. Actuellement, il ne prend en charge que le classé, mais si vous recherchez une assistance pour d'autres modes, contactez-nous sur {0}.",
+            "how-to-use": {
+                "profile-link": "Lien de Profil...",
+                "step-1": "1. Copiez-collez le lien de votre profil dans la boîte ci-dessous et cliquez sur copier",
+                "step-2": "2. Allez dans votre logiciel de diffusion en direct et créez une « Source de Navigateur » dans l'onglet « Sources ».",
+                "step-3": "3. Collez votre Lien de Widget de Streaming dans le champ « Source de Navigateur ».",
+                "step-4": "4. Ajustez la taille et le positionnement du widget comme désiré.",
+                "title": "Comment Utiliser",
+                "your-widget-link": "Votre Lien de Widget de Streaming"
+            },
+            "invalid-profile-link": "Lien de profil invalide",
+            "title": "Widget de Streaming",
+            "widget-image-caption": "Voici à quoi ressemble notre widget :"
         }
-      },
-      "filters": {
-        "events": {
-          "title": "Événements"
-        },
-        "item-type": {
-          "attachment-skin": "Skin de Fixation",
-          "card-background": "Arrière-plan de Carte",
-          "charm": "Breloque",
-          "drone-skin": "Skin de Drone",
-          "headgear": "Coiffe",
-          "operator-portrait": "Portrait d'Opérateur",
-          "title": "Type d'Objet",
-          "uniform": "Uniforme",
-          "weapon-skin": "Skin d'Arme"
-        },
-        "operators": {
-          "title": "Opérateurs"
-        },
-        "others": {
-          "title": "Autres"
-        },
-        "rarity": {
-          "title": "Rareté"
-        },
-        "seasons": {
-          "title": "Saisons"
-        },
-        "sort-by": {
-          "average-price": "Prix Moyen",
-          "display-name": "Nom d'Affichage",
-          "price-change": "Changement de Prix",
-          "title": "Trier par"
-        },
-        "sort-order": {
-          "ascending": "Ascendant (A > Z)",
-          "descending": "Descendant (Z > A)",
-          "title": "Ordre"
-        },
-        "title": "Filtres",
-        "weapons": {
-          "title": "Armes"
-        }
-      },
-      "interval": {
-        "daily": "Quotidien",
-        "hourly": "Par Heure",
-        "monthly": "Mensuel",
-        "quarterly": "Trimestriel",
-        "weekly": "Hebdomadaire",
-        "yearly": "Annuel"
-      },
-      "interval-price-history": "{interval} Historique des Prix",
-      "item-removed-from-marketplace": "Cet objet a été retiré du marché.",
-      "price": "prix",
-      "price-change": "Changement de Prix",
-      "r6-credits": "R6 Credits",
-      "search": "Rechercher par nom d'objet",
-      "season-released-in": "Sorti dans {ynsn}",
-      "supply": "offre",
-      "title": "R6 Marketplace",
-      "title-short": "Marketplace",
-      "top-items-by-price": "Meilleurs Objets par Prix",
-      "top-items-by-price-change": "Meilleurs Objets par Changement de Prix",
-      "view-on-ubisoft": "Voir sur Ubisoft"
     },
-    "profile": {
-      "current-season": "Saison Actuelle",
-      "failed-to-load": "Ce profil n'a pas pu être chargé.",
-      "last-played": "Dernière Partie",
-      "leaderboard-position": "Position dans le Classement",
-      "match-count": "{count} Parties",
-      "no-matches-played": "Aucunes parties jouées",
-      "past-24-hours": "24 Dernières Heures",
-      "past-30-days": "30 Derniers Jours",
-      "past-7-days": "7 Derniers Jours",
-      "played-with": {
-        "info-banner": "Personnes avec lesquelles {username} a joué ou contre cette saison",
-        "no-played-with": "{username} n'a pas encore joué avec personne",
-        "title": "Joué Avec"
-      },
-      "rank-reset-due-to-ban": "Réinitialisation du Classement en raison d'un Bannissement",
-      "ranked-2-max-ranks": "Rangs Max du Classé 2.0",
-      "ranked-sessions": {
-        "1": "Ce graphique trace les sessions récentes d'un profil et leur classement après chaque session.",
-        "2": "Vous pouvez survoler les points individuels pour voir les détails d'une session.",
-        "3": "Vous pouvez zoomer en faisant glisser sur une plage et déplacer en maintenant la touche ctrl enfoncée et en faisant glisser.",
-        "title": "Sessions Classées"
-      },
-      "regions-played": "Régions Jouées",
-      "report": {
-        "title": "Signaler"
-      },
-      "rp-change": "Changement RP",
-      "seasons": {
-        "old-seasons-banner": "Les données des anciennes saisons seront ajoutées ultérieurement.",
-        "title": "Saisons"
-      },
-      "sessions": {
-        "no-sessions": "Aucune session trouvée selon vos filtres."
-      },
-      "update": {
-        "failed": "Échoué",
-        "timeout": "La mise à jour a expiré. Actualisez la page et elle sera bientôt effectuée.",
-        "tooltip": {
-          "1": "Ce profil ne peut pas encore être mis à jour.",
-          "2": "Vous pouvez rester sur ce profil et il se rafraîchira automatiquement lorsqu'une mise à jour sera disponible, par exemple lorsque la partie du joueur se termine.",
-          "3": "Généralement, appuyer sur ce bouton de rafraîchissement n'est pas nécessaire, mais peut aider si vous pensez que les données du profil ne sont pas synchronisées."
-        },
-        "update": "Actualiser",
-        "updated": "Mis à Jour",
-        "updating": "Mise à Jour"
-      },
-      "update-time-out": "Mise à jour expirée. Actualisez la page et elle sera bientôt effectuée.",
-      "username-history": "Historique des Pseudonymes",
-      "wl-streak": "Série V/D"
-    },
-    "streaming-widget": {
-      "description": "Les widgets de streaming sont un excellent moyen d'afficher les statistiques de votre profil sur votre flux en direct. Pour l'instant, le nôtre est assez simple, mais à l'avenir, nous fournirons beaucoup plus de personnalisation. Actuellement, il ne prend en charge que le classé, mais si vous recherchez une assistance pour d'autres modes, contactez-nous sur {0}.",
-      "how-to-use": {
-        "profile-link": "Lien de Profil...",
-        "step-1": "1. Copiez-collez le lien de votre profil dans la boîte ci-dessous et cliquez sur copier",
-        "step-2": "2. Allez dans votre logiciel de diffusion en direct et créez une « Source de Navigateur » dans l'onglet « Sources ».",
-        "step-3": "3. Collez votre Lien de Widget de Streaming dans le champ « Source de Navigateur ».",
-        "step-4": "4. Ajustez la taille et le positionnement du widget comme désiré.",
-        "title": "Comment Utiliser",
-        "your-widget-link": "Votre Lien de Widget de Streaming"
-      },
-      "invalid-profile-link": "Lien de profil invalide",
-      "title": "Widget de Streaming",
-      "widget-image-caption": "Voici à quoi ressemble notre widget :"
+    "social": {
+        "follow-us-twitter": "Suivez-nous sur Twitter",
+        "join-our-discord": "Rejoignez notre Discord",
+        "marketplace-subreddit": "Subreddit du Marketplace Rainbow Six Siege"
     }
-  },
-  "social": {
-    "follow-us-twitter": "Suivez-nous sur Twitter",
-    "join-our-discord": "Rejoignez notre Discord",
-    "marketplace-subreddit": "Subreddit du Marketplace Rainbow Six Siege"
-  }
 }
