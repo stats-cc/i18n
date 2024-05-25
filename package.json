@@ -3,7 +3,8 @@
 	"license": "Apache-2.0",
 	"scripts": {
 		"test": "vitest",
-		"test:once": "vitest run"
+		"test:once": "vitest run",
+		"sort-keys": "node ./scripts/sortKeys.js"
 	},
 	"devDependencies": {
 		"@types/node": "^20.12.12",
