@@ -57,6 +57,9 @@
         "submitted": "Ваш запит надіслано, ми відповімо за допомогою електронної пошти найближчим часом.",
         "title": "Зв'яжіться з нами"
     },
+    "discord-bot": {
+        "title": null
+    },
     "footer": {
         "contact-us": "Зв'яжіться з нами",
         "discord-server": "Сервер Discord",
@@ -91,6 +94,10 @@
                 "title": "Нещодавні Блокування"
             },
             "description": "Подивитися статистику гравців, Таблицю Лідерів, та більше",
+            "discord-bot": {
+                "description": null,
+                "title": null
+            },
             "leaderboards": {
                 "description": "Подивитися топ 10,000 {platform} гравців у Rainbow Six: Облога",
                 "title": "{platform} Таблиця Лідерів"
@@ -147,6 +154,11 @@
             },
             "recent-bans-data": "Дані останніх блокувань",
             "title": "Блокування"
+        },
+        "discord-bot": {
+            "description": null,
+            "link-text": null,
+            "title": null
         },
         "gamemodes": {
             "all": "Всі",

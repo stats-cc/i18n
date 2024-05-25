@@ -57,6 +57,9 @@
         "submitted": "Uw aanvraag is ingediend, we zullen binnenkort antwoorden via e-mail.",
         "title": "Neem contact met ons op"
     },
+    "discord-bot": {
+        "title": null
+    },
     "footer": {
         "contact-us": "Neem contact met ons op",
         "discord-server": "Discord-server",
@@ -91,6 +94,10 @@
                 "title": "Recente bans"
             },
             "description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer",
+            "discord-bot": {
+                "description": null,
+                "title": null
+            },
             "leaderboards": {
                 "description": "bekijk de top 10,000 {platform} spelers op Rainbow Six Siege",
                 "title": "{platform} Leaderboards"
@@ -147,6 +154,11 @@
             },
             "recent-bans-data": "Recente bans",
             "title": "Verboden"
+        },
+        "discord-bot": {
+            "description": null,
+            "link-text": null,
+            "title": null
         },
         "gamemodes": {
             "all": "Alle",

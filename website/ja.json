@@ -57,6 +57,9 @@
         "submitted": "お問い合わせを送信しました。近日中にメールで返信いたします。",
         "title": "お問い合わせ"
     },
+    "discord-bot": {
+        "title": null
+    },
     "footer": {
         "contact-us": "お問い合わせ",
         "discord-server": "Discordサーバー",
@@ -91,6 +94,10 @@
                 "title": "最近のban"
             },
             "description": "レインボーシックスシージのプロフィール統計、トッププレイヤーリーダーボードなどを表示します",
+            "discord-bot": {
+                "description": null,
+                "title": null
+            },
             "leaderboards": {
                 "description": "レインボーシックスシージのトップ 10,000 {platform} プレイヤーを表示します",
                 "title": "{platform} リーダーボード"
@@ -147,6 +154,11 @@
             },
             "recent-bans-data": "最近のbanデータ",
             "title": "ban"
+        },
+        "discord-bot": {
+            "description": null,
+            "link-text": null,
+            "title": null
         },
         "gamemodes": {
             "all": "すべて",

@@ -4,6 +4,7 @@
 	"scripts": {
 		"test": "vitest",
 		"test:once": "vitest run",
+		"add-missing-keys": "node ./scripts/addMissingKeys.js && pnpm sort-keys",
 		"sort-keys": "node ./scripts/sortKeys.js"
 	},
 	"devDependencies": {

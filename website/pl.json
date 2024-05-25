@@ -57,6 +57,9 @@
         "submitted": "Wysłano Twoje zapytanie, odpowiemy wkrótce wiadomością e-mail.",
         "title": "Skontaktuj się z nami"
     },
+    "discord-bot": {
+        "title": null
+    },
     "footer": {
         "contact-us": "Skontaktuj się z nami",
         "discord-server": "Serwer Discord",
@@ -91,6 +94,10 @@
                 "title": "Ostatnie Bany"
             },
             "description": "Zobacz statystyki profili Rainbow Six Siege, tabele rankingowe najlepszych graczy i więcej",
+            "discord-bot": {
+                "description": null,
+                "title": null
+            },
             "leaderboards": {
                 "description": "Zobacz najlepszych 10,000 graczy na {platform} w Rainbow Six Siege",
                 "title": "Tabele rankingowe {platform}"
@@ -147,6 +154,11 @@
             },
             "recent-bans-data": "Dane o ostatnich banach",
             "title": "Bany"
+        },
+        "discord-bot": {
+            "description": null,
+            "link-text": null,
+            "title": null
         },
         "gamemodes": {
             "all": "Wszystko",
