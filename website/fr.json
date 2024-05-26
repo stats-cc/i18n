@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "tous",
         "assists": "assistances",
         "category": "catégorie",
@@ -11,6 +12,7 @@
         "deaths": "morts",
         "draw": "match nul",
         "email": "email",
+        "global": null,
         "kd": "KD",
         "kills": "éliminations",
         "kills-per-match": "élim/Match",
@@ -30,6 +32,7 @@
         "no-data": "pas de données",
         "no-results": "aucun résultat",
         "pc": "pc",
+        "platform": null,
         "players": "joueurs",
         "rank": "classement",
         "reason": "raison",
@@ -42,6 +45,7 @@
         "submit": "envoyer",
         "tie": "égalité",
         "view-details": "voir les détails",
+        "view-more": null,
         "views": "vues",
         "win": "victoire",
         "win-short": "V",
@@ -74,6 +78,7 @@
         "twitter-account": "Compte Twitter"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "Vous voulez aider à traduire le site ? Rejoignez notre Discord et demandez !"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Botting",
                 "cheating": "Triche",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "Raison du Bannissement",
                 "tos-breach": "Violation des CGU",
                 "toxic-behavior": "Comportement Toxique"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} de tous les joueurs",
             "BAD-player-count": "{count} joueurs",
+            "game-mode": null,
             "last-update": "Mis à jour le {date}",
+            "leaderboard-type": null,
             "title": "Classements",
             "top-percent": "Top {percent}%",
             "total-players": "{count} joueurs"
@@ -225,6 +236,7 @@
                     "uniform": "Uniforme",
                     "weapon-skin": "Skin d'Arme"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Opérateurs"
                 },
@@ -232,13 +244,18 @@
                     "title": "Autres"
                 },
                 "rarity": {
-                    "title": "Rareté"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Rareté",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Saisons"
                 },
                 "sort-by": {
                     "average-price": "Prix Moyen",
+                    "date-added": null,
                     "display-name": "Nom d'Affichage",
                     "price-change": "Changement de Prix",
                     "title": "Trier par"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Voir sur Ubisoft"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Saison Actuelle",
             "failed-to-load": "Ce profil n'a pas pu être chargé.",
             "last-played": "Dernière Partie",

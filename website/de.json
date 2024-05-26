@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "alle",
         "assists": "Assists",
         "category": "Kategorie",
@@ -11,6 +12,7 @@
         "deaths": "Tode",
         "draw": "Unentschieden",
         "email": "E-Mail",
+        "global": null,
         "kd": "KD",
         "kills": "Kills",
         "kills-per-match": "Kills pro Match",
@@ -30,6 +32,7 @@
         "no-data": "keine Daten",
         "no-results": "keine Ergebnisse",
         "pc": "PC",
+        "platform": null,
         "players": "Spieler",
         "rank": "Rang",
         "reason": "Grund",
@@ -42,6 +45,7 @@
         "submit": "absenden",
         "tie": "Unentschieden",
         "view-details": "Details anzeigen",
+        "view-more": null,
         "views": "Aufrufe",
         "win": "Sieg",
         "win-short": "S",
@@ -74,6 +78,7 @@
         "twitter-account": "Twitteraccount"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "Möchtest du beim übersetzen der Seite helfen? Tritt unserem Discord bei und melde dich!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Botting",
                 "cheating": "Cheating",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "Fehlverhalten",
                 "tos-breach": "ToS-Verstoß",
                 "toxic-behavior": "Toxisches Verhalten"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} aller Spieler",
             "BAD-player-count": "{count} Spieler",
+            "game-mode": null,
             "last-update": "Aktualisiert am {date}",
+            "leaderboard-type": null,
             "title": "Bestenlisten",
             "top-percent": "Top {percent}%",
             "total-players": "{count} Spieler"
@@ -225,6 +236,7 @@
                     "uniform": "Uniform",
                     "weapon-skin": "Waffenlakierung"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Operator"
                 },
@@ -232,13 +244,18 @@
                     "title": "Andere"
                 },
                 "rarity": {
-                    "title": "Seltenheit"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Seltenheit",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Saisons"
                 },
                 "sort-by": {
                     "average-price": "Durchschn. Preis",
+                    "date-added": null,
                     "display-name": "Anzeigename",
                     "price-change": "Preisänderung",
                     "title": "Sortieren nach"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Marktseite öffnen"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Aktuelle Saison",
             "failed-to-load": "Dieses Profil konnte nicht geladen werden.",
             "last-played": "Zuletzt gespielt",

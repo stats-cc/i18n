@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "todas",
         "assists": "asistencias",
         "category": "categoría",
@@ -11,6 +12,7 @@
         "deaths": "muertes",
         "draw": "empatadas",
         "email": "correo electrónico",
+        "global": null,
         "kd": "KD",
         "kills": "bajas",
         "kills-per-match": "bajas por partida",
@@ -30,6 +32,7 @@
         "no-data": "sin datos",
         "no-results": "sin resultados",
         "pc": "pc",
+        "platform": null,
         "players": "jugadores",
         "rank": "rango",
         "reason": "motivo",
@@ -42,6 +45,7 @@
         "submit": "enviar",
         "tie": "empate",
         "view-details": "ver detalles",
+        "view-more": null,
         "views": "vistas",
         "win": "victoria",
         "win-short": "V",
@@ -74,6 +78,7 @@
         "twitter-account": "Cuenta de Twitter"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "¿Quieres ayudar a traducir la página? ¡Únete a nuestro Discord y pregunta!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Bots",
                 "cheating": "Trampas",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "Motivo del ban",
                 "tos-breach": "Violación de TOS",
                 "toxic-behavior": "Toxicidad"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} de todos los jugadores",
             "BAD-player-count": "{count} jugadores",
+            "game-mode": null,
             "last-update": "Actualizado {date}",
+            "leaderboard-type": null,
             "title": "Ranking",
             "top-percent": "Top {percent}%",
             "total-players": "{count} jugadores"
@@ -225,6 +236,7 @@
                     "uniform": "Uniformes",
                     "weapon-skin": "Skin de arma"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Operadores"
                 },
@@ -232,13 +244,18 @@
                     "title": "Otros"
                 },
                 "rarity": {
-                    "title": "Rareza"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Rareza",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Temporadas"
                 },
                 "sort-by": {
                     "average-price": "Precio promedio",
+                    "date-added": null,
                     "display-name": "Nombre",
                     "price-change": "Fluctuación Precio",
                     "title": "Ordenar por"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Ver en Ubisoft"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Temporada actual",
             "failed-to-load": "No se pudo cargar el perfil.",
             "last-played": "Última partida",

@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "すべて",
         "assists": "アシスト",
         "category": "カテゴリー",
@@ -11,6 +12,7 @@
         "deaths": "デス",
         "draw": "引き分け",
         "email": "メール",
+        "global": null,
         "kd": "KD",
         "kills": "キル",
         "kills-per-match": "マッチあたりのキル",
@@ -30,6 +32,7 @@
         "no-data": "データなし",
         "no-results": "結果なし",
         "pc": "PC",
+        "platform": null,
         "players": "プレイヤー",
         "rank": "ランク",
         "reason": "理由",
@@ -42,6 +45,7 @@
         "submit": "送信",
         "tie": "引き分け",
         "view-details": "詳細を表示",
+        "view-more": null,
         "views": "閲覧回数",
         "win": "勝ち",
         "win-short": "W",
@@ -74,6 +78,7 @@
         "twitter-account": "Twitterアカウント"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "サイトの翻訳にご協力いただけませんか？Discordに参加して、お問い合わせください！"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "ボット",
                 "cheating": "チート",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "ban理由",
                 "tos-breach": "利用規約違反",
                 "toxic-behavior": "トキシック"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} のプレイヤーのうち",
             "BAD-player-count": "{count} プレイヤー",
+            "game-mode": null,
             "last-update": "{date}に更新",
+            "leaderboard-type": null,
             "title": "リーダーボード",
             "top-percent": "上位 {percent}%",
             "total-players": "{count} プレイヤー"
@@ -225,6 +236,7 @@
                     "uniform": "ユニフォーム",
                     "weapon-skin": "ウェポンスキン"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "オペレーター"
                 },
@@ -232,13 +244,18 @@
                     "title": "その他"
                 },
                 "rarity": {
-                    "title": "レアリティ"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "レアリティ",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "シーズン"
                 },
                 "sort-by": {
                     "average-price": "平均価格",
+                    "date-added": null,
                     "display-name": "表示名",
                     "price-change": "価格変動",
                     "title": "並び替え"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Ubisoftで表示"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "現在のシーズン",
             "failed-to-load": "このプロファイルの読み込みに失敗しました。",
             "last-played": "最終プレイ",

@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "alle",
         "assists": "assists",
         "category": "categorie",
@@ -11,6 +12,7 @@
         "deaths": "doden",
         "draw": "gelijkspel",
         "email": "e-mail",
+        "global": null,
         "kd": "KD",
         "kills": "kills",
         "kills-per-match": "kills per match",
@@ -30,6 +32,7 @@
         "no-data": "geen gegevens",
         "no-results": "geen resultaten",
         "pc": "PC",
+        "platform": null,
         "players": "spelers",
         "rank": "rang",
         "reason": "reden",
@@ -42,6 +45,7 @@
         "submit": "verzenden",
         "tie": "gelijkspel",
         "view-details": "bekijk details",
+        "view-more": null,
         "views": "weergaven",
         "win": "wins",
         "win-short": "W",
@@ -74,6 +78,7 @@
         "twitter-account": "Twitter-account"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "Wil je helpen bij het vertalen van de site? Kom naar onze Discord en vraag het!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Botting",
                 "cheating": "Cheating",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "reden van ban",
                 "tos-breach": "ToS Breach",
                 "toxic-behavior": "Toxic Gedrag"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} van alle spelers",
             "BAD-player-count": "{count} spelers",
+            "game-mode": null,
             "last-update": "Bijgewerkt op {date}",
+            "leaderboard-type": null,
             "title": "Leaderboards",
             "top-percent": "Top {percent}%",
             "total-players": "{count} spelers"
@@ -225,6 +236,7 @@
                     "uniform": "Uniform",
                     "weapon-skin": "Wapenskin"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Operators"
                 },
@@ -232,13 +244,18 @@
                     "title": "Overig"
                 },
                 "rarity": {
-                    "title": "Zeldzaamheid"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Zeldzaamheid",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Seizoenen"
                 },
                 "sort-by": {
                     "average-price": "Gemiddelde prijs",
+                    "date-added": null,
                     "display-name": "Weergavenaam",
                     "price-change": "Prijsverandering",
                     "title": "Sorteer op"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Bekijk op Ubisoft"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Huidige Seizoen",
             "failed-to-load": "Dit profiel kon niet worden geladen.",
             "last-played": "Laatst gespeeld",

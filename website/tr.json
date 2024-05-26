@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "tümü",
         "assists": "assists",
         "category": "kategori",
@@ -11,6 +12,7 @@
         "deaths": "ölümler",
         "draw": "berabere",
         "email": "e-posta",
+        "global": null,
         "kd": "KD",
         "kills": "öldürmeler",
         "kills-per-match": "maç başına öldürme",
@@ -30,6 +32,7 @@
         "no-data": "veri yok",
         "no-results": "sonuç yok",
         "pc": "pc",
+        "platform": null,
         "players": "oyuncular",
         "rank": "rütbe",
         "reason": "neden",
@@ -42,6 +45,7 @@
         "submit": "gönder",
         "tie": "berabere kalmak",
         "view-details": "detayları görüntüle",
+        "view-more": null,
         "views": "görüntülemeler",
         "win": "kazanma",
         "win-short": "K",
@@ -74,6 +78,7 @@
         "twitter-account": "Twitter Hesabı"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "Sitenin çevirisine yardımcı olmak ister misiniz? Discord'umuza katılın ve bize nasıl yardımcı olabileceğinizi sorun!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Botlama",
                 "cheating": "Hile",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "Yasak Sebebi",
                 "tos-breach": "Kural İhlali",
                 "toxic-behavior": "Toksik Davranış"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "Tüm oyuncuların %{percent}'i",
             "BAD-player-count": "{count} oyuncu",
+            "game-mode": null,
             "last-update": "{date} güncellendi",
+            "leaderboard-type": null,
             "title": "Skor Tablosu",
             "top-percent": "En Üst %{percent}",
             "total-players": "{count} oyuncu"
@@ -225,6 +236,7 @@
                     "uniform": "Üniforma",
                     "weapon-skin": "Silah Skin"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Operatörler"
                 },
@@ -232,13 +244,18 @@
                     "title": "Diğerleri"
                 },
                 "rarity": {
-                    "title": "Nadirlik"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Nadirlik",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Sezonlar"
                 },
                 "sort-by": {
                     "average-price": "Ortalama Fiyat",
+                    "date-added": null,
                     "display-name": "Görüntüleme Adı",
                     "price-change": "Fiyat Değişimi",
                     "title": "Sırala"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Ubisoft'ta görüntüle"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Şu anki Sezon",
             "failed-to-load": "Bu profil yüklenemedi.",
             "last-played": "Son Oynanma",

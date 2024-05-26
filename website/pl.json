@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "wszystko",
         "assists": "asysty",
         "category": "kategoria",
@@ -11,6 +12,7 @@
         "deaths": "śmierci",
         "draw": "remis",
         "email": "email",
+        "global": null,
         "kd": "KD",
         "kills": "zabójstwa",
         "kills-per-match": "zabójstwa na mecz",
@@ -30,6 +32,7 @@
         "no-data": "brak danych",
         "no-results": "brak wyników",
         "pc": "pc",
+        "platform": null,
         "players": "gracze",
         "rank": "ranga",
         "reason": "powód",
@@ -42,6 +45,7 @@
         "submit": "wyślij",
         "tie": "remis",
         "view-details": "zobacz szczegóły",
+        "view-more": null,
         "views": "wyświetlenia",
         "win": "wygrana",
         "win-short": "W",
@@ -74,6 +78,7 @@
         "twitter-account": "Konto na Twitterze"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "Chcesz pomóc w tłumaczeniu strony? Dołącz do naszego Discorda i zapytaj!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Botting",
                 "cheating": "Cheating",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "Powód bana",
                 "tos-breach": "Naruszenie ToS",
                 "toxic-behavior": "Toksyczne Zachowanie"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} wszystkich graczy",
             "BAD-player-count": "{count} graczy",
+            "game-mode": null,
             "last-update": "Zaktualizowano {date}",
+            "leaderboard-type": null,
             "title": "Tabele wyników",
             "top-percent": "Top {percent}%",
             "total-players": "{count} graczy"
@@ -225,6 +236,7 @@
                     "uniform": "Uniform",
                     "weapon-skin": "Malowanie broni"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Operatorzy"
                 },
@@ -232,13 +244,18 @@
                     "title": "Inne"
                 },
                 "rarity": {
-                    "title": "Rzadkość"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Rzadkość",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Sezony"
                 },
                 "sort-by": {
                     "average-price": "Średnia cena",
+                    "date-added": null,
                     "display-name": "Nazwa wyświetlana",
                     "price-change": "Zmiana ceny",
                     "title": "Sortuj według"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Zobacz na Ubisoft"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Bieżący sezon",
             "failed-to-load": "Nie udało się załadować tego profilu.",
             "last-played": "Ostatnio grane",

@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": null,
         "all": "всі",
         "assists": "допомога",
         "category": "категорія",
@@ -11,6 +12,7 @@
         "deaths": "смерті",
         "draw": "нічия",
         "email": "email",
+        "global": null,
         "kd": "КД",
         "kills": "вбивства",
         "kills-per-match": "вбивства за матч",
@@ -30,6 +32,7 @@
         "no-data": "немає даних",
         "no-results": "немає результатів",
         "pc": "ПК",
+        "platform": null,
         "players": "гравців",
         "rank": "ранг",
         "reason": "причина",
@@ -42,6 +45,7 @@
         "submit": "надіслати",
         "tie": "нічия",
         "view-details": "переглянути деталі",
+        "view-more": null,
         "views": "перегляди",
         "win": "перемога",
         "win-short": "W",
@@ -74,6 +78,7 @@
         "twitter-account": "Обліковий запис Twitter"
     },
     "misc": {
+        "discord-bot-banner": null,
         "help-translate": "Хочете допомогти перекласти сайт? Приєднуйтесь до нашого Discord!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Ботінг",
                 "cheating": "Шахрайство",
                 "ddos": "DDoS",
+                "glitching": null,
+                "homophobic": null,
+                "racism": null,
+                "sabotage": null,
                 "title": "Причина Блокувань",
                 "tos-breach": "Порушення ToS",
                 "toxic-behavior": "Токсична поведінка"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} від усіх гравців",
             "BAD-player-count": "{count} гравців",
+            "game-mode": null,
             "last-update": "Оновлено {date}",
+            "leaderboard-type": null,
             "title": "Таблиця Лідерів",
             "top-percent": "Топ {percent}%",
             "total-players": "{count} гравців"
@@ -225,6 +236,7 @@
                     "uniform": "Уніформа",
                     "weapon-skin": "Скіни для зброї"
                 },
+                "new-items": null,
                 "operators": {
                     "title": "Оперативники"
                 },
@@ -232,13 +244,18 @@
                     "title": "Інше"
                 },
                 "rarity": {
-                    "title": "Рідкість"
+                    "legendary": null,
+                    "rare": null,
+                    "superrare": null,
+                    "title": "Рідкість",
+                    "uncommon": null
                 },
                 "seasons": {
                     "title": "Сезони"
                 },
                 "sort-by": {
                     "average-price": "Середня ціна",
+                    "date-added": null,
                     "display-name": "Показати ім'я",
                     "price-change": "Зміна ціни",
                     "title": "Сортувати за"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "Переглянути у Ubisoft"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": null,
+                "ubisoft-bans-title": null
+            },
             "current-season": "Поточний сезон",
             "failed-to-load": "Не вдалося завантажити цей профіль.",
             "last-played": "Останній раз грав",

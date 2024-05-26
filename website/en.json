@@ -1,5 +1,6 @@
 {
     "common": {
+        "abandoned": "Abandoned",
         "all": "all",
         "assists": "assists",
         "category": "category",
@@ -11,6 +12,7 @@
         "deaths": "deaths",
         "draw": "draw",
         "email": "email",
+        "global": "global",
         "kd": "KD",
         "kills": "kills",
         "kills-per-match": "kills per match",
@@ -30,6 +32,7 @@
         "no-data": "no data",
         "no-results": "no results",
         "pc": "PC",
+        "platform": "Platform",
         "players": "players",
         "rank": "rank",
         "reason": "reason",
@@ -42,6 +45,7 @@
         "submit": "submit",
         "tie": "tie",
         "view-details": "view details",
+        "view-more": "View More",
         "views": "views",
         "win": "win",
         "win-short": "W",
@@ -74,6 +78,7 @@
         "twitter-account": "Twitter Account"
     },
     "misc": {
+        "discord-bot-banner": "Our Discord bot is now available! View player stats directly in Discord.",
         "help-translate": "Want to help translate the site? Join our Discord and ask!"
     },
     "search": {
@@ -148,6 +153,10 @@
                 "botting": "Botting",
                 "cheating": "Cheating",
                 "ddos": "DDoS",
+                "glitching": "Glitching",
+                "homophobic": "Homophobia",
+                "racism": "Racism",
+                "sabotage": "Sabotage",
                 "title": "Ban Reason",
                 "tos-breach": "ToS Breach",
                 "toxic-behavior": "Toxic Behavior"
@@ -178,7 +187,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} of all players",
             "BAD-player-count": "{count} players",
+            "game-mode": "Game Mode",
             "last-update": "Updated {date}",
+            "leaderboard-type": "Leaderboard Type",
             "title": "Leaderboards",
             "top-percent": "Top {percent}%",
             "total-players": "{count} players"
@@ -225,6 +236,7 @@
                     "uniform": "Uniform",
                     "weapon-skin": "Weapon Skin"
                 },
+                "new-items": "New Items",
                 "operators": {
                     "title": "Operators"
                 },
@@ -232,13 +244,18 @@
                     "title": "Other"
                 },
                 "rarity": {
-                    "title": "Rarity"
+                    "legendary": "Legendary",
+                    "rare": "Rare",
+                    "superrare": "Epic",
+                    "title": "Rarity",
+                    "uncommon": "Uncommon"
                 },
                 "seasons": {
                     "title": "Seasons"
                 },
                 "sort-by": {
                     "average-price": "Average Price",
+                    "date-added": "Date Added",
                     "display-name": "Display Name",
                     "price-change": "Price Change",
                     "title": "Sort by"
@@ -276,6 +293,10 @@
             "view-on-ubisoft": "View on Ubisoft"
         },
         "profile": {
+            "bans": {
+                "reputation-bans-title": "{siteName} Bans",
+                "ubisoft-bans-title": "Ubisoft Bans"
+            },
             "current-season": "Current Season",
             "failed-to-load": "This profile failed to load.",
             "last-played": "Last Played",
