@@ -4,6 +4,8 @@
         "all": "all",
         "assists": "assists",
         "category": "category",
+        "change": "Change",
+        "change-percent": "Change %",
         "console": "console",
         "copied!": "copied!",
         "copy": "copy",
@@ -44,6 +46,7 @@
         "show-more": "show more",
         "submit": "submit",
         "tie": "tie",
+        "total": "Total",
         "view-details": "view details",
         "view-more": "View More",
         "views": "views",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": "{reason} Bans by month",
             "n-bans": "{count} Bans",
             "n-recent-bans": "{count} Recent Bans",
             "no-bans-found-for-reason": "No bans found for {reason}",

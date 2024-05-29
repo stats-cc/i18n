@@ -4,6 +4,8 @@
         "all": "всі",
         "assists": "допомога",
         "category": "категорія",
+        "change": null,
+        "change-percent": null,
         "console": "консоль",
         "copied!": "скопійовано!",
         "copy": "копіювати",
@@ -44,6 +46,7 @@
         "show-more": "показати більше",
         "submit": "надіслати",
         "tie": "нічия",
+        "total": null,
         "view-details": "переглянути деталі",
         "view-more": null,
         "views": "перегляди",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": null,
             "n-bans": "{count} Блокувань",
             "n-recent-bans": "{count} Останніх Блокувань",
             "no-bans-found-for-reason": "Блокувань через {reason} не знайдено",

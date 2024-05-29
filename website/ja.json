@@ -4,6 +4,8 @@
         "all": "すべて",
         "assists": "アシスト",
         "category": "カテゴリー",
+        "change": null,
+        "change-percent": null,
         "console": "コンソール",
         "copied!": "コピーしました！",
         "copy": "コピー",
@@ -44,6 +46,7 @@
         "show-more": "もっと表示",
         "submit": "送信",
         "tie": "引き分け",
+        "total": null,
         "view-details": "詳細を表示",
         "view-more": null,
         "views": "閲覧回数",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": null,
             "n-bans": "{count} ban",
             "n-recent-bans": "{count} 最近のban",
             "no-bans-found-for-reason": "{reason} に対するbanは見つかりませんでした",

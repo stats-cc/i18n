@@ -4,6 +4,8 @@
         "all": "todas",
         "assists": "asistencias",
         "category": "categoría",
+        "change": null,
+        "change-percent": null,
         "console": "consola",
         "copied!": "¡copiado!",
         "copy": "copiar",
@@ -44,6 +46,7 @@
         "show-more": "mostrar más",
         "submit": "enviar",
         "tie": "empate",
+        "total": null,
         "view-details": "ver detalles",
         "view-more": null,
         "views": "vistas",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": null,
             "n-bans": "{count} Baneos",
             "n-recent-bans": "{count} baneos recientes",
             "no-bans-found-for-reason": "No se encontraron baneos por {reason}",

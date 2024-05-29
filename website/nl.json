@@ -4,6 +4,8 @@
         "all": "alle",
         "assists": "assists",
         "category": "categorie",
+        "change": null,
+        "change-percent": null,
         "console": "console",
         "copied!": "gekopieerd!",
         "copy": "kopiëren",
@@ -44,6 +46,7 @@
         "show-more": "toon meer",
         "submit": "verzenden",
         "tie": "gelijkspel",
+        "total": null,
         "view-details": "bekijk details",
         "view-more": null,
         "views": "weergaven",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": null,
             "n-bans": "{count} bans",
             "n-recent-bans": "{count} Recente bans",
             "no-bans-found-for-reason": "Geen bans gevonden voor {reason}",

@@ -4,6 +4,8 @@
         "all": "tous",
         "assists": "assistances",
         "category": "catégorie",
+        "change": null,
+        "change-percent": null,
         "console": "console",
         "copied!": "copié!",
         "copy": "copier",
@@ -44,6 +46,7 @@
         "show-more": "afficher plus",
         "submit": "envoyer",
         "tie": "égalité",
+        "total": null,
         "view-details": "voir les détails",
         "view-more": null,
         "views": "vues",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": null,
             "n-bans": "{count} Bannissements",
             "n-recent-bans": "{count} Bannissements Récents",
             "no-bans-found-for-reason": "Aucun bannissement trouvé pour {reason}",

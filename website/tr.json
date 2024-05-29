@@ -4,6 +4,8 @@
         "all": "tümü",
         "assists": "assists",
         "category": "kategori",
+        "change": null,
+        "change-percent": null,
         "console": "konsol",
         "copied!": "kopyalandı!",
         "copy": "kopyala",
@@ -44,6 +46,7 @@
         "show-more": "daha fazla göster",
         "submit": "gönder",
         "tie": "berabere kalmak",
+        "total": null,
         "view-details": "detayları görüntüle",
         "view-more": null,
         "views": "görüntülemeler",
@@ -137,6 +140,7 @@
     },
     "siege": {
         "bans": {
+            "bans-by-month-for-reason": null,
             "n-bans": "{count} Oyun Yasakları",
             "n-recent-bans": "{count} Son Oyun Yasakları",
             "no-bans-found-for-reason": "{reason} için oyun yasağı bulunamadı",
