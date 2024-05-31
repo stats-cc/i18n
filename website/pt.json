@@ -1,11 +1,11 @@
 {
     "common": {
-        "abandoned": null,
+        "abandoned": "Abandonou",
         "all": "todos",
         "assists": "assistências",
         "category": "categoria",
-        "change": null,
-        "change-percent": null,
+        "change": "Mudança",
+        "change-percent": "% de mudança",
         "console": "console",
         "copied!": "copiado!",
         "copy": "copiar",
@@ -14,7 +14,7 @@
         "deaths": "mortes",
         "draw": "empate",
         "email": "email",
-        "global": null,
+        "global": "global",
         "kd": "KD",
         "kills": "abates",
         "kills-per-match": "abates/partida",
@@ -34,7 +34,7 @@
         "no-data": "sem dados",
         "no-results": "sem resultados",
         "pc": "PC",
-        "platform": null,
+        "platform": "Plataforma",
         "players": "jogadores",
         "rank": "classificação",
         "reason": "motivo",
@@ -46,9 +46,9 @@
         "show-more": "mostrar mais",
         "submit": "enviar",
         "tie": "empate",
-        "total": null,
+        "total": "Total",
         "view-details": "ver detalhes",
-        "view-more": null,
+        "view-more": "Ver Mais",
         "views": "visualizações",
         "win": "vitória",
         "win-short": "V",
@@ -65,7 +65,7 @@
         "title": "Contate-nos"
     },
     "discord-bot": {
-        "title": null
+        "title": "Bot do Discord"
     },
     "footer": {
         "contact-us": "Contate-nos",
@@ -81,7 +81,7 @@
         "twitter-account": "Conta do Twitter"
     },
     "misc": {
-        "discord-bot-banner": null,
+        "discord-bot-banner": "Nosso Bot do Discord está disponível! Pesquise por jogadores diretamente no Discord.",
         "help-translate": "Quer ajudar a traduzir o site? Entre em nosso Discord e converse conosco!"
     },
     "search": {
@@ -103,8 +103,8 @@
             },
             "description": "Veja estatísticas sobre jogadores de Rainbow Six Siege, Placar de Líderes, e mais",
             "discord-bot": {
-                "description": null,
-                "title": null
+                "description": "Pesquise perfis de jogadores e veja suas estatísticas, performance na temporada e banimentos recentes, tudo pelo Discord.",
+                "title": "Bot do Discord para R6"
             },
             "leaderboards": {
                 "description": "Veja os melhores 10,000 jogadores de Rainbow Six Siege no {platform}",
@@ -134,13 +134,13 @@
         },
         "streaming-widget": {
             "description": "Mostre seu perfil do Siege em sua live com o nosso widget!",
-            "title": "Widget para Lives"
+            "title": "Widget de Lives"
         },
         "title": "Siege Stats - Stats.CC {title} - Estatística de jogadores de Rainbow Six Siege"
     },
     "siege": {
         "bans": {
-            "bans-by-month-for-reason": null,
+            "bans-by-month-for-reason": "{reason} Banimentos Mensais",
             "n-bans": "{count} banimentos",
             "n-recent-bans": "{count} banimentos Recentes",
             "no-bans-found-for-reason": "Nenhum banimento por {reason} encontrado",
@@ -157,10 +157,10 @@
                 "botting": "Automatização",
                 "cheating": "Trapaça",
                 "ddos": "Ataque ao Servidor",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
+                "glitching": "Abuso de Glitch",
+                "homophobic": "Homofobia",
+                "racism": "Racismo",
+                "sabotage": "Sabotagem",
                 "title": "Motivo do Banimento",
                 "tos-breach": "Violação dos Termos de Serviço",
                 "toxic-behavior": "Comportamento Tóxico"
@@ -169,9 +169,9 @@
             "title": "Banimentos"
         },
         "discord-bot": {
-            "description": null,
-            "link-text": null,
-            "title": null
+            "description": "Confira nosso bot do Discord para Rainbow Six Siege, que te permite pesquisar perfis de jogadores e ver suas estatísticas, performance, classificação, e outros. Tudo diretamente pelo Discord, perfeito para visualizar junto com seus amigos ou acompanhar seu progresso.",
+            "link-text": "Convidar Bot",
+            "title": "Bot do Discord para R6"
         },
         "gamemodes": {
             "all": "Todos",
@@ -191,9 +191,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} de todos os jogadores",
             "BAD-player-count": "{count} jogadores",
-            "game-mode": null,
+            "game-mode": "Modo de Jogo",
             "last-update": "Atualizado em {date}",
-            "leaderboard-type": null,
+            "leaderboard-type": "Tipo de Placar",
             "title": "Líderes",
             "top-percent": "Top {percent}%",
             "total-players": "{count} jogadores"
@@ -240,7 +240,7 @@
                     "uniform": "Uniformes",
                     "weapon-skin": "Skins de Arma"
                 },
-                "new-items": null,
+                "new-items": "Novos Itens",
                 "operators": {
                     "title": "Operadores"
                 },
@@ -248,18 +248,18 @@
                     "title": "Outro"
                 },
                 "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
+                    "legendary": "Lendário",
+                    "rare": "Raro",
+                    "superrare": "Super-Raro",
                     "title": "Raridade",
-                    "uncommon": null
+                    "uncommon": "Incomum"
                 },
                 "seasons": {
                     "title": "Temporadas"
                 },
                 "sort-by": {
                     "average-price": "Preço Médio",
-                    "date-added": null,
+                    "date-added": "Data de Adição",
                     "display-name": "Nome",
                     "price-change": "Mudança de Preço",
                     "title": "Ordenar por"
@@ -298,8 +298,8 @@
         },
         "profile": {
             "bans": {
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
+                "reputation-bans-title": "Banimentos no {siteName}",
+                "ubisoft-bans-title": "Banimentos na Ubisoft"
             },
             "current-season": "Temporada Atual",
             "failed-to-load": "Não foi possível carregar esse perfil.",
@@ -363,7 +363,7 @@
                 "your-widget-link": "Seu Link de Widget de Streaming"
             },
             "invalid-profile-link": "Link de perfil inválido",
-            "title": "Widget para Lives",
+            "title": "Widget de Lives",
             "widget-image-caption": "Aqui está como nosso widget se parece:"
         }
     },
