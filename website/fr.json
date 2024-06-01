@@ -1,11 +1,11 @@
 {
     "common": {
-        "abandoned": null,
+        "abandoned": "abandonné",
         "all": "tous",
         "assists": "assistances",
         "category": "catégorie",
-        "change": null,
-        "change-percent": null,
+        "change": "Changement",
+        "change-percent": "% de changement",
         "console": "console",
         "copied!": "copié!",
         "copy": "copier",
@@ -14,7 +14,7 @@
         "deaths": "morts",
         "draw": "match nul",
         "email": "email",
-        "global": null,
+        "global": "mondial",
         "kd": "KD",
         "kills": "éliminations",
         "kills-per-match": "élim/Match",
@@ -34,7 +34,7 @@
         "no-data": "pas de données",
         "no-results": "aucun résultat",
         "pc": "pc",
-        "platform": null,
+        "platform": "plateforme",
         "players": "joueurs",
         "rank": "classement",
         "reason": "raison",
@@ -46,9 +46,9 @@
         "show-more": "afficher plus",
         "submit": "envoyer",
         "tie": "égalité",
-        "total": null,
+        "total": "total",
         "view-details": "voir les détails",
-        "view-more": null,
+        "view-more": "voir plus",
         "views": "vues",
         "win": "victoire",
         "win-short": "V",
@@ -65,7 +65,7 @@
         "title": "Contactez-nous"
     },
     "discord-bot": {
-        "title": null
+        "title": "Bot Discord"
     },
     "footer": {
         "contact-us": "Contactez-nous",
@@ -81,7 +81,7 @@
         "twitter-account": "Compte Twitter"
     },
     "misc": {
-        "discord-bot-banner": null,
+        "discord-bot-banner": "Notre bot Discord est maintenant disponible ! Consultez les statistiques des joueurs directement dans Discord.",
         "help-translate": "Vous voulez aider à traduire le site ? Rejoignez notre Discord et demandez !"
     },
     "search": {
@@ -103,8 +103,8 @@
             },
             "description": "Consultez les statistiques de profil de Rainbow Six Siege, les classements des meilleurs joueurs et bien plus encore.",
             "discord-bot": {
-                "description": null,
-                "title": null
+                "description": "Consultez les statistiques des profils R6, les performances saisonnières et les banissements récents sur Discord.",
+                "title": "Bot Discord R6"
             },
             "leaderboards": {
                 "description": "Découvrez les 10 000 meilleurs joueurs {platform} de Rainbow Six Siege ",
@@ -140,7 +140,7 @@
     },
     "siege": {
         "bans": {
-            "bans-by-month-for-reason": null,
+            "bans-by-month-for-reason": "Banissements par mois pour {reason}",
             "n-bans": "{count} Bannissements",
             "n-recent-bans": "{count} Bannissements Récents",
             "no-bans-found-for-reason": "Aucun bannissement trouvé pour {reason}",
@@ -157,10 +157,10 @@
                 "botting": "Botting",
                 "cheating": "Triche",
                 "ddos": "DDoS",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
+                "glitching": "Glitch",
+                "homophobic": "Homophobie",
+                "racism": "Racisme",
+                "sabotage": "Sabotage",
                 "title": "Raison du Bannissement",
                 "tos-breach": "Violation des CGU",
                 "toxic-behavior": "Comportement Toxique"
@@ -169,9 +169,9 @@
             "title": "Bannissements"
         },
         "discord-bot": {
-            "description": null,
-            "link-text": null,
-            "title": null
+            "description": "Consultez notre bot Discord pour Rainbow Six Siege. Il vous permet de rechercher des profils de joueurs pour voir les statistiques, le classement et les performances récentes. Parfait pour vérifier vos coéquipiers ou suivre votre progrès.",
+            "link-text": "Inviter le Bot Discord",
+            "title": "Bot Discord R6"
         },
         "gamemodes": {
             "all": "Tous",
@@ -191,9 +191,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} de tous les joueurs",
             "BAD-player-count": "{count} joueurs",
-            "game-mode": null,
+            "game-mode": "Mode De Jeu",
             "last-update": "Mis à jour le {date}",
-            "leaderboard-type": null,
+            "leaderboard-type": "Type De Classement",
             "title": "Classements",
             "top-percent": "Top {percent}%",
             "total-players": "{count} joueurs"
@@ -240,7 +240,7 @@
                     "uniform": "Uniforme",
                     "weapon-skin": "Skin d'Arme"
                 },
-                "new-items": null,
+                "new-items": "Nouveaux Items",
                 "operators": {
                     "title": "Opérateurs"
                 },
@@ -248,18 +248,18 @@
                     "title": "Autres"
                 },
                 "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
+                    "legendary": "Légendaire",
+                    "rare": "Rare",
+                    "superrare": "Épique",
                     "title": "Rareté",
-                    "uncommon": null
+                    "uncommon": "Peu Courant"
                 },
                 "seasons": {
                     "title": "Saisons"
                 },
                 "sort-by": {
                     "average-price": "Prix Moyen",
-                    "date-added": null,
+                    "date-added": "Date Ajoutée",
                     "display-name": "Nom d'Affichage",
                     "price-change": "Changement de Prix",
                     "title": "Trier par"
@@ -298,8 +298,8 @@
         },
         "profile": {
             "bans": {
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
+                "reputation-bans-title": "Banissements {siteName}",
+                "ubisoft-bans-title": "Banissements Ubisoft"
             },
             "current-season": "Saison Actuelle",
             "failed-to-load": "Ce profil n'a pas pu être chargé.",
