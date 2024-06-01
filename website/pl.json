@@ -1,11 +1,11 @@
 {
     "common": {
-        "abandoned": null,
+        "abandoned": "opuszczone",
         "all": "wszystko",
         "assists": "asysty",
         "category": "kategoria",
-        "change": null,
-        "change-percent": null,
+        "change": "zmiana",
+        "change-percent": "zmiana procentowa",
         "console": "konsola",
         "copied!": "skopiowano!",
         "copy": "kopiuj",
@@ -14,7 +14,7 @@
         "deaths": "śmierci",
         "draw": "remis",
         "email": "email",
-        "global": null,
+        "global": "globalne",
         "kd": "KD",
         "kills": "zabójstwa",
         "kills-per-match": "zabójstwa na mecz",
@@ -34,7 +34,7 @@
         "no-data": "brak danych",
         "no-results": "brak wyników",
         "pc": "pc",
-        "platform": null,
+        "platform": "platforma",
         "players": "gracze",
         "rank": "ranga",
         "reason": "powód",
@@ -46,9 +46,9 @@
         "show-more": "pokaż więcej",
         "submit": "wyślij",
         "tie": "remis",
-        "total": null,
+        "total": "Całkowite",
         "view-details": "zobacz szczegóły",
-        "view-more": null,
+        "view-more": "zobacz więcej",
         "views": "wyświetlenia",
         "win": "wygrana",
         "win-short": "W",
@@ -65,7 +65,7 @@
         "title": "Skontaktuj się z nami"
     },
     "discord-bot": {
-        "title": null
+        "title": "Discord Bot"
     },
     "footer": {
         "contact-us": "Skontaktuj się z nami",
@@ -81,7 +81,7 @@
         "twitter-account": "Konto na Twitterze"
     },
     "misc": {
-        "discord-bot-banner": null,
+        "discord-bot-banner": "Nasz Bot Discorda jest teraz dostępny! Zobacz statystyki graczy bezpośrednio na naszym discordzie.",
         "help-translate": "Chcesz pomóc w tłumaczeniu strony? Dołącz do naszego Discorda i zapytaj!"
     },
     "search": {
@@ -103,8 +103,8 @@
             },
             "description": "Zobacz statystyki profili Rainbow Six Siege, tabele rankingowe najlepszych graczy i więcej",
             "discord-bot": {
-                "description": null,
-                "title": null
+                "description": "Zobacz statystyki profili R6, wyniki sezonowe i ostatnie bany na discordzie.",
+                "title": "R6 Discord Bot"
             },
             "leaderboards": {
                 "description": "Zobacz najlepszych 10,000 graczy na {platform} w Rainbow Six Siege",
@@ -140,7 +140,7 @@
     },
     "siege": {
         "bans": {
-            "bans-by-month-for-reason": null,
+            "bans-by-month-for-reason": "Bany za {reason} w miesiącach",
             "n-bans": "{count} Bany",
             "n-recent-bans": "{count} Ostatnie Bany",
             "no-bans-found-for-reason": "Nie znaleziono banów dla {reason}",
@@ -157,10 +157,10 @@
                 "botting": "Botting",
                 "cheating": "Cheating",
                 "ddos": "DDoS",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
+                "glitching": "Glitching",
+                "homophobic": "Homofobia",
+                "racism": "Rasizm",
+                "sabotage": "Sabotaż",
                 "title": "Powód bana",
                 "tos-breach": "Naruszenie ToS",
                 "toxic-behavior": "Toksyczne Zachowanie"
@@ -169,9 +169,9 @@
             "title": "Bany"
         },
         "discord-bot": {
-            "description": null,
-            "link-text": null,
-            "title": null
+            "description": "Sprawdź naszego bota na discordzie dla Rainbow Six Siege. Pozwala on na sprawdzenie profili graczy i ich statystyk, rangi i ostatnich wyników. Idealne dla sprawdzania członków zespołu lub śledzenia twojego postępu.",
+            "link-text": "Zaproś Discord Bot",
+            "title": "R6 Discord Bot"
         },
         "gamemodes": {
             "all": "Wszystko",
@@ -191,9 +191,9 @@
         "leaderboards": {
             "BAD-percent-of-players": "{percent} wszystkich graczy",
             "BAD-player-count": "{count} graczy",
-            "game-mode": null,
+            "game-mode": "Tryb gry",
             "last-update": "Zaktualizowano {date}",
-            "leaderboard-type": null,
+            "leaderboard-type": "Typ tabeli wyników",
             "title": "Tabele wyników",
             "top-percent": "Top {percent}%",
             "total-players": "{count} graczy"
@@ -240,7 +240,7 @@
                     "uniform": "Uniform",
                     "weapon-skin": "Malowanie broni"
                 },
-                "new-items": null,
+                "new-items": "Nowe przedmioty",
                 "operators": {
                     "title": "Operatorzy"
                 },
@@ -248,18 +248,18 @@
                     "title": "Inne"
                 },
                 "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
+                    "legendary": "Legendarny",
+                    "rare": "Rzadki",
+                    "superrare": "Epicki",
                     "title": "Rzadkość",
-                    "uncommon": null
+                    "uncommon": "Niezwyczajny"
                 },
                 "seasons": {
                     "title": "Sezony"
                 },
                 "sort-by": {
                     "average-price": "Średnia cena",
-                    "date-added": null,
+                    "date-added": "Data dodania",
                     "display-name": "Nazwa wyświetlana",
                     "price-change": "Zmiana ceny",
                     "title": "Sortuj według"
@@ -298,8 +298,8 @@
         },
         "profile": {
             "bans": {
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
+                "reputation-bans-title": "Bany {siteName}",
+                "ubisoft-bans-title": "Bany Ubisoft"
             },
             "current-season": "Bieżący sezon",
             "failed-to-load": "Nie udało się załadować tego profilu.",
