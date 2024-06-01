@@ -341,7 +341,7 @@
                 "tooltip": {
                     "1": "This profile cannot be updated yet.",
                     "2": "You can stay on this profile and it will auto refresh when an update is available, for example when the player's match finishes.",
-                    "3": "Generally hitting this refresh button isn't needed, but can help if you feel the profiles data isout of sync."
+                    "3": "Generally hitting this refresh button isn't needed, but can help if you feel the profiles data is out of sync."
                 },
                 "update": "Update",
                 "updated": "Updated",
