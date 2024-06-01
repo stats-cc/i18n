@@ -16,11 +16,28 @@ describe("translations", () => {
 		expect(getObjectKeysDeep(fileJSON)).toEqual(englishKeys);
 	});
 
-	it.each(testFiles)("each translation should still have replacement variables present %s", (path, content) => {
-		const fileJSON = JSON.parse(content);
-		const englishKeyReplacements = getObjectReplacementValuesByKey(englishTranslation);
-		expect(getObjectReplacementValuesByKey(fileJSON)).toEqual(englishKeyReplacements);
-	});
+	it.each(testFiles)(
+		"each translation should still have replacement variables present %s",
+		(path, content) => {
+			const fileJSON = JSON.parse(content);
+			const fileNullKeychains = getObjectKeysDeep(fileJSON).filter((key, index) => {
+				const keys: string[] = key.split(".");
+				let value = fileJSON;
+				for (let i = 0; i < keys.length; i++) {
+					value = value[keys[i]];
+				}
+				return value === null;
+			});
+
+			const englishKeyReplacements = getObjectReplacementValuesByKey(
+				englishTranslation,
+				fileNullKeychains
+			);
+			expect(getObjectReplacementValuesByKey(fileJSON, fileNullKeychains)).toEqual(
+				englishKeyReplacements
+			);
+		}
+	);
 });
 
 test("getObjectKeysDeep", () => {
@@ -29,11 +46,15 @@ test("getObjectKeysDeep", () => {
 	expect(getObjectKeysDeep({ a: { b: { c: 5, d: 6 } } })).toEqual(["a", "a.b", "a.b.c", "a.b.d"]);
 });
 
-function getObjectReplacementValuesByKey(obj: Record<string, any>) {
+function getObjectReplacementValuesByKey(obj: Record<string, any>, exceptions: string[] = []) {
 	const englishKeys: string[] = getObjectKeysDeep(obj);
 
 	const englishKeyReplacements: Record<string, string[]> = {};
 	englishKeys.forEach((key) => {
+		if (exceptions.includes(key)) {
+			return;
+		}
+
 		const keyValue: any = key.split(".").reduce((acc, key) => acc[key], obj);
 		if (typeof keyValue !== "string") {
 			return;
@@ -66,7 +87,7 @@ function getObjectReplacementValuesByKey(obj: Record<string, any>) {
  *
  * @param obj an object
  */
-function getObjectKeysDeep(obj: any) {
+function getObjectKeysDeep(obj: any): string[] {
 	return Object.keys(obj)
 		.filter((key) => obj[key] instanceof Object)
 		.map((key) => getObjectKeysDeep(obj[key]).map((k) => `${key}.${k}`))
