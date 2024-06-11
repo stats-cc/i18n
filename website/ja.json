@@ -10,16 +10,25 @@
         "copied!": "コピーしました！",
         "copy": "コピー",
         "current": "現在",
+        "data-center": null,
         "date": "日付",
         "deaths": "デス",
+        "defeat": null,
         "draw": "引き分け",
+        "duration": null,
         "email": "メール",
+        "end-time": null,
+        "gamemode": null,
         "global": null,
+        "headshot-percentage-short": null,
+        "k-d-a": null,
         "kd": "KD",
+        "kda": null,
         "kills": "キル",
         "kills-per-match": "マッチあたりのキル",
         "kpm": "KPM",
         "level": "レベル",
+        "level-n": null,
         "loss": "負け",
         "loss-short": "L",
         "losses": "敗北",
@@ -35,6 +44,7 @@
         "no-results": "結果なし",
         "pc": "PC",
         "platform": null,
+        "player": null,
         "players": "プレイヤー",
         "rank": "ランク",
         "reason": "理由",
@@ -44,9 +54,12 @@
         "show-all": "すべて表示",
         "show-less": "少なく表示",
         "show-more": "もっと表示",
+        "start-time": null,
         "submit": "送信",
         "tie": "引き分け",
         "total": null,
+        "unknown": null,
+        "victory": null,
         "view-details": "詳細を表示",
         "view-more": null,
         "views": "閲覧回数",
@@ -118,6 +131,10 @@
                 },
                 "title": "シージマーケットプレイス - Stats.CC - レインボーシックスシージマーケットプレイス統計 & アナリティクス"
             },
+            "matches": {
+                "description": null,
+                "title": null
+            },
             "profile": {
                 "description": "{username} のレインボーシックスシージシーズンスタッツを表示します",
                 "played-with": {
@@ -139,6 +156,7 @@
         "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
     },
     "siege": {
+        "avg-rp": null,
         "bans": {
             "bans-by-month-for-reason": null,
             "n-bans": "{count} ban",
@@ -188,6 +206,7 @@
             "top-console-players": "Top CSプレイヤー",
             "top-pc-players": "Top PCプレイヤー"
         },
+        "incomplete-game": null,
         "leaderboards": {
             "BAD-percent-of-players": "{percent} のプレイヤーのうち",
             "BAD-player-count": "{count} プレイヤー",
@@ -296,6 +315,44 @@
             "top-items-by-price-change": "価格変動別トップアイテム",
             "view-on-ubisoft": "Ubisoftで表示"
         },
+        "matches": {
+            "back-to-profile": null,
+            "first-half": null,
+            "killed": null,
+            "killfeed-disclaimer": null,
+            "killfeed-no-data": null,
+            "match-players": null,
+            "overtime": null,
+            "player-rank-distributions": null,
+            "round-end-reason": {
+                "all-teams-dead": null,
+                "attackers-eliminated": null,
+                "attackers-killed-hostage": null,
+                "attackers-surrendered": null,
+                "bomb-deactivated": null,
+                "bomb-exploded": null,
+                "defenders-eliminated": null,
+                "defenders-eliminated-after-defuser-planted": null,
+                "defenders-killed-hostage": null,
+                "defenders-surrendered": null,
+                "defuser-deactivated": null,
+                "hostage-extracted": null,
+                "none": null,
+                "time-expired": null
+            },
+            "round-n": null,
+            "round-n-killfeed": null,
+            "scoreboard": null,
+            "second-half": null,
+            "selected-round": null,
+            "summary": null,
+            "swapping-sides": null,
+            "timeline": null,
+            "top-operators-played": null,
+            "view-scoreboard": null,
+            "view-timeline": null
+        },
+        "operator": null,
         "profile": {
             "bans": {
                 "reputation-bans-title": null,
@@ -365,7 +422,9 @@
             "invalid-profile-link": "無効なプロファイルリンク",
             "title": "ストリーミングウィジェット",
             "widget-image-caption": "これが当社のウィジェットの外観です："
-        }
+        },
+        "team-kills-short": null,
+        "top-operators": null
     },
     "social": {
         "follow-us-twitter": "Twitterでフォロー",

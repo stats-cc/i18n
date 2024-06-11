@@ -10,16 +10,25 @@
         "copied!": "copiato!",
         "copy": "copia",
         "current": "corrente",
+        "data-center": null,
         "date": "data",
         "deaths": "morti",
+        "defeat": null,
         "draw": "pareggio",
+        "duration": null,
         "email": "email",
+        "end-time": null,
+        "gamemode": null,
         "global": null,
+        "headshot-percentage-short": null,
+        "k-d-a": null,
         "kd": "KD",
+        "kda": null,
         "kills": "uccisioni",
         "kills-per-match": "uccisioni per partita",
         "kpm": "KPM",
         "level": "livello",
+        "level-n": null,
         "loss": "sconfitta",
         "loss-short": "P",
         "losses": "sconfitte",
@@ -35,6 +44,7 @@
         "no-results": "nessun risultato",
         "pc": "PC",
         "platform": null,
+        "player": null,
         "players": "giocatori",
         "rank": "grado",
         "reason": "motivo",
@@ -44,9 +54,12 @@
         "show-all": "mostra tutto",
         "show-less": "mostra meno",
         "show-more": "mostra di più",
+        "start-time": null,
         "submit": "invia",
         "tie": "pareggio",
         "total": null,
+        "unknown": null,
+        "victory": null,
         "view-details": "visualizza dettagli",
         "view-more": null,
         "views": "visualizzazioni",
@@ -118,6 +131,10 @@
                 },
                 "title": "R6 Marketplace - Rainbow Six Siege Marketplace Statistiche & Approfondimenti - Stats.CC"
             },
+            "matches": {
+                "description": null,
+                "title": null
+            },
             "profile": {
                 "description": "vedi le statistiche stagionali di Rainbow Six Siege per {username}",
                 "played-with": {
@@ -139,6 +156,7 @@
         "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Statistiche Giocatore"
     },
     "siege": {
+        "avg-rp": null,
         "bans": {
             "bans-by-month-for-reason": null,
             "n-bans": "{count} Ban",
@@ -188,6 +206,7 @@
             "top-console-players": "Migliori Giocatori Console",
             "top-pc-players": "Migliori Giocatori PC"
         },
+        "incomplete-game": null,
         "leaderboards": {
             "BAD-percent-of-players": "{percent} di tutti i giocatori",
             "BAD-player-count": "{count} giocatori",
@@ -296,6 +315,44 @@
             "top-items-by-price-change": "Oggetti Migliori per Variazione Prezzo",
             "view-on-ubisoft": "Visualizza su Ubisoft"
         },
+        "matches": {
+            "back-to-profile": null,
+            "first-half": null,
+            "killed": null,
+            "killfeed-disclaimer": null,
+            "killfeed-no-data": null,
+            "match-players": null,
+            "overtime": null,
+            "player-rank-distributions": null,
+            "round-end-reason": {
+                "all-teams-dead": null,
+                "attackers-eliminated": null,
+                "attackers-killed-hostage": null,
+                "attackers-surrendered": null,
+                "bomb-deactivated": null,
+                "bomb-exploded": null,
+                "defenders-eliminated": null,
+                "defenders-eliminated-after-defuser-planted": null,
+                "defenders-killed-hostage": null,
+                "defenders-surrendered": null,
+                "defuser-deactivated": null,
+                "hostage-extracted": null,
+                "none": null,
+                "time-expired": null
+            },
+            "round-n": null,
+            "round-n-killfeed": null,
+            "scoreboard": null,
+            "second-half": null,
+            "selected-round": null,
+            "summary": null,
+            "swapping-sides": null,
+            "timeline": null,
+            "top-operators-played": null,
+            "view-scoreboard": null,
+            "view-timeline": null
+        },
+        "operator": null,
         "profile": {
             "bans": {
                 "reputation-bans-title": null,
@@ -365,7 +422,9 @@
             "invalid-profile-link": "Link profilo non valido",
             "title": "Streaming Widget",
             "widget-image-caption": "Ecco come appare il nostro widget:"
-        }
+        },
+        "team-kills-short": null,
+        "top-operators": null
     },
     "social": {
         "follow-us-twitter": "Seguici su Twitter",

@@ -10,16 +10,25 @@
         "copied!": "gekopieerd!",
         "copy": "kopiëren",
         "current": "huidig",
+        "data-center": null,
         "date": "datum",
         "deaths": "doden",
+        "defeat": null,
         "draw": "gelijkspel",
+        "duration": null,
         "email": "e-mail",
+        "end-time": null,
+        "gamemode": null,
         "global": null,
+        "headshot-percentage-short": null,
+        "k-d-a": null,
         "kd": "KD",
+        "kda": null,
         "kills": "kills",
         "kills-per-match": "kills per match",
         "kpm": "KPM",
         "level": "niveau",
+        "level-n": null,
         "loss": "verlies",
         "loss-short": "L",
         "losses": "verloren",
@@ -35,6 +44,7 @@
         "no-results": "geen resultaten",
         "pc": "PC",
         "platform": null,
+        "player": null,
         "players": "spelers",
         "rank": "rang",
         "reason": "reden",
@@ -44,9 +54,12 @@
         "show-all": "toon alles",
         "show-less": "toon minder",
         "show-more": "toon meer",
+        "start-time": null,
         "submit": "verzenden",
         "tie": "gelijkspel",
         "total": null,
+        "unknown": null,
+        "victory": null,
         "view-details": "bekijk details",
         "view-more": null,
         "views": "weergaven",
@@ -118,6 +131,10 @@
                 },
                 "title": "R6 Marketplaats - Rainbow Six Siege Marketplaats statistieken & Analyses - Stats.CC"
             },
+            "matches": {
+                "description": null,
+                "title": null
+            },
             "profile": {
                 "description": "bekijk {username}'s Rainbow Six Siege seizoensgebonden profiel statistieken",
                 "played-with": {
@@ -139,6 +156,7 @@
         "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Speler statistieken"
     },
     "siege": {
+        "avg-rp": null,
         "bans": {
             "bans-by-month-for-reason": null,
             "n-bans": "{count} bans",
@@ -188,6 +206,7 @@
             "top-console-players": "Top Console-spelers",
             "top-pc-players": "Top PC-spelers"
         },
+        "incomplete-game": null,
         "leaderboards": {
             "BAD-percent-of-players": "{percent} van alle spelers",
             "BAD-player-count": "{count} spelers",
@@ -296,6 +315,44 @@
             "top-items-by-price-change": "Topitems op prijsverandering",
             "view-on-ubisoft": "Bekijk op Ubisoft"
         },
+        "matches": {
+            "back-to-profile": null,
+            "first-half": null,
+            "killed": null,
+            "killfeed-disclaimer": null,
+            "killfeed-no-data": null,
+            "match-players": null,
+            "overtime": null,
+            "player-rank-distributions": null,
+            "round-end-reason": {
+                "all-teams-dead": null,
+                "attackers-eliminated": null,
+                "attackers-killed-hostage": null,
+                "attackers-surrendered": null,
+                "bomb-deactivated": null,
+                "bomb-exploded": null,
+                "defenders-eliminated": null,
+                "defenders-eliminated-after-defuser-planted": null,
+                "defenders-killed-hostage": null,
+                "defenders-surrendered": null,
+                "defuser-deactivated": null,
+                "hostage-extracted": null,
+                "none": null,
+                "time-expired": null
+            },
+            "round-n": null,
+            "round-n-killfeed": null,
+            "scoreboard": null,
+            "second-half": null,
+            "selected-round": null,
+            "summary": null,
+            "swapping-sides": null,
+            "timeline": null,
+            "top-operators-played": null,
+            "view-scoreboard": null,
+            "view-timeline": null
+        },
+        "operator": null,
         "profile": {
             "bans": {
                 "reputation-bans-title": null,
@@ -365,7 +422,9 @@
             "invalid-profile-link": "Ongeldige profiellink",
             "title": "Streaming Widget",
             "widget-image-caption": "Dit is hoe onze widget eruitziet:"
-        }
+        },
+        "team-kills-short": null,
+        "top-operators": null
     },
     "social": {
         "follow-us-twitter": "Volg ons op Twitter",

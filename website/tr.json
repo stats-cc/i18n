@@ -10,16 +10,25 @@
         "copied!": "kopyalandı!",
         "copy": "kopyala",
         "current": "şuanki",
+        "data-center": null,
         "date": "tarih",
         "deaths": "ölümler",
+        "defeat": null,
         "draw": "berabere",
+        "duration": null,
         "email": "e-posta",
+        "end-time": null,
+        "gamemode": null,
         "global": null,
+        "headshot-percentage-short": null,
+        "k-d-a": null,
         "kd": "KD",
+        "kda": null,
         "kills": "öldürmeler",
         "kills-per-match": "maç başına öldürme",
         "kpm": "DKO",
         "level": "seviye",
+        "level-n": null,
         "loss": "kaybetme",
         "loss-short": "K",
         "losses": "kaybedilenler",
@@ -35,6 +44,7 @@
         "no-results": "sonuç yok",
         "pc": "pc",
         "platform": null,
+        "player": null,
         "players": "oyuncular",
         "rank": "rütbe",
         "reason": "neden",
@@ -44,9 +54,12 @@
         "show-all": "hepsini göster",
         "show-less": "daha az göster",
         "show-more": "daha fazla göster",
+        "start-time": null,
         "submit": "gönder",
         "tie": "berabere kalmak",
         "total": null,
+        "unknown": null,
+        "victory": null,
         "view-details": "detayları görüntüle",
         "view-more": null,
         "views": "görüntülemeler",
@@ -118,6 +131,10 @@
                 },
                 "title": "R6 Pazar Statistikleri - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri - Stats.CC"
             },
+            "matches": {
+                "description": null,
+                "title": null
+            },
             "profile": {
                 "description": " Rainbow Six Siege'de {username}'in sezonal profili statistiklerini görüntüleyin ",
                 "played-with": {
@@ -139,6 +156,7 @@
         "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
     },
     "siege": {
+        "avg-rp": null,
         "bans": {
             "bans-by-month-for-reason": null,
             "n-bans": "{count} Oyun Yasakları",
@@ -188,6 +206,7 @@
             "top-console-players": "En İyi Konsol Oyuncuları",
             "top-pc-players": "En İyi PC Oyuncuları"
         },
+        "incomplete-game": null,
         "leaderboards": {
             "BAD-percent-of-players": "Tüm oyuncuların %{percent}'i",
             "BAD-player-count": "{count} oyuncu",
@@ -296,6 +315,44 @@
             "top-items-by-price-change": "Fiyat Değişimine Göre En İyi Öğeler",
             "view-on-ubisoft": "Ubisoft'ta görüntüle"
         },
+        "matches": {
+            "back-to-profile": null,
+            "first-half": null,
+            "killed": null,
+            "killfeed-disclaimer": null,
+            "killfeed-no-data": null,
+            "match-players": null,
+            "overtime": null,
+            "player-rank-distributions": null,
+            "round-end-reason": {
+                "all-teams-dead": null,
+                "attackers-eliminated": null,
+                "attackers-killed-hostage": null,
+                "attackers-surrendered": null,
+                "bomb-deactivated": null,
+                "bomb-exploded": null,
+                "defenders-eliminated": null,
+                "defenders-eliminated-after-defuser-planted": null,
+                "defenders-killed-hostage": null,
+                "defenders-surrendered": null,
+                "defuser-deactivated": null,
+                "hostage-extracted": null,
+                "none": null,
+                "time-expired": null
+            },
+            "round-n": null,
+            "round-n-killfeed": null,
+            "scoreboard": null,
+            "second-half": null,
+            "selected-round": null,
+            "summary": null,
+            "swapping-sides": null,
+            "timeline": null,
+            "top-operators-played": null,
+            "view-scoreboard": null,
+            "view-timeline": null
+        },
+        "operator": null,
         "profile": {
             "bans": {
                 "reputation-bans-title": null,
@@ -365,7 +422,9 @@
             "invalid-profile-link": "Geçersiz profil bağlantısı",
             "title": "Akış Widget'ı",
             "widget-image-caption": "İşte widgetımızın nasıl göründüğü:"
-        }
+        },
+        "team-kills-short": null,
+        "top-operators": null
     },
     "social": {
         "follow-us-twitter": "Twitter'da bizi takip et",

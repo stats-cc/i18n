@@ -10,16 +10,25 @@
         "copied!": "скопійовано!",
         "copy": "копіювати",
         "current": "поточний",
+        "data-center": null,
         "date": "інформація",
         "deaths": "смерті",
+        "defeat": null,
         "draw": "нічия",
+        "duration": null,
         "email": "email",
+        "end-time": null,
+        "gamemode": null,
         "global": null,
+        "headshot-percentage-short": null,
+        "k-d-a": null,
         "kd": "КД",
+        "kda": null,
         "kills": "вбивства",
         "kills-per-match": "вбивства за матч",
         "kpm": "ВЗМ",
         "level": "рівень",
+        "level-n": null,
         "loss": "поразка",
         "loss-short": "L",
         "losses": "поразки",
@@ -35,6 +44,7 @@
         "no-results": "немає результатів",
         "pc": "ПК",
         "platform": null,
+        "player": null,
         "players": "гравців",
         "rank": "ранг",
         "reason": "причина",
@@ -44,9 +54,12 @@
         "show-all": "показати все",
         "show-less": "показати менше",
         "show-more": "показати більше",
+        "start-time": null,
         "submit": "надіслати",
         "tie": "нічия",
         "total": null,
+        "unknown": null,
+        "victory": null,
         "view-details": "переглянути деталі",
         "view-more": null,
         "views": "перегляди",
@@ -118,6 +131,10 @@
                 },
                 "title": "R6 Торговий Майданчик - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога - Stats.CC"
             },
+            "matches": {
+                "description": null,
+                "title": null
+            },
             "profile": {
                 "description": "Подивитися сезону статистику гравця {username}",
                 "played-with": {
@@ -139,6 +156,7 @@
         "title": "Siege Stats - Stats.CC {title} - Статистика гравців Rainbow Six: Облога"
     },
     "siege": {
+        "avg-rp": null,
         "bans": {
             "bans-by-month-for-reason": null,
             "n-bans": "{count} Блокувань",
@@ -188,6 +206,7 @@
             "top-console-players": "Топ консольних гравців",
             "top-pc-players": "Топ PC гравців"
         },
+        "incomplete-game": null,
         "leaderboards": {
             "BAD-percent-of-players": "{percent} від усіх гравців",
             "BAD-player-count": "{count} гравців",
@@ -296,6 +315,44 @@
             "top-items-by-price-change": "Топ товарів за зміною ціни",
             "view-on-ubisoft": "Переглянути у Ubisoft"
         },
+        "matches": {
+            "back-to-profile": null,
+            "first-half": null,
+            "killed": null,
+            "killfeed-disclaimer": null,
+            "killfeed-no-data": null,
+            "match-players": null,
+            "overtime": null,
+            "player-rank-distributions": null,
+            "round-end-reason": {
+                "all-teams-dead": null,
+                "attackers-eliminated": null,
+                "attackers-killed-hostage": null,
+                "attackers-surrendered": null,
+                "bomb-deactivated": null,
+                "bomb-exploded": null,
+                "defenders-eliminated": null,
+                "defenders-eliminated-after-defuser-planted": null,
+                "defenders-killed-hostage": null,
+                "defenders-surrendered": null,
+                "defuser-deactivated": null,
+                "hostage-extracted": null,
+                "none": null,
+                "time-expired": null
+            },
+            "round-n": null,
+            "round-n-killfeed": null,
+            "scoreboard": null,
+            "second-half": null,
+            "selected-round": null,
+            "summary": null,
+            "swapping-sides": null,
+            "timeline": null,
+            "top-operators-played": null,
+            "view-scoreboard": null,
+            "view-timeline": null
+        },
+        "operator": null,
         "profile": {
             "bans": {
                 "reputation-bans-title": null,
@@ -365,7 +422,9 @@
             "invalid-profile-link": "Недійсне посилання на профіль",
             "title": "Стрімінговий віджет",
             "widget-image-caption": "Ось як виглядає наш віджет:"
-        }
+        },
+        "team-kills-short": null,
+        "top-operators": null
     },
     "social": {
         "follow-us-twitter": "Слідкуйте за нами на Twitter",
