@@ -50,6 +50,7 @@
         "reason": "neden",
         "rollback": "Rollback",
         "rp": "{amount} RP",
+        "search": null,
         "season": "sezon",
         "show-all": "hepsini göster",
         "show-less": "daha az göster",
@@ -61,6 +62,7 @@
         "unknown": null,
         "victory": null,
         "view-details": "detayları görüntüle",
+        "view-full-match": null,
         "view-more": null,
         "views": "görüntülemeler",
         "win": "kazanma",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": null,
+                "recents": {
+                    "description": null,
+                    "title": null
+                },
                 "title": null
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": null,
             "overtime": null,
             "player-rank-distributions": null,
+            "recents": {
+                "casual-matches": null,
+                "invalid-match-id": null,
+                "ranked-matches": null,
+                "search-a-match-by-id": null
+            },
             "round-end-reason": {
                 "all-teams-dead": null,
                 "attackers-eliminated": null,

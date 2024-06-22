@@ -50,6 +50,7 @@
         "reason": "reason",
         "rollback": "rollback",
         "rp": "{amount} RP",
+        "search": "Search",
         "season": "season",
         "show-all": "show all",
         "show-less": "show less",
@@ -61,6 +62,7 @@
         "unknown": "Unknown",
         "victory": "Victory",
         "view-details": "view details",
+        "view-full-match": "View Full Match",
         "view-more": "View More",
         "views": "views",
         "win": "win",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": "Full match information including operator stats, a round by round breakdown, end game scoreboard, and more.",
+                "recents": {
+                    "description": "Recent Rainbow Six Siege matches on all platforms, with in-depth round breakdowns, end match scoreboards, operator data, and more.",
+                    "title": "R6 Recent Matches"
+                },
                 "title": "Match Details - {gameMode} on {region} - stats.cc"
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": "Match Players",
             "overtime": "Overtime",
             "player-rank-distributions": "Player Rank Distributions",
+            "recents": {
+                "casual-matches": "Recent Casual Matches",
+                "invalid-match-id": "Invalid match ID",
+                "ranked-matches": "Recent Ranked Matches",
+                "search-a-match-by-id": "Search a match by ID"
+            },
             "round-end-reason": {
                 "all-teams-dead": "All Teams Dead",
                 "attackers-eliminated": "Attackers Eliminated",

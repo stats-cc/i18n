@@ -50,6 +50,7 @@
         "reason": "理由",
         "rollback": "ロールバック",
         "rp": "{amount} RP",
+        "search": null,
         "season": "シーズン",
         "show-all": "すべて表示",
         "show-less": "少なく表示",
@@ -61,6 +62,7 @@
         "unknown": null,
         "victory": null,
         "view-details": "詳細を表示",
+        "view-full-match": null,
         "view-more": null,
         "views": "閲覧回数",
         "win": "勝ち",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": null,
+                "recents": {
+                    "description": null,
+                    "title": null
+                },
                 "title": null
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": null,
             "overtime": null,
             "player-rank-distributions": null,
+            "recents": {
+                "casual-matches": null,
+                "invalid-match-id": null,
+                "ranked-matches": null,
+                "search-a-match-by-id": null
+            },
             "round-end-reason": {
                 "all-teams-dead": null,
                 "attackers-eliminated": null,

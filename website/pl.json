@@ -50,6 +50,7 @@
         "reason": "powód",
         "rollback": "rollback",
         "rp": "{amount} RP",
+        "search": null,
         "season": "sezon",
         "show-all": "pokaż wszystko",
         "show-less": "pokaż mniej",
@@ -61,6 +62,7 @@
         "unknown": "Nieznany",
         "victory": "Wygrana",
         "view-details": "zobacz szczegóły",
+        "view-full-match": null,
         "view-more": "zobacz więcej",
         "views": "wyświetlenia",
         "win": "wygrana",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": "Pełne informacje o meczu, uwzględniając statystyki operatorów, analiza runda po rundzie, końcowa tabela wyników, i więcej.",
+                "recents": {
+                    "description": null,
+                    "title": null
+                },
                 "title": "Detale meczu - {gameMode} w {region} - stats.cc"
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": "Gracze meczu",
             "overtime": "Dogrywka",
             "player-rank-distributions": "Dystrybucja rang graczy",
+            "recents": {
+                "casual-matches": null,
+                "invalid-match-id": null,
+                "ranked-matches": null,
+                "search-a-match-by-id": null
+            },
             "round-end-reason": {
                 "all-teams-dead": "Wszystkie zespoły martwe",
                 "attackers-eliminated": "Atakujący wyeliminowanu",

@@ -50,6 +50,7 @@
         "reason": "motivo",
         "rollback": "reversão",
         "rp": "{amount} RP",
+        "search": null,
         "season": "temporada",
         "show-all": "mostrar tudo",
         "show-less": "mostrar menos",
@@ -61,6 +62,7 @@
         "unknown": null,
         "victory": null,
         "view-details": "ver detalhes",
+        "view-full-match": null,
         "view-more": "Ver Mais",
         "views": "visualizações",
         "win": "vitória",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": null,
+                "recents": {
+                    "description": null,
+                    "title": null
+                },
                 "title": null
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": null,
             "overtime": null,
             "player-rank-distributions": null,
+            "recents": {
+                "casual-matches": null,
+                "invalid-match-id": null,
+                "ranked-matches": null,
+                "search-a-match-by-id": null
+            },
             "round-end-reason": {
                 "all-teams-dead": null,
                 "attackers-eliminated": null,

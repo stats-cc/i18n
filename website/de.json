@@ -50,6 +50,7 @@
         "reason": "Grund",
         "rollback": "Ranganpassung",
         "rp": "{amount} RP",
+        "search": null,
         "season": "Saison",
         "show-all": "alle anzeigen",
         "show-less": "weniger anzeigen",
@@ -61,6 +62,7 @@
         "unknown": null,
         "victory": null,
         "view-details": "Details anzeigen",
+        "view-full-match": null,
         "view-more": null,
         "views": "Aufrufe",
         "win": "Sieg",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": null,
+                "recents": {
+                    "description": null,
+                    "title": null
+                },
                 "title": null
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": null,
             "overtime": null,
             "player-rank-distributions": null,
+            "recents": {
+                "casual-matches": null,
+                "invalid-match-id": null,
+                "ranked-matches": null,
+                "search-a-match-by-id": null
+            },
             "round-end-reason": {
                 "all-teams-dead": null,
                 "attackers-eliminated": null,

@@ -50,6 +50,7 @@
         "reason": "причина",
         "rollback": "відкат",
         "rp": "{amount} RP",
+        "search": null,
         "season": "сезон",
         "show-all": "показати все",
         "show-less": "показати менше",
@@ -61,6 +62,7 @@
         "unknown": null,
         "victory": null,
         "view-details": "переглянути деталі",
+        "view-full-match": null,
         "view-more": null,
         "views": "перегляди",
         "win": "перемога",
@@ -133,6 +135,10 @@
             },
             "matches": {
                 "description": null,
+                "recents": {
+                    "description": null,
+                    "title": null
+                },
                 "title": null
             },
             "profile": {
@@ -324,6 +330,12 @@
             "match-players": null,
             "overtime": null,
             "player-rank-distributions": null,
+            "recents": {
+                "casual-matches": null,
+                "invalid-match-id": null,
+                "ranked-matches": null,
+                "search-a-match-by-id": null
+            },
             "round-end-reason": {
                 "all-teams-dead": null,
                 "attackers-eliminated": null,
