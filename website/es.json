@@ -367,6 +367,13 @@
         "operator": null,
         "profile": {
             "bans": {
+                "ban-tooltip": {
+                    "reputation-ban": {
+                        "1": null,
+                        "2": null,
+                        "3": null
+                    }
+                },
                 "reputation-bans-title": null,
                 "ubisoft-bans-title": null
             },

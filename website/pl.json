@@ -367,6 +367,13 @@
         "operator": "Operator",
         "profile": {
             "bans": {
+                "ban-tooltip": {
+                    "reputation-ban": {
+                        "1": null,
+                        "2": null,
+                        "3": null
+                    }
+                },
                 "reputation-bans-title": "Bany {siteName}",
                 "ubisoft-bans-title": "Bany Ubisoft"
             },

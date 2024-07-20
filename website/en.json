@@ -367,6 +367,13 @@
         "operator": "Operator",
         "profile": {
             "bans": {
+                "ban-tooltip": {
+                    "reputation-ban": {
+                        "1": "Reputation is a 3rd party ban service that manually reviews videos of players cheating or breaking other rules. One of their admins either approve or deny a ban.",
+                        "2": "Once a ban is approved, it will show up on our site with a link to the proof.",
+                        "3": "Note: This does not officially ban them from the game, they can still play. It simply gives you more info as a player to know if someone is cheating or not."
+                    }
+                },
                 "reputation-bans-title": "{siteName} Bans",
                 "ubisoft-bans-title": "Ubisoft Bans"
             },
