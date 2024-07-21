@@ -352,30 +352,31 @@
                 "none": null,
                 "time-expired": null
             },
-            "round-n": null,
-            "round-n-killfeed": null,
-            "scoreboard": null,
-            "second-half": null,
+            "round-n": "Runde {roundNumber}",
+            "round-n-killfeed": "Runde {roundNumber} Ablauf",
+            "scoreboard": "Punktetabelle",
+            "second-half": "zweite Hälfte",
             "selected-round": null,
             "summary": null,
             "swapping-sides": null,
             "timeline": null,
             "top-operators-played": null,
-            "view-scoreboard": null,
-            "view-timeline": null
+            "view-scoreboard": "Punktetabelle",
+            "view-timeline": "Verlauf"
         },
-        "operator": null,
+        "operator": "Operator",
         "profile": {
             "bans": {
                 "ban-tooltip": {
                     "reputation-ban": {
-                        "1": null,
-                        "2": null,
-                        "3": null
+                        "1": "ReputationGG ist a 3rd party ban service that manually reviews videos of players cheating or breaking other rules. One of their admins either approve or deny a ban.",null
+                        "2": "Once a ban is approved, it will show up on our site with a link to the proof.",null
+                        "3": "Note: This does not officially ban them from the game, they can still play. It simply gives you more info as a player to know if someone is cheating or not."null
+                        
                     }
                 },
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
+                "reputation-bans-title": "{siteName} Sperren",
+                "ubisoft-bans-title": "Ubisoftsperre"
             },
             "current-season": "Aktuelle Saison",
             "failed-to-load": "Dieses Profil konnte nicht geladen werden.",
@@ -442,8 +443,8 @@
             "title": "Streamer-Widget",
             "widget-image-caption": "So sieht unser Widget aus:"
         },
-        "team-kills-short": null,
-        "top-operators": null
+        "team-kills-short": "TK",
+        "top-operators": "meistgenutzt"
     },
     "social": {
         "follow-us-twitter": "Folge uns auf Twitter",
