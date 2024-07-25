@@ -1,6 +1,6 @@
 {
     "common": {
-        "abandoned": null,
+        "abandoned": "Verlassen",
         "all": "alle",
         "assists": "Assists",
         "category": "Kategorie",
@@ -10,25 +10,25 @@
         "copied!": "kopiert!",
         "copy": "kopieren",
         "current": "aktuell",
-        "data-center": null,
+        "data-center": "Rechencenter",
         "date": "Datum",
         "deaths": "Tode",
-        "defeat": null,
+        "defeat": "Niederlage",
         "draw": "Unentschieden",
-        "duration": null,
+        "duration": "Dauer",
         "email": "E-Mail",
         "end-time": null,
-        "gamemode": null,
-        "global": null,
-        "headshot-percentage-short": null,
-        "k-d-a": null,
+        "gamemode": "Spielmodus",
+        "global": "global",
+        "headshot-percentage-short": "HS%",
+        "k-d-a": "K / D / A",
         "kd": "KD",
-        "kda": null,
+        "kda": "KDA",
         "kills": "Kills",
         "kills-per-match": "Kills pro Match",
         "kpm": "KPM",
         "level": "Level",
-        "level-n": null,
+        "level-n": "level {level}",
         "loss": "Niederlage",
         "loss-short": "N",
         "losses": "Niederlagen",
@@ -43,14 +43,14 @@
         "no-data": "keine Daten",
         "no-results": "keine Ergebnisse",
         "pc": "PC",
-        "platform": null,
-        "player": null,
+        "platform": "Platfrom",
+        "player": "Spieler",
         "players": "Spieler",
         "rank": "Rang",
         "reason": "Grund",
         "rollback": "Ranganpassung",
         "rp": "{amount} RP",
-        "search": null,
+        "search": "suchen",
         "season": "Saison",
         "show-all": "alle anzeigen",
         "show-less": "weniger anzeigen",
@@ -59,11 +59,11 @@
         "submit": "absenden",
         "tie": "Unentschieden",
         "total": null,
-        "unknown": null,
-        "victory": null,
+        "unknown": "Unbekannt",
+        "victory": "Sieg",
         "view-details": "Details anzeigen",
-        "view-full-match": null,
-        "view-more": null,
+        "view-full-match": "ganzes Match",
+        "view-more": "mehr",
         "views": "Aufrufe",
         "win": "Sieg",
         "win-short": "S",
@@ -80,7 +80,7 @@
         "title": "Kontaktiere uns"
     },
     "discord-bot": {
-        "title": null
+        "title": "Discord Bot"
     },
     "footer": {
         "contact-us": "Kontaktformular",
@@ -96,7 +96,7 @@
         "twitter-account": "Twitteraccount"
     },
     "misc": {
-        "discord-bot-banner": null,
+        "discord-bot-banner": "Wir haben jetzt einen Discordbot. Du kannst Daten jetzt direkt in Discord einsehen",
         "help-translate": "Möchtest du beim übersetzen der Seite helfen? Tritt unserem Discord bei und melde dich!"
     },
     "search": {
@@ -118,8 +118,8 @@
             },
             "description": "Schau dir Rainbow Six Siege Statistiken an, die globale Bestenliste, und mehr",
             "discord-bot": {
-                "description": null,
-                "title": null
+                "description": "Die besten 10.000 {platform}spieler der Welt in Rainbow 6 Siege",
+                "title": "{platform} Bestenliste"
             },
             "leaderboards": {
                 "description": "Schau dir die besten 10,000 {platform} Spieler in Rainbow Six Siege an",
@@ -134,12 +134,12 @@
                 "title": "R6 Marktplatz - Rainbow Six Siege Marktplatz Statistiken & Analytik - Stats.CC"
             },
             "matches": {
-                "description": null,
+                "description": "Full match information including operator stats, a round by round breakdown, end game scoreboard, and more.",null
                 "recents": {
-                    "description": null,
-                    "title": null
+                    "description": "Letzte Rainbow Six Siege Matches auf allen Platformen, mit detailierten Analysen, end match scoreboards, Operator data, and more.",null
+                    "title": "letzte R6 Matches"
                 },
-                "title": null
+                "title": "Match Details - {gameMode} in {region} - stats.cc"
             },
             "profile": {
                 "description": "{username}'s Rainbow Six Siege saisonale Leistungsstatistiken und Informationen",
@@ -162,9 +162,9 @@
         "title": "Siege Statistiken - Stats.CC {title} - Rainbow Six Siege Spieler Statistiken"
     },
     "siege": {
-        "avg-rp": null,
+        "avg-rp": "durchschnittlich RP",
         "bans": {
-            "bans-by-month-for-reason": null,
+            "bans-by-month-for-reason": "{reason} Sperren pro Monat",
             "n-bans": "{count} Sperrungen",
             "n-recent-bans": "{count} aktuelle Sperrungen",
             "no-bans-found-for-reason": "Keine Sperrungen für {reason} gefunden",
@@ -181,10 +181,10 @@
                 "botting": "Botting",
                 "cheating": "Cheating",
                 "ddos": "DDoS",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
+                "glitching": "Glitching",
+                "homophobic": "Homophobie",
+                "racism": "Rassimus",
+                "sabotage": "Sabotage",
                 "title": "Fehlverhalten",
                 "tos-breach": "ToS-Verstoß",
                 "toxic-behavior": "Toxisches Verhalten"
@@ -194,8 +194,8 @@
         },
         "discord-bot": {
             "description": null,
-            "link-text": null,
-            "title": null
+            "link-text": "Discord Bot nutzen",
+            "title": "R6 Discord Bot"
         },
         "gamemodes": {
             "all": "Alle",
@@ -212,13 +212,13 @@
             "top-console-players": "Top Konsolen-Spieler",
             "top-pc-players": "Top PC-Spieler"
         },
-        "incomplete-game": null,
+        "incomplete-game": "unvollständiges Spiel",
         "leaderboards": {
             "BAD-percent-of-players": "{percent} aller Spieler",
             "BAD-player-count": "{count} Spieler",
-            "game-mode": null,
+            "game-mode": "Spielmodus",
             "last-update": "Aktualisiert am {date}",
-            "leaderboard-type": null,
+            "leaderboard-type": "Bestenliste für:",
             "title": "Bestenlisten",
             "top-percent": "Top {percent}%",
             "total-players": "{count} Spieler"
@@ -265,7 +265,7 @@
                     "uniform": "Uniform",
                     "weapon-skin": "Waffenlakierung"
                 },
-                "new-items": null,
+                "new-items": "neue Gegenstände",
                 "operators": {
                     "title": "Operator"
                 },
@@ -273,18 +273,18 @@
                     "title": "Andere"
                 },
                 "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
+                    "legendary": "legendär",
+                    "rare": "selten",
+                    "superrare": "superselten",
                     "title": "Seltenheit",
-                    "uncommon": null
+                    "uncommon": "ungewöhnlich"
                 },
                 "seasons": {
                     "title": "Saisons"
                 },
                 "sort-by": {
                     "average-price": "Durchschn. Preis",
-                    "date-added": null,
+                    "date-added": "zugefügt am",
                     "display-name": "Anzeigename",
                     "price-change": "Preisänderung",
                     "title": "Sortieren nach"
@@ -323,12 +323,12 @@
         },
         "matches": {
             "back-to-profile": null,
-            "first-half": null,
-            "killed": null,
+            "first-half": "erste Hälfte",
+            "killed": "getötet",
             "killfeed-disclaimer": null,
             "killfeed-no-data": null,
-            "match-players": null,
-            "overtime": null,
+            "match-players": "Spieler",
+            "overtime": "Verlängerung",
             "player-rank-distributions": null,
             "recents": {
                 "casual-matches": null,
