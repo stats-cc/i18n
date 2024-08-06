@@ -4,8 +4,8 @@
         "all": "alle",
         "assists": "Assists",
         "category": "Kategorie",
-        "change": null,
-        "change-percent": null,
+        "change": "Änderung",
+        "change-percent": "prozentual Änderung",
         "console": "Konsole",
         "copied!": "kopiert!",
         "copy": "kopieren",
@@ -17,7 +17,7 @@
         "draw": "Unentschieden",
         "duration": "Dauer",
         "email": "E-Mail",
-        "end-time": null,
+        "end-time": "End Zeitpunkt",
         "gamemode": "Spielmodus",
         "global": "global",
         "headshot-percentage-short": "HS%",
@@ -55,7 +55,7 @@
         "show-all": "alle anzeigen",
         "show-less": "weniger anzeigen",
         "show-more": "mehr anzeigen",
-        "start-time": null,
+        "start-time": "Startzeitpunkt",
         "submit": "absenden",
         "tie": "Unentschieden",
         "total": "insgesamt",
@@ -134,9 +134,9 @@
                 "title": "R6 Marktplatz - Rainbow Six Siege Marktplatz Statistiken & Analytik - Stats.CC"
             },
             "matches": {
-                "description": "Full match information including operator stats, a round by round breakdown, end game scoreboard, and more.",null
+                "description": "Komplette Matchinformationen inclusive Operatorauswahl, Aufschlüsselung jeder Runde, Anzeigetafel vom Ergebniss, und mehr.",
                 "recents": {
-                    "description": "Letzte Rainbow Six Siege Matches auf allen Platformen, mit detailierten Analysen, end match scoreboards, Operator data, and more.",null
+                    "description": "Letzte Rainbow Six Siege Matches auf allen Platformen, mit detailierten Analysen, Anzeigetafel vom Ergebniss, Operatorauswahl, und mehr.",
                     "title": "letzte R6 Matches"
                 },
                 "title": "Match Details - {gameMode} in {region} - stats.cc"
@@ -193,7 +193,7 @@
             "title": "Sperren"
         },
         "discord-bot": {
-            "description": null,
+            "description": "Probier unseren Discordbot für Rainbow Six Siege. Er gibt dir Spielerprofile und Statistik, Rang, und neuliche Ergebnisse bequem in Discord. Perfekt um Mitspieler zu prüfen oder Fortschritt zu verfolgen.",
             "link-text": "Discord Bot nutzen",
             "title": "R6 Discord Bot"
         },
@@ -362,16 +362,16 @@
             "timeline": "Ablauf",
             "top-operators-played": "meiste gespielte Operatoren",
             "view-scoreboard": "Punktetabelle",
-            "view-timeline": "Verlauf"
+            "view-timeline": "Verlauf"                    
         },
         "operator": "Operator",
         "profile": {
             "bans": {
                 "ban-tooltip": {
                     "reputation-ban": {
-                        "1": "ReputationGG ist a 3rd party ban service that manually reviews videos of players cheating or breaking other rules. One of their admins either approve or deny a ban.",null
-                        "2": "Once a ban is approved, it will show up on our site with a link to the proof.",null
-                        "3": "Note: This does not officially ban them from the game, they can still play. It simply gives you more info as a player to know if someone is cheating or not."null
+                        "1": "ReputationGG ist ein unabhängiger Service für Sperren, der manuel Videos von Spielern auf Betrug und andere Regelverstöße untersucht. Ihre Admins entscheiden ob Spieler gesperrt werden.",
+                        "2": "Wenn jemand gesperrt wird, zeigen wir auf unserer Seite einen Link zum Beweis.",
+                        "3": "Notiz: Die Täter werden nicht offiziel vom Spiel gesperrt, sie können immernoch spielen. Es gibt dir lediglich mehr Infos als Spieler zu wissen, falls jemand betrügt."
                         
                     }
                 },
