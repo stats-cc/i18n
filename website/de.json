@@ -118,8 +118,8 @@
             },
             "description": "Schau dir Rainbow Six Siege Statistiken an, die globale Bestenliste, und mehr",
             "discord-bot": {
-                "description": "Die besten 10.000 {platform}spieler der Welt in Rainbow 6 Siege",
-                "title": "{platform} Bestenliste"
+                "description": null,
+                "title": null,
             },
             "leaderboards": {
                 "description": "Schau dir die besten 10,000 {platform} Spieler in Rainbow Six Siege an",
