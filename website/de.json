@@ -322,7 +322,7 @@
             "view-on-ubisoft": "Marktseite öffnen"
         },
         "matches": {
-            "back-to-profile": "zurück zum Profil",
+            "back-to-profile": "Zurück zu {username}s Profil",
             "first-half": "erste Hälfte",
             "killed": "getötet",
             "killfeed-disclaimer": "Kills nicht in Reihenfolge",
