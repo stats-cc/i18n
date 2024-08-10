@@ -172,7 +172,8 @@
                 "all-time": "Insgesamt",
                 "day": "Tag",
                 "month": "Monat",
-                "week": "Woche"
+                "week": "Woche",
+                "year": null
             },
             "reason": {
                 "all": "Alle",
@@ -362,7 +363,7 @@
             "timeline": "Ablauf",
             "top-operators-played": "meiste gespielte Operatoren",
             "view-scoreboard": "Punktetabelle",
-            "view-timeline": "Verlauf"                    
+            "view-timeline": "Verlauf"
         },
         "operator": "Operator",
         "profile": {
@@ -372,7 +373,6 @@
                         "1": "ReputationGG ist ein unabhängiger Service für Sperren, der manuel Videos von Spielern auf Betrug und andere Regelverstöße untersucht. Ihre Admins entscheiden ob Spieler gesperrt werden.",
                         "2": "Wenn jemand gesperrt wird, zeigen wir auf unserer Seite einen Link zum Beweis.",
                         "3": "Notiz: Die Täter werden nicht offiziel vom Spiel gesperrt, sie können immernoch spielen. Es gibt dir lediglich mehr Infos als Spieler zu wissen, falls jemand betrügt."
-                        
                     }
                 },
                 "reputation-bans-title": "{siteName} Sperren",

@@ -172,7 +172,8 @@
                 "all-time": "All Time",
                 "day": "Day",
                 "month": "Month",
-                "week": "Week"
+                "week": "Week",
+                "year": "Year"
             },
             "reason": {
                 "all": "All",

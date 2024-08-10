@@ -172,7 +172,8 @@
                 "all-time": "Total",
                 "day": "Dia",
                 "month": "Mês",
-                "week": "Semana"
+                "week": "Semana",
+                "year": null
             },
             "reason": {
                 "all": "Todos",

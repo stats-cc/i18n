@@ -172,7 +172,8 @@
                 "all-time": "Altijd",
                 "day": "Dag",
                 "month": "Maand",
-                "week": "Week"
+                "week": "Week",
+                "year": null
             },
             "reason": {
                 "all": "Alle",

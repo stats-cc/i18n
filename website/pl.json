@@ -172,7 +172,8 @@
                 "all-time": "Cały czas",
                 "day": "Dzień",
                 "month": "Miesiąc",
-                "week": "Tydzień"
+                "week": "Tydzień",
+                "year": null
             },
             "reason": {
                 "all": "Wszystkie",
