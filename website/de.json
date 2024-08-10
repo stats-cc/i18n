@@ -119,7 +119,7 @@
             "description": "Schau dir Rainbow Six Siege Statistiken an, die globale Bestenliste, und mehr",
             "discord-bot": {
                 "description": null,
-                "title": null,
+                "title": null
             },
             "leaderboards": {
                 "description": "Schau dir die besten 10,000 {platform} Spieler in Rainbow Six Siege an",
