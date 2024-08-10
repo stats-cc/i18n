@@ -1,453 +1,453 @@
 {
-    "common": {
-        "abandoned": null,
-        "all": "tümü",
-        "assists": "assists",
-        "category": "kategori",
-        "change": null,
-        "change-percent": null,
-        "console": "konsol",
-        "copied!": "kopyalandı!",
-        "copy": "kopyala",
-        "current": "şuanki",
-        "data-center": null,
-        "date": "tarih",
-        "deaths": "ölümler",
-        "defeat": null,
-        "draw": "berabere",
-        "duration": null,
-        "email": "e-posta",
-        "end-time": null,
-        "gamemode": null,
-        "global": null,
-        "headshot-percentage-short": null,
-        "k-d-a": null,
-        "kd": "KD",
-        "kda": null,
-        "kills": "öldürmeler",
-        "kills-per-match": "maç başına öldürme",
-        "kpm": "DKO",
-        "level": "seviye",
-        "level-n": null,
-        "loss": "kaybetme",
-        "loss-short": "K",
-        "losses": "kaybedilenler",
-        "lost": "kaybedilen",
-        "matches": "maçlar",
-        "max-rank": "maksimum rütbe",
-        "message": "mesaj",
-        "missing-data": "eksik veri",
-        "mmr": "mmr",
-        "name": "oyuncu ismi",
-        "new": "yeni",
-        "no-data": "veri yok",
-        "no-results": "sonuç yok",
-        "pc": "pc",
-        "platform": null,
-        "player": null,
-        "players": "oyuncular",
-        "rank": "rütbe",
-        "reason": "neden",
-        "rollback": "Rollback",
-        "rp": "{amount} RP",
-        "search": null,
-        "season": "sezon",
-        "show-all": "hepsini göster",
-        "show-less": "daha az göster",
-        "show-more": "daha fazla göster",
-        "start-time": null,
-        "submit": "gönder",
-        "tie": "berabere kalmak",
-        "total": null,
-        "unknown": null,
-        "victory": null,
-        "view-details": "detayları görüntüle",
-        "view-full-match": null,
-        "view-more": null,
-        "views": "görüntülemeler",
-        "win": "kazanma",
-        "win-short": "K",
-        "wins": "kazanılanlar",
-        "won": "kazanılan",
-        "wr": "WR"
-    },
-    "contact-us": {
-        "description": "Size her konuda yardımcı olabiliriz! Aşağıdaki formu doldur veya bize {0} adresinden e-posta gönder.",
-        "error-occured": "Mesajınızı gönderirken bir hata oluştu.",
-        "fields-are-invalid": "Aşağıdaki alanlar geçersiz: {fields}",
-        "fill-out-all-fields": "Lütfen tüm alanları doldurun.",
-        "submitted": "Talebinizi gönderdik, yakında e-posta ile cevaplayacağız.",
-        "title": "Bize Ulaşın"
-    },
-    "discord-bot": {
-        "title": null
-    },
-    "footer": {
-        "contact-us": "Bize Ulaşın",
-        "discord-server": "Discord Sunucusu",
-        "extra-pages": "Ekstra sayfalar",
-        "language": "Dil",
-        "partners": "Ortaklar",
-        "privacy-policy": "Gizlilik Politikası",
-        "reddit-marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit",
-        "roadmap": "Yol Haritası",
-        "social-media": "Sosyal Medya",
-        "terms-of-service": "Hizmet Şartları",
-        "twitter-account": "Twitter Hesabı"
-    },
-    "misc": {
-        "discord-bot-banner": null,
-        "help-translate": "Sitenin çevirisine yardımcı olmak ister misiniz? Discord'umuza katılın ve bize nasıl yardımcı olabileceğinizi sorun!"
-    },
-    "search": {
-        "clear-recents": "Son Aramaları Temizle",
-        "error": "Arama yapılırken hata oluştu: {error}",
-        "force-search": "Aramayı Zorla",
-        "no-players-found": "Oyuncu bulunamadı",
-        "profiles": "Profilleri Ara",
-        "search-results": "{count} arama sonucu"
-    },
-    "seo": {
-        "home": {
-            "description": "Rainbow Six Siege profili statistiklerini, en iyi oyuncuların liderlik tablosunu ve daha fazlasını görüntüleyin"
-        },
-        "siege": {
-            "bans": {
-                "description": "Rainbow Six: Siege'de son oyun yasakları",
-                "title": "Son Oyun Yasakları"
-            },
-            "description": "Rainbow Six Siege profili statistiklerini, en iyi oyuncuların liderlik tablosunu ve daha fazlasını görüntüleyin",
-            "discord-bot": {
-                "description": null,
-                "title": null
-            },
-            "leaderboards": {
-                "description": "En iyi 10,000 {platform} oyuncularının Rainbow Six Siege'de liderlik tablosunu görüntüleyin",
-                "title": "{platform} Liderlik Tablosu"
-            },
-            "marketplace": {
-                "description": "R6 Siege Pazarı ile ilgili öğe fiyatları ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
-                "item": {
-                    "description": "R6 Siege Pazarı ile ilgili {itemName} fiyatlarının ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
-                    "title": "Siege Pazar - {itemName} - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri"
-                },
-                "title": "R6 Pazar Statistikleri - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri - Stats.CC"
-            },
-            "matches": {
-                "description": null,
-                "recents": {
-                    "description": null,
-                    "title": null
-                },
-                "title": null
-            },
-            "profile": {
-                "description": " Rainbow Six Siege'de {username}'in sezonal profili statistiklerini görüntüleyin ",
-                "played-with": {
-                    "description": "{username}'in kiminle beraber oynadığını veya kiminle karşılaştığını görüntüleyin.",
-                    "title": "{username} Beraber Oynadı"
-                },
-                "seasons": {
-                    "description": "{username}'in Rainbow Six Siege'de sezonal profil statistiklerini, maksimum rütbe ve daha fazlasını görüntüleyin.",
-                    "title": "{username} Sezonlar"
-                },
-                "title": "{username}"
-            },
-            "title": "Tüm Rainbow Six Siege Statistikleri"
-        },
-        "streaming-widget": {
-            "description": "Canlı yayınınızda Rainbow Six Siege profili statistiklerini gösterin.",
-            "title": "Yayın Widget"
-        },
-        "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
-    },
-    "siege": {
-        "avg-rp": null,
-        "bans": {
-            "bans-by-month-for-reason": null,
-            "n-bans": "{count} Oyun Yasakları",
-            "n-recent-bans": "{count} Son Oyun Yasakları",
-            "no-bans-found-for-reason": "{reason} için oyun yasağı bulunamadı",
-            "period": {
-                "all-time": "Tüm Zamanlar",
-                "day": "Gün",
-                "month": "Ay",
-                "week": "Hafta"
-            },
-            "reason": {
-                "all": "Hepsi",
-                "battleye": "BattlEye",
-                "boosted": "Boosted",
-                "botting": "Botlama",
-                "cheating": "Hile",
-                "ddos": "DDoS",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
-                "title": "Yasak Sebebi",
-                "tos-breach": "Kural İhlali",
-                "toxic-behavior": "Toksik Davranış"
-            },
-            "recent-bans-data": "Son Oyun Yasak Verileri",
-            "title": "Yasaklar"
-        },
-        "discord-bot": {
-            "description": null,
-            "link-text": null,
-            "title": null
-        },
-        "gamemodes": {
-            "all": "Hepsi",
-            "casual": "Casual",
-            "events": "Etkinlikler",
-            "ranked": "Ranked",
-            "standard": "Standart",
-            "warmup": "Isınma"
-        },
-        "home": {
-            "player-search": "Oyuncu Arama",
-            "search-a-profile": "Bir profil ara...",
-            "title": "Ana Sayfa",
-            "top-console-players": "En İyi Konsol Oyuncuları",
-            "top-pc-players": "En İyi PC Oyuncuları"
-        },
-        "incomplete-game": null,
-        "leaderboards": {
-            "BAD-percent-of-players": "Tüm oyuncuların %{percent}'i",
-            "BAD-player-count": "{count} oyuncu",
-            "game-mode": null,
-            "last-update": "{date} güncellendi",
-            "leaderboard-type": null,
-            "title": "Skor Tablosu",
-            "top-percent": "En Üst %{percent}",
-            "total-players": "{count} oyuncu"
-        },
-        "marketplace": {
-            "1-year-averages": "1 yıllık ortalamalar",
-            "24-hour-averages": "24 saatlik ortalamalar",
-            "7-day-averages": "7 günlük ortalamalar",
-            "avg-demand-short": "Ortalama Talep",
-            "avg-price-last-7-days": "Son 7 günlük ortalama fiyat",
-            "avg-price-short": "Ortalama Fiyat",
-            "avg-supply-short": "Ortalama Tedarik",
-            "back-to-marketplace": "Pazara geri dön",
-            "currency": "para birimi",
-            "demand": "talep",
-            "faq": {
-                "how-can-i-trade": {
-                    "description": "Ubisoft ile ilişkilendirilmemişiz, bu nedenle öğelerinizi resmi {0}'da takas etmeniz gerekecek.",
-                    "description-link": "Rainbow Six Siege Pazarı",
-                    "title": "Nasıl ticaret yapabilirim?"
-                },
-                "title": "R6 Pazarı SSS",
-                "what-currency": {
-                    "description": "Yalnızca R6 Kredileri ile öğeler satın alabilir ve bir öğe sattığınızda yalnızca R6 Kredileri alırsınız.",
-                    "title": "Pazarda kullanılan para birimi nedir?"
-                },
-                "what-is-marketplace": {
-                    "description": "Pazar, Rainbow Six Siege için öğeleri satın alıp satmanızı sağlayan bir yerdir. Diğer oyunculardan öğeler satın alabilir veya kendiniz açtığınız öğeleri satabilirsiniz. Bu, önceden son derece nadir olan ve belirli bir hesaba kilitli olan skinleri satın almanızı sağlar.",
-                    "title": "Rainbow Six Siege Pazarı nedir?"
-                }
-            },
-            "filters": {
-                "events": {
-                    "title": "Etkinlikler"
-                },
-                "item-type": {
-                    "attachment-skin": "Eklenti Skin",
-                    "card-background": "Kart Arka Planı",
-                    "charm": "Şans",
-                    "drone-skin": "Drone Skin",
-                    "headgear": "Kaslık",
-                    "operator-portrait": "Operatör Portresi",
-                    "title": "Öğe Türü",
-                    "uniform": "Üniforma",
-                    "weapon-skin": "Silah Skin"
-                },
-                "new-items": null,
-                "operators": {
-                    "title": "Operatörler"
-                },
-                "others": {
-                    "title": "Diğerleri"
-                },
-                "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
-                    "title": "Nadirlik",
-                    "uncommon": null
-                },
-                "seasons": {
-                    "title": "Sezonlar"
-                },
-                "sort-by": {
-                    "average-price": "Ortalama Fiyat",
-                    "date-added": null,
-                    "display-name": "Görüntüleme Adı",
-                    "price-change": "Fiyat Değişimi",
-                    "title": "Sırala"
-                },
-                "sort-order": {
-                    "ascending": "Artan (A > Z)",
-                    "descending": "Azalan (Z > A)",
-                    "title": "Sıralama"
-                },
-                "title": "Filtreler",
-                "weapons": {
-                    "title": "Silahlar"
-                }
-            },
-            "interval": {
-                "daily": "Günlük",
-                "hourly": "Saatlik",
-                "monthly": "Aylık",
-                "quarterly": "Üç Aylık",
-                "weekly": "Haftalık",
-                "yearly": "Yıllık"
-            },
-            "interval-price-history": "{interval} Fiyat Geçmişi",
-            "item-removed-from-marketplace": "Bu öğe pazardan kaldırıldı.",
-            "price": "fiyat",
-            "price-change": "Fiyat Değişimi",
-            "r6-credits": "R6 Kredisi",
-            "search": "Öğe adına göre ara",
-            "season-released-in": "{ynsn} yayımlandı",
-            "supply": "tedarik",
-            "title": "R6 Pazarı",
-            "title-short": "Pazar",
-            "top-items-by-price": "Fiyata Göre En İyi Öğeler",
-            "top-items-by-price-change": "Fiyat Değişimine Göre En İyi Öğeler",
-            "view-on-ubisoft": "Ubisoft'ta görüntüle"
-        },
-        "matches": {
-            "back-to-profile": null,
-            "first-half": null,
-            "killed": null,
-            "killfeed-disclaimer": null,
-            "killfeed-no-data": null,
-            "match-players": null,
-            "overtime": null,
-            "player-rank-distributions": null,
-            "recents": {
-                "casual-matches": null,
-                "invalid-match-id": null,
-                "ranked-matches": null,
-                "search-a-match-by-id": null
-            },
-            "round-end-reason": {
-                "all-teams-dead": null,
-                "attackers-eliminated": null,
-                "attackers-killed-hostage": null,
-                "attackers-surrendered": null,
-                "bomb-deactivated": null,
-                "bomb-exploded": null,
-                "defenders-eliminated": null,
-                "defenders-eliminated-after-defuser-planted": null,
-                "defenders-killed-hostage": null,
-                "defenders-surrendered": null,
-                "defuser-deactivated": null,
-                "hostage-extracted": null,
-                "none": null,
-                "time-expired": null
-            },
-            "round-n": null,
-            "round-n-killfeed": null,
-            "scoreboard": null,
-            "second-half": null,
-            "selected-round": null,
-            "summary": null,
-            "swapping-sides": null,
-            "timeline": null,
-            "top-operators-played": null,
-            "view-scoreboard": null,
-            "view-timeline": null
-        },
-        "operator": null,
-        "profile": {
-            "bans": {
-                "ban-tooltip": {
-                    "reputation-ban": {
-                        "1": null,
-                        "2": null,
-                        "3": null
-                    }
-                },
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
-            },
-            "current-season": "Şu anki Sezon",
-            "failed-to-load": "Bu profil yüklenemedi.",
-            "last-played": "Son Oynanma",
-            "leaderboard-position": "Liderlik Pozisyonu",
-            "match-count": "{count} Maçlar",
-            "no-matches-played": "Hiç maç oynanmadı",
-            "past-24-hours": "Son 24 Saat",
-            "past-30-days": "Son 30 Gün",
-            "past-7-days": "Son 7 Gün",
-            "played-with": {
-                "info-banner": "{username}'in bu sezon içinde beraber oynadığı veya karşılaştığı kişiler",
-                "no-played-with": "{username} henüz kimseyle oynamadı",
-                "title": "Beraber Oynadı"
-            },
-            "rank-reset-due-to-ban": "Oyun yasağı nedeniyle rütbe sıfırlandı",
-            "ranked-2-max-ranks": "Sıralı 2.0 Maksimum Rütbe",
-            "ranked-sessions": {
-                "1": "Bu grafik, bir profilin son oturumlarını ve her oturumdan sonra rütbesini gösterir.",
-                "2": "Bireysel noktaların üzerine gelerek bir oturumun detaylarını görebilirsiniz.",
-                "3": "Bir aralığı sürükleyerek yakınlaştırabilir ve kontrol tuşunu basılı tutarak sürükleyerek kaydırabilirsiniz.",
-                "title": "Sıralı Oturumlar"
-            },
-            "regions-played": "Oynanan Bölgeler",
-            "report": {
-                "title": "Bildir"
-            },
-            "rp-change": "RP Değişimi",
-            "seasons": {
-                "old-seasons-banner": "Geçmiş sezon verileri gelecekte eklenecektir.",
-                "title": "Sezonlar"
-            },
-            "sessions": {
-                "no-sessions": "Filtrelerinize göre hiç sonuç bulunamadı."
-            },
-            "update": {
-                "failed": "Başarısız",
-                "timeout": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve güncelleme yakında yapılacaktır.",
-                "tooltip": {
-                    "1": "Bu profil henüz güncellenemiyor.",
-                    "2": "Bu profilde kalabilirsiniz ve oyuncunun maçı bitince otomatik olarak yenilenecektir.",
-                    "3": "Genellikle bu yenileme düğmesine basmak gerekmez, ancak profilin verilerinin senkronize olmadığını düşünüyorsanız yardımcı olabilir."
-                },
-                "update": "Güncelle",
-                "updated": "Güncellendi",
-                "updating": "Güncelleniyor"
-            },
-            "update-time-out": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve güncelleme yakında yapılacaktır.",
-            "username-history": "Kullanıcı Adı Geçmişi",
-            "wl-streak": "WL Serisi"
-        },
-        "streaming-widget": {
-            "description": "Akış widgetları profil istatistiklerinizi canlı yayınınızda göstermenin harika bir yoludur. Şu anda bizimki oldukça basit, ancak gelecekte çok daha fazla özelleştirme sağlayacağız. Şu anda sadece ranked maçları destekliyor, ancak diğer modlar için destek arıyorsanız lütfen {0} üzerinden bize ulaşın.",
-            "how-to-use": {
-                "profile-link": "Profil Bağlantısı...",
-                "step-1": "1. Profil bağlantınızı aşağıdaki kutuya kopyalayıp yapıştırın ve kopyalayın",
-                "step-2": "2. Canlı yayın yazılımınıza gidin ve \"Kaynaklar\" sekmesinde bir \"Tarayıcı Kaynağı\" oluşturun.",
-                "step-3": "3. Akış Widget Bağlantınızı \"Tarayıcı Kaynağı\" alanına yapıştırın.",
-                "step-4": "4. Widget'ın boyutunu ve konumunu isteğinize göre ayarlayın.",
-                "title": "Nasıl kullanılır",
-                "your-widget-link": "Akış Widget Bağlantınız"
-            },
-            "invalid-profile-link": "Geçersiz profil bağlantısı",
-            "title": "Akış Widget'ı",
-            "widget-image-caption": "İşte widgetımızın nasıl göründüğü:"
-        },
-        "team-kills-short": null,
-        "top-operators": null
-    },
-    "social": {
-        "follow-us-twitter": "Twitter'da bizi takip et",
-        "join-our-discord": "Discord'a katıl",
-        "marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit"
-    }
+	"common": {
+		"abandoned": null,
+		"all": "tümü",
+		"assists": "assists",
+		"category": "kategori",
+		"change": null,
+		"change-percent": null,
+		"console": "konsol",
+		"copied!": "kopyalandı!",
+		"copy": "kopyala",
+		"current": "şuanki",
+		"data-center": null,
+		"date": "tarih",
+		"deaths": "ölümler",
+		"defeat": null,
+		"draw": "berabere",
+		"duration": null,
+		"email": "e-posta",
+		"end-time": null,
+		"gamemode": null,
+		"global": null,
+		"headshot-percentage-short": null,
+		"k-d-a": null,
+		"kd": "KD",
+		"kda": null,
+		"kills": "öldürmeler",
+		"kills-per-match": "maç başına öldürme",
+		"kpm": "DKO",
+		"level": "seviye",
+		"level-n": null,
+		"loss": "kaybetme",
+		"loss-short": "K",
+		"losses": "kaybedilenler",
+		"lost": "mağlubiyet",
+		"matches": "maçlar",
+		"max-rank": "maksimum rütbe",
+		"message": "mesaj",
+		"missing-data": "eksik veri",
+		"mmr": "mmr",
+		"name": "oyuncu ismi",
+		"new": "yeni",
+		"no-data": "veri yok",
+		"no-results": "sonuç yok",
+		"pc": "pc",
+		"platform": null,
+		"player": null,
+		"players": "oyuncular",
+		"rank": "rütbe",
+		"reason": "neden",
+		"rollback": "Rollback",
+		"rp": "{amount} RP",
+		"search": null,
+		"season": "sezon",
+		"show-all": "hepsini göster",
+		"show-less": "daha az göster",
+		"show-more": "daha fazla göster",
+		"start-time": null,
+		"submit": "gönder",
+		"tie": "berabere kalmak",
+		"total": null,
+		"unknown": null,
+		"victory": null,
+		"view-details": "detayları görüntüle",
+		"view-full-match": null,
+		"view-more": null,
+		"views": "görüntülemeler",
+		"win": "kazanma",
+		"win-short": "K",
+		"wins": "kazanılanlar",
+		"won": "galibiyet",
+		"wr": "WR"
+	},
+	"contact-us": {
+		"description": "Size her konuda yardımcı olabiliriz! Aşağıdaki formu doldur veya bize {0} adresinden e-posta gönder.",
+		"error-occured": "Mesajınızı gönderirken bir hata oluştu.",
+		"fields-are-invalid": "Aşağıdaki alanlar geçersiz: {fields}",
+		"fill-out-all-fields": "Lütfen tüm alanları doldurun.",
+		"submitted": "Talebinizi gönderdik, yakında e-posta ile cevaplayacağız.",
+		"title": "Bize Ulaşın"
+	},
+	"discord-bot": {
+		"title": null
+	},
+	"footer": {
+		"contact-us": "Bize Ulaşın",
+		"discord-server": "Discord Sunucusu",
+		"extra-pages": "Ekstra sayfalar",
+		"language": "Dil",
+		"partners": "Ortaklar",
+		"privacy-policy": "Gizlilik Politikası",
+		"reddit-marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit",
+		"roadmap": "Yol Haritası",
+		"social-media": "Sosyal Medya",
+		"terms-of-service": "Hizmet Şartları",
+		"twitter-account": "Twitter Hesabı"
+	},
+	"misc": {
+		"discord-bot-banner": null,
+		"help-translate": "Sitenin çevirisine yardımcı olmak ister misiniz? Discord'umuza katılın ve bize nasıl yardımcı olabileceğinizi sorun!"
+	},
+	"search": {
+		"clear-recents": "Son Aramaları Temizle",
+		"error": "Arama yapılırken hata oluştu: {error}",
+		"force-search": "Aramayı Zorla",
+		"no-players-found": "Oyuncu bulunamadı",
+		"profiles": "Profilleri Ara",
+		"search-results": "{count} arama sonucu"
+	},
+	"seo": {
+		"home": {
+			"description": "Rainbow Six Siege profili statistiklerini, en iyi oyuncuların liderlik tablosunu ve daha fazlasını görüntüleyin"
+		},
+		"siege": {
+			"bans": {
+				"description": "Rainbow Six: Siege'de son oyun yasakları",
+				"title": "Son Oyun Yasakları"
+			},
+			"description": "Rainbow Six Siege profili statistiklerini, en iyi oyuncuların liderlik tablosunu ve daha fazlasını görüntüleyin",
+			"discord-bot": {
+				"description": null,
+				"title": null
+			},
+			"leaderboards": {
+				"description": "En iyi 10,000 {platform} oyuncularının Rainbow Six Siege'de liderlik tablosunu görüntüleyin",
+				"title": "{platform} Liderlik Tablosu"
+			},
+			"marketplace": {
+				"description": "R6 Siege Pazarı ile ilgili öğe fiyatları ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
+				"item": {
+					"description": "R6 Siege Pazarı ile ilgili {itemName} fiyatlarının ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
+					"title": "Siege Pazar - {itemName} - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri"
+				},
+				"title": "R6 Pazar Statistikleri - Rainbow Six Siege Pazarı Statistikleri & Analatistikleri - Stats.CC"
+			},
+			"matches": {
+				"description": null,
+				"recents": {
+					"description": null,
+					"title": null
+				},
+				"title": null
+			},
+			"profile": {
+				"description": " Rainbow Six Siege'de {username}'in sezonal profili statistiklerini görüntüleyin ",
+				"played-with": {
+					"description": "{username}'in kiminle beraber oynadığını veya kiminle karşılaştığını görüntüleyin.",
+					"title": "{username} Beraber Oynadı"
+				},
+				"seasons": {
+					"description": "{username}'in Rainbow Six Siege'de sezonal profil statistiklerini, maksimum rütbe ve daha fazlasını görüntüleyin.",
+					"title": "{username} Sezonlar"
+				},
+				"title": "{username}"
+			},
+			"title": "Tüm Rainbow Six Siege Statistikleri"
+		},
+		"streaming-widget": {
+			"description": "Canlı yayınınızda Rainbow Six Siege profili statistiklerini gösterin.",
+			"title": "Yayın Widget"
+		},
+		"title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Player Stats"
+	},
+	"siege": {
+		"avg-rp": null,
+		"bans": {
+			"bans-by-month-for-reason": null,
+			"n-bans": "{count} Oyun Yasakları",
+			"n-recent-bans": "{count} Son Oyun Yasakları",
+			"no-bans-found-for-reason": "{reason} için oyun yasağı bulunamadı",
+			"period": {
+				"all-time": "Tüm Zamanlar",
+				"day": "Gün",
+				"month": "Ay",
+				"week": "Hafta"
+			},
+			"reason": {
+				"all": "Hepsi",
+				"battleye": "BattlEye",
+				"boosted": "Boosted",
+				"botting": "Botlama",
+				"cheating": "Hile",
+				"ddos": "DDoS",
+				"glitching": null,
+				"homophobic": null,
+				"racism": null,
+				"sabotage": null,
+				"title": "Yasak Sebebi",
+				"tos-breach": "Kural İhlali",
+				"toxic-behavior": "Toksik Davranış"
+			},
+			"recent-bans-data": "Son Oyun Yasak Verileri",
+			"title": "Yasaklamalar"
+		},
+		"discord-bot": {
+			"description": null,
+			"link-text": null,
+			"title": null
+		},
+		"gamemodes": {
+			"all": "Hepsi",
+			"casual": "Casual",
+			"events": "Etkinlikler",
+			"ranked": "Ranked",
+			"standard": "Standart",
+			"warmup": "Isınma"
+		},
+		"home": {
+			"player-search": "Oyuncu Arama",
+			"search-a-profile": "Bir profil ara...",
+			"title": "Ana Sayfa",
+			"top-console-players": "En İyi Konsol Oyuncuları",
+			"top-pc-players": "En İyi PC Oyuncuları"
+		},
+		"incomplete-game": null,
+		"leaderboards": {
+			"BAD-percent-of-players": "Tüm oyuncuların %{percent}'i",
+			"BAD-player-count": "{count} oyuncu",
+			"game-mode": null,
+			"last-update": "{date} güncellendi",
+			"leaderboard-type": null,
+			"title": "Liderlik Tablosu",
+			"top-percent": "En Üst %{percent}",
+			"total-players": "{count} oyuncu"
+		},
+		"marketplace": {
+			"1-year-averages": "1 yıllık ortalamalar",
+			"24-hour-averages": "24 saatlik ortalamalar",
+			"7-day-averages": "7 günlük ortalamalar",
+			"avg-demand-short": "Ortalama Talep",
+			"avg-price-last-7-days": "Son 7 günlük ortalama fiyat",
+			"avg-price-short": "Ortalama Fiyat",
+			"avg-supply-short": "Ortalama Tedarik",
+			"back-to-marketplace": "Pazara geri dön",
+			"currency": "para birimi",
+			"demand": "talep",
+			"faq": {
+				"how-can-i-trade": {
+					"description": "Ubisoft ile ilişkilendirilmemişiz, bu nedenle öğelerinizi resmi {0}'da takas etmeniz gerekecek.",
+					"description-link": "Rainbow Six Siege Pazarı",
+					"title": "Nasıl ticaret yapabilirim?"
+				},
+				"title": "R6 Pazarı SSS",
+				"what-currency": {
+					"description": "Yalnızca R6 Kredileri ile öğeler satın alabilir ve bir öğe sattığınızda yalnızca R6 Kredileri alırsınız.",
+					"title": "Pazarda kullanılan para birimi nedir?"
+				},
+				"what-is-marketplace": {
+					"description": "Pazar, Rainbow Six Siege için öğeleri satın alıp satmanızı sağlayan bir yerdir. Diğer oyunculardan öğeler satın alabilir veya kendiniz açtığınız öğeleri satabilirsiniz. Bu, önceden son derece nadir olan ve belirli bir hesaba kilitli olan skinleri satın almanızı sağlar.",
+					"title": "Rainbow Six Siege Pazarı nedir?"
+				}
+			},
+			"filters": {
+				"events": {
+					"title": "Etkinlikler"
+				},
+				"item-type": {
+					"attachment-skin": "Eklenti Skin",
+					"card-background": "Kart Arka Planı",
+					"charm": "Şans",
+					"drone-skin": "Drone Skin",
+					"headgear": "Kaslık",
+					"operator-portrait": "Operatör Portresi",
+					"title": "Öğe Türü",
+					"uniform": "Üniforma",
+					"weapon-skin": "Silah Skin"
+				},
+				"new-items": null,
+				"operators": {
+					"title": "Operatörler"
+				},
+				"others": {
+					"title": "Diğerleri"
+				},
+				"rarity": {
+					"legendary": null,
+					"rare": null,
+					"superrare": null,
+					"title": "Nadirlik",
+					"uncommon": null
+				},
+				"seasons": {
+					"title": "Sezonlar"
+				},
+				"sort-by": {
+					"average-price": "Ortalama Fiyat",
+					"date-added": null,
+					"display-name": "Görüntüleme Adı",
+					"price-change": "Fiyat Değişimi",
+					"title": "Sırala"
+				},
+				"sort-order": {
+					"ascending": "Artan (A > Z)",
+					"descending": "Azalan (Z > A)",
+					"title": "Sıralama"
+				},
+				"title": "Filtreler",
+				"weapons": {
+					"title": "Silahlar"
+				}
+			},
+			"interval": {
+				"daily": "Günlük",
+				"hourly": "Saatlik",
+				"monthly": "Aylık",
+				"quarterly": "Üç Aylık",
+				"weekly": "Haftalık",
+				"yearly": "Yıllık"
+			},
+			"interval-price-history": "{interval} Fiyat Geçmişi",
+			"item-removed-from-marketplace": "Bu öğe pazardan kaldırıldı.",
+			"price": "fiyat",
+			"price-change": "Fiyat Değişimi",
+			"r6-credits": "R6 Kredisi",
+			"search": "Öğe adına göre ara",
+			"season-released-in": "{ynsn} yayımlandı",
+			"supply": "tedarik",
+			"title": "R6 Pazarı",
+			"title-short": "Pazar",
+			"top-items-by-price": "Fiyata Göre En İyi Öğeler",
+			"top-items-by-price-change": "Fiyat Değişimine Göre En İyi Öğeler",
+			"view-on-ubisoft": "Ubisoft'ta görüntüle"
+		},
+		"matches": {
+			"back-to-profile": null,
+			"first-half": null,
+			"killed": null,
+			"killfeed-disclaimer": null,
+			"killfeed-no-data": null,
+			"match-players": null,
+			"overtime": null,
+			"player-rank-distributions": null,
+			"recents": {
+				"casual-matches": null,
+				"invalid-match-id": null,
+				"ranked-matches": null,
+				"search-a-match-by-id": null
+			},
+			"round-end-reason": {
+				"all-teams-dead": null,
+				"attackers-eliminated": null,
+				"attackers-killed-hostage": null,
+				"attackers-surrendered": null,
+				"bomb-deactivated": null,
+				"bomb-exploded": null,
+				"defenders-eliminated": null,
+				"defenders-eliminated-after-defuser-planted": null,
+				"defenders-killed-hostage": null,
+				"defenders-surrendered": null,
+				"defuser-deactivated": null,
+				"hostage-extracted": null,
+				"none": null,
+				"time-expired": null
+			},
+			"round-n": null,
+			"round-n-killfeed": null,
+			"scoreboard": null,
+			"second-half": null,
+			"selected-round": null,
+			"summary": null,
+			"swapping-sides": null,
+			"timeline": null,
+			"top-operators-played": null,
+			"view-scoreboard": null,
+			"view-timeline": null
+		},
+		"operator": null,
+		"profile": {
+			"bans": {
+				"ban-tooltip": {
+					"reputation-ban": {
+						"1": null,
+						"2": null,
+						"3": null
+					}
+				},
+				"reputation-bans-title": null,
+				"ubisoft-bans-title": null
+			},
+			"current-season": "Şu anki Sezon",
+			"failed-to-load": "Bu profil yüklenemedi.",
+			"last-played": "Son Oynanma",
+			"leaderboard-position": "Liderlik Pozisyonu",
+			"match-count": "{count} Maçlar",
+			"no-matches-played": "Hiç maç oynanmadı",
+			"past-24-hours": "Son 24 Saat",
+			"past-30-days": "Son 30 Gün",
+			"past-7-days": "Son 7 Gün",
+			"played-with": {
+				"info-banner": "{username}'in bu sezon içinde beraber oynadığı veya karşılaştığı kişiler",
+				"no-played-with": "{username} henüz kimseyle oynamadı",
+				"title": "Beraber Oynadı"
+			},
+			"rank-reset-due-to-ban": "Oyun yasağı nedeniyle rütbe sıfırlandı",
+			"ranked-2-max-ranks": "Sıralı 2.0 Maksimum Rütbe",
+			"ranked-sessions": {
+				"1": "Bu grafik, bir profilin son oturumlarını ve her oturumdan sonra rütbesini gösterir.",
+				"2": "Bireysel noktaların üzerine gelerek bir oturumun detaylarını görebilirsiniz.",
+				"3": "Bir aralığı sürükleyerek yakınlaştırabilir ve kontrol tuşunu basılı tutarak sürükleyerek kaydırabilirsiniz.",
+				"title": "Sıralı Oturumlar"
+			},
+			"regions-played": "Oynanan Bölgeler",
+			"report": {
+				"title": "Bildir"
+			},
+			"rp-change": "RP Değişimi",
+			"seasons": {
+				"old-seasons-banner": "Geçmiş sezon verileri gelecekte eklenecektir.",
+				"title": "Sezonlar"
+			},
+			"sessions": {
+				"no-sessions": "Filtrelerinize göre hiç sonuç bulunamadı."
+			},
+			"update": {
+				"failed": "Başarısız",
+				"timeout": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve güncelleme yakında yapılacaktır.",
+				"tooltip": {
+					"1": "Bu profil henüz güncellenemiyor.",
+					"2": "Bu profilde kalabilirsiniz ve oyuncunun maçı bitince otomatik olarak yenilenecektir.",
+					"3": "Genellikle bu yenileme düğmesine basmak gerekmez, ancak profilin verilerinin senkronize olmadığını düşünüyorsanız yardımcı olabilir."
+				},
+				"update": "Güncelle",
+				"updated": "Güncellendi",
+				"updating": "Güncelleniyor"
+			},
+			"update-time-out": "Güncelleme zaman aşımına uğradı. Sayfayı yenileyin ve güncelleme yakında yapılacaktır.",
+			"username-history": "Kullanıcı Adı Geçmişi",
+			"wl-streak": "WL Serisi"
+		},
+		"streaming-widget": {
+			"description": "Akış widgetları profil istatistiklerinizi canlı yayınınızda göstermenin harika bir yoludur. Şu anda bizimki oldukça basit, ancak gelecekte çok daha fazla özelleştirme sağlayacağız. Şu anda sadece ranked maçları destekliyor, ancak diğer modlar için destek arıyorsanız lütfen {0} üzerinden bize ulaşın.",
+			"how-to-use": {
+				"profile-link": "Profil Bağlantısı...",
+				"step-1": "1. Profil bağlantınızı aşağıdaki kutuya kopyalayıp yapıştırın ve kopyalayın",
+				"step-2": "2. Canlı yayın yazılımınıza gidin ve \"Kaynaklar\" sekmesinde bir \"Tarayıcı Kaynağı\" oluşturun.",
+				"step-3": "3. Akış Widget Bağlantınızı \"Tarayıcı Kaynağı\" alanına yapıştırın.",
+				"step-4": "4. Widget'ın boyutunu ve konumunu isteğinize göre ayarlayın.",
+				"title": "Nasıl kullanılır",
+				"your-widget-link": "Akış Widget Bağlantınız"
+			},
+			"invalid-profile-link": "Geçersiz profil bağlantısı",
+			"title": "Yayın Widget'ı",
+			"widget-image-caption": "İşte widgetımızın nasıl göründüğü:"
+		},
+		"team-kills-short": null,
+		"top-operators": null
+	},
+	"social": {
+		"follow-us-twitter": "Twitter'da bizi takip et",
+		"join-our-discord": "Discord'a katıl",
+		"marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit"
+	}
 }
