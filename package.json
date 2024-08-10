@@ -1,0 +1,14 @@
+{
+	"name": "@stats-cc/i18n",
+	"license": "Apache-2.0",
+	"scripts": {
+		"test": "vitest",
+		"test:once": "vitest run",
+		"add-missing-keys": "node ./scripts/addMissingKeys.js && pnpm sort-keys",
+		"sort-keys": "node ./scripts/sortKeys.js"
+	},
+	"devDependencies": {
+		"@types/node": "^20.12.12",
+		"vitest": "^1.6.0"
+	}
+}
