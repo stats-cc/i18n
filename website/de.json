@@ -331,7 +331,7 @@
             "overtime": "Verlängerung",
             "player-rank-distributions": "Rangverteilung",
             "recents": {
-                "casual-matches": ,
+                "casual-matches": null,
                 "invalid-match-id": "ungültige Match ID",
                 "ranked-matches": "mit Rang",
                 "search-a-match-by-id": "Nach Match ID suchen"
@@ -344,8 +344,8 @@
                 "bomb-deactivated": "Bombe entschärft",
                 "bomb-exploded": "Bombe explodiert",
                 "defenders-eliminated": "Verteidiger eliminiert",
-                "defenders-eliminated-after-defuser-planted": Verteidiger waährend Entschärfung eliminiert",
-                "defenders-killed-hostage": Verteidiger haben die Geisel getötet",
+                "defenders-eliminated-after-defuser-planted": "Verteidiger waährend Entschärfung eliminiert",
+                "defenders-killed-hostage": "Verteidiger haben die Geisel getötet",
                 "defenders-surrendered": "Verteidiger haben aufgegeben",
                 "defuser-deactivated": "Entschärfer deaktiviert",
                 "hostage-extracted": "Geisel gerettet",
