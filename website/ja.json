@@ -172,7 +172,8 @@
                 "all-time": "すべての時間",
                 "day": "日",
                 "month": "月",
-                "week": "週"
+                "week": "週",
+                "year": null
             },
             "reason": {
                 "all": "すべて",

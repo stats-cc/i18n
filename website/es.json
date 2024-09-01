@@ -172,7 +172,8 @@
                 "all-time": "Todo",
                 "day": "Diario",
                 "month": "Mensual",
-                "week": "Semanal"
+                "week": "Semanal",
+                "year": null
             },
             "reason": {
                 "all": "Todos",

@@ -172,7 +172,8 @@
                 "all-time": "Tout le Temps",
                 "day": "Jour",
                 "month": "Mois",
-                "week": "Semaine"
+                "week": "Semaine",
+                "year": null
             },
             "reason": {
                 "all": "Tous",

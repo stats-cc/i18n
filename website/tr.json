@@ -32,7 +32,7 @@
         "loss": "kaybetme",
         "loss-short": "K",
         "losses": "kaybedilenler",
-        "lost": "kaybedilen",
+        "lost": "mağlubiyet",
         "matches": "maçlar",
         "max-rank": "maksimum rütbe",
         "message": "mesaj",
@@ -68,7 +68,7 @@
         "win": "kazanma",
         "win-short": "K",
         "wins": "kazanılanlar",
-        "won": "kazanılan",
+        "won": "galibiyet",
         "wr": "WR"
     },
     "contact-us": {
@@ -172,7 +172,8 @@
                 "all-time": "Tüm Zamanlar",
                 "day": "Gün",
                 "month": "Ay",
-                "week": "Hafta"
+                "week": "Hafta",
+                "year": null
             },
             "reason": {
                 "all": "Hepsi",
@@ -190,7 +191,7 @@
                 "toxic-behavior": "Toksik Davranış"
             },
             "recent-bans-data": "Son Oyun Yasak Verileri",
-            "title": "Yasaklar"
+            "title": "Yasaklamalar"
         },
         "discord-bot": {
             "description": null,
@@ -219,7 +220,7 @@
             "game-mode": null,
             "last-update": "{date} güncellendi",
             "leaderboard-type": null,
-            "title": "Skor Tablosu",
+            "title": "Liderlik Tablosu",
             "top-percent": "En Üst %{percent}",
             "total-players": "{count} oyuncu"
         },
@@ -439,7 +440,7 @@
                 "your-widget-link": "Akış Widget Bağlantınız"
             },
             "invalid-profile-link": "Geçersiz profil bağlantısı",
-            "title": "Akış Widget'ı",
+            "title": "Yayın Widget'ı",
             "widget-image-caption": "İşte widgetımızın nasıl göründüğü:"
         },
         "team-kills-short": null,
