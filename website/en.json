@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "People {username} played with or against this season",
                 "no-played-with": "{username} hasn't played with anyone yet",
+                "percent-of-matches": "{percent}% of all matches this season",
                 "title": "Played With"
             },
             "rank-reset-due-to-ban": "Rank reset due to ban",

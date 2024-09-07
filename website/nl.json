@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "Mensen waarmee {username} dit seizoen heeft gespeeld",
                 "no-played-with": "{username} heeft nog niet met iemand gespeeld",
+                "percent-of-matches": null,
                 "title": "Gespeeld Met"
             },
             "rank-reset-due-to-ban": "Rankreset vanwege verbanning",

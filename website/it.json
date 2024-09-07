@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "Le persone con cui {username} ha giocato insieme o contro questa stagione",
                 "no-played-with": "{username} non ha ancora giocato con nessuno",
+                "percent-of-matches": null,
                 "title": "Giocato Con"
             },
             "rank-reset-due-to-ban": "Grado resettato a causa di ban",

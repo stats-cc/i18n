@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "{username}'in bu sezon içinde beraber oynadığı veya karşılaştığı kişiler",
                 "no-played-with": "{username} henüz kimseyle oynamadı",
+                "percent-of-matches": null,
                 "title": "Beraber Oynadı"
             },
             "rank-reset-due-to-ban": "Oyun yasağı nedeniyle rütbe sıfırlandı",

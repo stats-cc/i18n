@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "Pessoas que {username} jogou com ou contra essa temporada, e a quantidade de vezes",
                 "no-played-with": "{username} não possui jogadores frequentes",
+                "percent-of-matches": null,
                 "title": "Jogadores Frequentes"
             },
             "rank-reset-due-to-ban": "Classificação removida devido a banimento",

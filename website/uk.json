@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "Гравці, з якими {username} грав(ла) разом або проти в цьому сезоні",
                 "no-played-with": "{username} Одинокий вовк і ні з ким не грав ще",
+                "percent-of-matches": null,
                 "title": "Грав(ла) з"
             },
             "rank-reset-due-to-ban": "Скидання рангу через Блокування",

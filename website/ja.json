@@ -390,6 +390,7 @@
             "played-with": {
                 "info-banner": "{username} がこのシーズンに一緒にプレイした人々",
                 "no-played-with": "{username} はまだ誰ともプレイしていません",
+                "percent-of-matches": null,
                 "title": "一緒にプレイした"
             },
             "rank-reset-due-to-ban": "禁止のためランクがリセットされました",
