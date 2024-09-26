@@ -87,6 +87,7 @@
         "discord-server": "Discord Sunucusu",
         "extra-pages": "Ekstra sayfalar",
         "language": "Dil",
+        "marketplace-guides": null,
         "partners": "Ortaklar",
         "privacy-policy": "Gizlilik Politikası",
         "reddit-marketplace-subreddit": "Rainbow Six Siege Marketplace Subreddit",
@@ -126,6 +127,10 @@
                 "title": "{platform} Liderlik Tablosu"
             },
             "marketplace": {
+                "blog": {
+                    "description": null,
+                    "title": null
+                },
                 "description": "R6 Siege Pazarı ile ilgili öğe fiyatları ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",
                 "item": {
                     "description": "R6 Siege Pazarı ile ilgili {itemName} fiyatlarının ve analitikleri görüntüleyin. R6 Siege Pazarı için en iyi öğe fiyatlarını görüntüleyin.",

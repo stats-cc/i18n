@@ -87,6 +87,7 @@
         "discord-server": "Сервер Discord",
         "extra-pages": "Додаткові сторінки",
         "language": "Мова",
+        "marketplace-guides": null,
         "partners": "Партнери",
         "privacy-policy": "Політика конфіденційності",
         "reddit-marketplace-subreddit": "subreddit Торгового Майданчику",
@@ -126,6 +127,10 @@
                 "title": "{platform} Таблиця Лідерів"
             },
             "marketplace": {
+                "blog": {
+                    "description": null,
+                    "title": null
+                },
                 "description": "Торговий Майданчик Облоги з глибокою аналітикою цін на предмети та статистикою. Перегляньте минулі ціни на предмети для гри",
                 "item": {
                     "description": "Попередні ціни на Предмет {itemName}",

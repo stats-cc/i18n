@@ -87,6 +87,7 @@
         "discord-server": "Discordサーバー",
         "extra-pages": "その他のページ",
         "language": "言語",
+        "marketplace-guides": null,
         "partners": "パートナー",
         "privacy-policy": "プライバシーポリシー",
         "reddit-marketplace-subreddit": "Siegeマーケットプレースのサブレディット",
@@ -126,6 +127,10 @@
                 "title": "{platform} リーダーボード"
             },
             "marketplace": {
+                "blog": {
+                    "description": null,
+                    "title": null
+                },
                 "description": "R6シージのマーケットプレイスには、詳細なアイテム価格分析と統計があります。レインボーシックスシージアイテムの過去の価格を表示します。",
                 "item": {
                     "description": "レインボーシックスシージアイテム {itemName} の歴史的なマーケットプレイス価格データ",

@@ -87,6 +87,7 @@
         "discord-server": "Server Discord",
         "extra-pages": "Pagine Extra",
         "language": "Lingua",
+        "marketplace-guides": null,
         "partners": "Partner",
         "privacy-policy": "Politica sulla Privacy",
         "reddit-marketplace-subreddit": "Subreddit del Marketplace di Siege",
@@ -126,6 +127,10 @@
                 "title": "Classifiche {platform}"
             },
             "marketplace": {
+                "blog": {
+                    "description": null,
+                    "title": null
+                },
                 "description": "R6 Siege Marketplace con analisi e statistiche approfondite sui prezzi degli oggetti. Visualizza la cronologia dei prezzi degli oggetti di rainbow six siege.",
                 "item": {
                     "description": "Dati cronologici dei prezzi di mercato per l'oggetto {itemName} di Rainbow Six Siege.",

@@ -87,6 +87,7 @@
         "discord-server": "Discord-server",
         "extra-pages": "Extra pagina's",
         "language": "Taal",
+        "marketplace-guides": null,
         "partners": "Partners",
         "privacy-policy": "Privacybeleid",
         "reddit-marketplace-subreddit": "Siege Marketplace Subreddit",
@@ -126,6 +127,10 @@
                 "title": "{platform} Leaderboards"
             },
             "marketplace": {
+                "blog": {
+                    "description": null,
+                    "title": null
+                },
                 "description": "R6 Siege Marketplaats met tot in de diepte item prijzen analyses en statistieken. bekijk de oude prijzen van rainbow six siege items.",
                 "item": {
                     "description": "Oude markplaats data voor Rainbow Six Siege item {itemName}",

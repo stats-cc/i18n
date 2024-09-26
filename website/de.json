@@ -87,6 +87,7 @@
         "discord-server": "Discordserver",
         "extra-pages": "weitere Seiten",
         "language": "Sprache",
+        "marketplace-guides": null,
         "partners": "Partner",
         "privacy-policy": "Datenschutzrichtlinie",
         "reddit-marketplace-subreddit": "Rainbow Six Siege Marktplatz Subreddit",
@@ -126,6 +127,10 @@
                 "title": "{platform} Bestenliste"
             },
             "marketplace": {
+                "blog": {
+                    "description": null,
+                    "title": null
+                },
                 "description": "R6 Siege Marktplatz mit detalierten Preis Alalysen und Statistiken. Finde historische Preise Rainbow von Six Siege Gegenständen.",
                 "item": {
                     "description": "Historischer Marktplatz Preisverlauf  für Rainbow Six Siege Gegenstand {itemName}",
