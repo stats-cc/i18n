@@ -1,6 +1,7 @@
 {
     "common": {
         "abandoned": "Verlassen",
+        "abandons": null,
         "all": "alle",
         "assists": "Assists",
         "category": "Kategorie",

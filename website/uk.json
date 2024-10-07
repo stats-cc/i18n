@@ -1,6 +1,7 @@
 {
     "common": {
         "abandoned": null,
+        "abandons": null,
         "all": "всі",
         "assists": "допомога",
         "category": "категорія",

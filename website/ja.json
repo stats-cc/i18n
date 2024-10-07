@@ -1,6 +1,7 @@
 {
     "common": {
         "abandoned": null,
+        "abandons": null,
         "all": "すべて",
         "assists": "アシスト",
         "category": "カテゴリー",

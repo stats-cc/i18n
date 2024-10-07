@@ -1,6 +1,7 @@
 {
     "common": {
         "abandoned": null,
+        "abandons": null,
         "all": "tümü",
         "assists": "assists",
         "category": "kategori",
