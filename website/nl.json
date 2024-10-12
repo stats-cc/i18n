@@ -1,461 +1,462 @@
 {
-    "common": {
-        "abandoned": null,
-        "abandons": null,
-        "all": "alle",
-        "assists": "assists",
-        "category": "categorie",
-        "change": null,
-        "change-percent": null,
-        "console": "console",
-        "copied!": "gekopieerd!",
-        "copy": "kopiëren",
-        "current": "huidig",
-        "data-center": null,
-        "date": "datum",
-        "deaths": "doden",
-        "defeat": null,
-        "draw": "gelijkspel",
-        "duration": null,
-        "email": "e-mail",
-        "end-time": null,
-        "gamemode": null,
-        "global": null,
-        "headshot-percentage-short": null,
-        "k-d-a": null,
-        "kd": "KD",
-        "kda": null,
-        "kills": "kills",
-        "kills-per-match": "kills per match",
-        "kpm": "KPM",
-        "level": "niveau",
-        "level-n": null,
-        "loss": "verlies",
-        "loss-short": "L",
-        "losses": "verloren",
-        "lost": "verloren",
-        "matches": "wedstrijden",
-        "max-rank": "hoogste rank",
-        "message": "bericht",
-        "missing-data": "ontbrekende gegevens",
-        "mmr": "mmr",
-        "name": "naam",
-        "new": "nieuw",
-        "no-data": "geen gegevens",
-        "no-results": "geen resultaten",
-        "pc": "PC",
-        "platform": null,
-        "player": null,
-        "players": "spelers",
-        "rank": "rang",
-        "reason": "reden",
-        "rollback": "rp terug gekregen",
-        "rp": "{amount} RP",
-        "search": null,
-        "season": "seizoen",
-        "show-all": "toon alles",
-        "show-less": "toon minder",
-        "show-more": "toon meer",
-        "start-time": null,
-        "submit": "verzenden",
-        "tie": "gelijkspel",
-        "total": null,
-        "unknown": null,
-        "victory": null,
-        "view-details": "bekijk details",
-        "view-full-match": null,
-        "view-more": null,
-        "views": "weergaven",
-        "win": "wins",
-        "win-short": "W",
-        "wins": "wins",
-        "won": "gewonnen",
-        "wr": "WR"
-    },
-    "contact-us": {
-        "description": "We horen graag van u! Vul het onderstaande formulier in of stuur ons een e-mail naar {0}.",
-        "error-occured": "Er is een fout opgetreden bij het verzenden van uw bericht.",
-        "fields-are-invalid": "De volgende velden zijn ongeldig: {fields}",
-        "fill-out-all-fields": "Vul alstublieft alle velden in.",
-        "submitted": "Uw aanvraag is ingediend, we zullen binnenkort antwoorden via e-mail.",
-        "title": "Neem contact met ons op"
-    },
-    "discord-bot": {
-        "title": null
-    },
-    "footer": {
-        "contact-us": "Neem contact met ons op",
-        "discord-server": "Discord-server",
-        "extra-pages": "Extra pagina's",
-        "language": "Taal",
-        "marketplace-guides": null,
-        "partners": "Partners",
-        "privacy-policy": "Privacybeleid",
-        "reddit-marketplace-subreddit": "Siege Marketplace Subreddit",
-        "roadmap": "Routekaart",
-        "social-media": "Sociale media",
-        "terms-of-service": "Gebruiksvoorwaarden",
-        "twitter-account": "Twitter-account"
-    },
-    "misc": {
-        "discord-bot-banner": null,
-        "help-translate": "Wil je helpen bij het vertalen van de site? Kom naar onze Discord en vraag het!"
-    },
-    "search": {
-        "clear-recents": "Wis recente zoekopdrachten",
-        "error": "Fout bij het zoeken: {error}",
-        "force-search": "Forceer zoeken",
-        "no-players-found": "Geen spelers gevonden",
-        "profiles": "Zoek profielen",
-        "search-results": "{count} zoekresultaten"
-    },
-    "seo": {
-        "home": {
-            "description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer"
-        },
-        "siege": {
-            "bans": {
-                "description": "Recente bans voor Rainbow Six: Siege",
-                "title": "Recente bans"
-            },
-            "description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer",
-            "discord-bot": {
-                "description": null,
-                "title": null
-            },
-            "leaderboards": {
-                "description": "bekijk de top 10,000 {platform} spelers op Rainbow Six Siege",
-                "title": "{platform} Leaderboards"
-            },
-            "marketplace": {
-                "blog": {
-                    "description": null,
-                    "title": null
-                },
-                "description": "R6 Siege Marketplaats met tot in de diepte item prijzen analyses en statistieken. bekijk de oude prijzen van rainbow six siege items.",
-                "item": {
-                    "description": "Oude markplaats data voor Rainbow Six Siege item {itemName}",
-                    "title": "Siege Marketplaats - {itemName} - Rainbow Six Siege Marketplaats statistieken & Analyses"
-                },
-                "title": "R6 Marketplaats - Rainbow Six Siege Marketplaats statistieken & Analyses - Stats.CC"
-            },
-            "matches": {
-                "description": null,
-                "recents": {
-                    "description": null,
-                    "title": null
-                },
-                "title": null
-            },
-            "profile": {
-                "description": "bekijk {username}'s Rainbow Six Siege seizoensgebonden profiel statistieken",
-                "played-with": {
-                    "description": "bekijk wie {username} het meest of met gespeeld heeft",
-                    "title": "{username} Gespeeld met"
-                },
-                "seasons": {
-                    "description": "bekijk {username}'s Rainbow Six Siege ranked seizoenen historie inclusief statistieken, hoogste rank, en more.",
-                    "title": "{username} Seizoenen"
-                },
-                "title": "{username}"
-            },
-            "title": "Alle Rainbow Six Siege statistieken"
-        },
-        "streaming-widget": {
-            "description": "Toon jouw siege profiel statistieken op jouw livestream met onze streaming .",
-            "title": "Streaming Widget"
-        },
-        "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Speler statistieken"
+  "common": {
+    "abandoned": null,
+    "abandons": null,
+    "all": "alle",
+    "assists": "assists",
+    "category": "categorie",
+    "change": null,
+    "change-percent": null,
+    "console": "console",
+    "copied!": "gekopieerd!",
+    "copy": "kopiëren",
+    "current": "huidig",
+    "data-center": null,
+    "date": "datum",
+    "deaths": "doden",
+    "defeat": null,
+    "draw": "gelijkspel",
+    "duration": null,
+    "email": "e-mail",
+    "end-time": null,
+    "gamemode": null,
+    "global": null,
+    "headshot-percentage-short": null,
+    "k-d-a": null,
+    "kd": "KD",
+    "kda": null,
+    "kills": "kills",
+    "kills-per-match": "kills per match",
+    "kpm": "KPM",
+    "level": "niveau",
+    "level-n": null,
+    "loss": "verlies",
+    "loss-short": "L",
+    "losses": "verloren",
+    "lost": "verloren",
+    "matches": "wedstrijden",
+    "max-rank": "hoogste rank",
+    "message": "bericht",
+    "missing-data": "ontbrekende gegevens",
+    "mmr": "mmr",
+    "name": "naam",
+    "new": "nieuw",
+    "no-data": "geen gegevens",
+    "no-results": "geen resultaten",
+    "pc": "PC",
+    "platform": null,
+    "player": null,
+    "players": "spelers",
+    "rank": "rang",
+    "reason": "reden",
+    "rollback": "rp terug gekregen",
+    "rp": "{amount} RP",
+    "search": null,
+    "season": "seizoen",
+    "show-all": "toon alles",
+    "show-less": "toon minder",
+    "show-more": "toon meer",
+    "start-time": null,
+    "submit": "verzenden",
+    "tie": "gelijkspel",
+    "total": null,
+    "unknown": null,
+    "victory": null,
+    "view-details": "bekijk details",
+    "view-full-match": null,
+    "view-more": null,
+    "views": "weergaven",
+    "win": "wins",
+    "win-short": "W",
+    "wins": "wins",
+    "won": "gewonnen",
+    "wr": "WR",
+    "overlay": null
+  },
+  "contact-us": {
+    "description": "We horen graag van u! Vul het onderstaande formulier in of stuur ons een e-mail naar {0}.",
+    "error-occured": "Er is een fout opgetreden bij het verzenden van uw bericht.",
+    "fields-are-invalid": "De volgende velden zijn ongeldig: {fields}",
+    "fill-out-all-fields": "Vul alstublieft alle velden in.",
+    "submitted": "Uw aanvraag is ingediend, we zullen binnenkort antwoorden via e-mail.",
+    "title": "Neem contact met ons op"
+  },
+  "discord-bot": {
+    "title": null
+  },
+  "footer": {
+    "contact-us": "Neem contact met ons op",
+    "discord-server": "Discord-server",
+    "extra-pages": "Extra pagina's",
+    "language": "Taal",
+    "marketplace-guides": null,
+    "partners": "Partners",
+    "privacy-policy": "Privacybeleid",
+    "reddit-marketplace-subreddit": "Siege Marketplace Subreddit",
+    "roadmap": "Routekaart",
+    "social-media": "Sociale media",
+    "terms-of-service": "Gebruiksvoorwaarden",
+    "twitter-account": "Twitter-account"
+  },
+  "misc": {
+    "discord-bot-banner": null,
+    "help-translate": "Wil je helpen bij het vertalen van de site? Kom naar onze Discord en vraag het!"
+  },
+  "search": {
+    "clear-recents": "Wis recente zoekopdrachten",
+    "error": "Fout bij het zoeken: {error}",
+    "force-search": "Forceer zoeken",
+    "no-players-found": "Geen spelers gevonden",
+    "profiles": "Zoek profielen",
+    "search-results": "{count} zoekresultaten"
+  },
+  "seo": {
+    "home": {
+      "description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer"
     },
     "siege": {
-        "avg-rp": null,
-        "bans": {
-            "bans-by-month-for-reason": null,
-            "n-bans": "{count} bans",
-            "n-recent-bans": "{count} Recente bans",
-            "no-bans-found-for-reason": "Geen bans gevonden voor {reason}",
-            "period": {
-                "all-time": "Altijd",
-                "day": "Dag",
-                "month": "Maand",
-                "week": "Week",
-                "year": null
-            },
-            "reason": {
-                "all": "Alle",
-                "battleye": "BattlEye",
-                "boosted": "Boosted",
-                "botting": "Botting",
-                "cheating": "Cheating",
-                "ddos": "DDoS",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
-                "title": "reden van ban",
-                "tos-breach": "ToS Breach",
-                "toxic-behavior": "Toxic Gedrag"
-            },
-            "recent-bans-data": "Recente bans",
-            "title": "Verboden"
+      "bans": {
+        "description": "Recente bans voor Rainbow Six: Siege",
+        "title": "Recente bans"
+      },
+      "description": "Bekijk Rainbow Six Siege profiel statistieken, top leaderboards, en nog meer",
+      "discord-bot": {
+        "description": null,
+        "title": null
+      },
+      "leaderboards": {
+        "description": "bekijk de top 10,000 {platform} spelers op Rainbow Six Siege",
+        "title": "{platform} Leaderboards"
+      },
+      "marketplace": {
+        "blog": {
+          "description": null,
+          "title": null
         },
-        "discord-bot": {
-            "description": null,
-            "link-text": null,
-            "title": null
+        "description": "R6 Siege Marketplaats met tot in de diepte item prijzen analyses en statistieken. bekijk de oude prijzen van rainbow six siege items.",
+        "item": {
+          "description": "Oude markplaats data voor Rainbow Six Siege item {itemName}",
+          "title": "Siege Marketplaats - {itemName} - Rainbow Six Siege Marketplaats statistieken & Analyses"
         },
-        "gamemodes": {
-            "all": "Alle",
-            "casual": "Casual",
-            "events": "Evenementen",
-            "ranked": "ranks",
-            "standard": "Standaard",
-            "warmup": "Opwarmen"
+        "title": "R6 Marketplaats - Rainbow Six Siege Marketplaats statistieken & Analyses - Stats.CC"
+      },
+      "matches": {
+        "description": null,
+        "recents": {
+          "description": null,
+          "title": null
         },
-        "home": {
-            "player-search": "Speler zoeken",
-            "search-a-profile": "Zoek een profiel...",
-            "title": "Home",
-            "top-console-players": "Top Console-spelers",
-            "top-pc-players": "Top PC-spelers"
+        "title": null
+      },
+      "profile": {
+        "description": "bekijk {username}'s Rainbow Six Siege seizoensgebonden profiel statistieken",
+        "played-with": {
+          "description": "bekijk wie {username} het meest of met gespeeld heeft",
+          "title": "{username} Gespeeld met"
         },
-        "incomplete-game": null,
-        "leaderboards": {
-            "BAD-percent-of-players": "{percent} van alle spelers",
-            "BAD-player-count": "{count} spelers",
-            "game-mode": null,
-            "last-update": "Bijgewerkt op {date}",
-            "leaderboard-type": null,
-            "title": "Leaderboards",
-            "top-percent": "Top {percent}%",
-            "total-players": "{count} spelers"
+        "seasons": {
+          "description": "bekijk {username}'s Rainbow Six Siege ranked seizoenen historie inclusief statistieken, hoogste rank, en more.",
+          "title": "{username} Seizoenen"
         },
-        "marketplace": {
-            "1-year-averages": "1 jaar gemiddelden",
-            "24-hour-averages": "24 uur gemiddelden",
-            "7-day-averages": "7 dagen gemiddelden",
-            "avg-demand-short": "Gem. Vraag",
-            "avg-price-last-7-days": "Gem. prijs laatste 7 dagen",
-            "avg-price-short": "Gem. Prijs",
-            "avg-supply-short": "Gem. Aanbod",
-            "back-to-marketplace": "Terug naar de marktplaats",
-            "currency": "valuta",
-            "demand": "vraag",
-            "faq": {
-                "how-can-i-trade": {
-                    "description": "We zijn niet verbonden met Ubisoft, dus je moet je items ruilen op de officiële website van ubisooft marketplace {0}.",
-                    "description-link": "Rainbow Six Siege Marktplaats",
-                    "title": "Hoe kan ik items ruilen?"
-                },
-                "title": "R6 Marktplaats FAQ",
-                "what-currency": {
-                    "description": "Je kunt alleen items kopen met R6 Credits, en je ontvangt alleen R6 Credits wanneer je een item verkoopt.",
-                    "title": "Welke valuta wordt gebruikt op de marktplaats?"
-                },
-                "what-is-marketplace": {
-                    "description": "De marktplaats is een plek waar je items voor Rainbow Six Siege kunt kopen en verkopen. Je kunt items van andere spelers kopen, of je kunt items verkopen die je zelf hebt ontgrendeld. Dit stelt je in staat om skins te kopen die eerder enorm zeldzaam waren en vergrendeld waren voor een specifiek account.",
-                    "title": "Wat is de Rainbow Six Siege Marktplaats?"
-                }
-            },
-            "filters": {
-                "events": {
-                    "title": "Evenementen"
-                },
-                "item-type": {
-                    "attachment-skin": "Bijlage Skin",
-                    "card-background": "Kaart Achtergrond",
-                    "charm": "charm",
-                    "drone-skin": "Drone Skin",
-                    "headgear": "Hoofddeksel",
-                    "operator-portrait": "Operator Portret",
-                    "title": "Itemtype",
-                    "uniform": "Uniform",
-                    "weapon-skin": "Wapenskin"
-                },
-                "new-items": null,
-                "operators": {
-                    "title": "Operators"
-                },
-                "others": {
-                    "title": "Overig"
-                },
-                "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
-                    "title": "Zeldzaamheid",
-                    "uncommon": null
-                },
-                "seasons": {
-                    "title": "Seizoenen"
-                },
-                "sort-by": {
-                    "average-price": "Gemiddelde prijs",
-                    "date-added": null,
-                    "display-name": "Weergavenaam",
-                    "price-change": "Prijsverandering",
-                    "title": "Sorteer op"
-                },
-                "sort-order": {
-                    "ascending": "Oplopend (A > Z)",
-                    "descending": "Aflopend (Z > A)",
-                    "title": "Volgorde"
-                },
-                "title": "Filters",
-                "weapons": {
-                    "title": "Wapens"
-                }
-            },
-            "interval": {
-                "daily": "Dagelijks",
-                "hourly": "Uurlijks",
-                "monthly": "Maandelijks",
-                "quarterly": "Driemaandelijks",
-                "weekly": "Wekelijks",
-                "yearly": "Jaarlijks"
-            },
-            "interval-price-history": "{interval} Prijs Geschiedenis",
-            "item-removed-from-marketplace": "Dit item is verwijderd uit de marktplaats.",
-            "price": "prijs",
-            "price-change": "Prijsverandering",
-            "r6-credits": "R6 Credits",
-            "search": "Zoeken op itemnaam",
-            "season-released-in": "Uitgebracht in {ynsn}",
-            "supply": "aanbod",
-            "title": "R6 Marktplaats",
-            "title-short": "Marktplaats",
-            "top-items-by-price": "Topitems op prijs",
-            "top-items-by-price-change": "Topitems op prijsverandering",
-            "view-on-ubisoft": "Bekijk op Ubisoft"
-        },
-        "matches": {
-            "back-to-profile": null,
-            "first-half": null,
-            "killed": null,
-            "killfeed-disclaimer": null,
-            "killfeed-no-data": null,
-            "match-players": null,
-            "overtime": null,
-            "player-rank-distributions": null,
-            "recents": {
-                "casual-matches": null,
-                "invalid-match-id": null,
-                "ranked-matches": null,
-                "search-a-match-by-id": null
-            },
-            "round-end-reason": {
-                "all-teams-dead": null,
-                "attackers-eliminated": null,
-                "attackers-killed-hostage": null,
-                "attackers-surrendered": null,
-                "bomb-deactivated": null,
-                "bomb-exploded": null,
-                "defenders-eliminated": null,
-                "defenders-eliminated-after-defuser-planted": null,
-                "defenders-killed-hostage": null,
-                "defenders-surrendered": null,
-                "defuser-deactivated": null,
-                "hostage-extracted": null,
-                "none": null,
-                "time-expired": null
-            },
-            "round-n": null,
-            "round-n-killfeed": null,
-            "scoreboard": null,
-            "second-half": null,
-            "selected-round": null,
-            "summary": null,
-            "swapping-sides": null,
-            "timeline": null,
-            "top-operators-played": null,
-            "view-scoreboard": null,
-            "view-timeline": null
-        },
-        "operator": null,
-        "profile": {
-            "bans": {
-                "ban-tooltip": {
-                    "reputation-ban": {
-                        "1": null,
-                        "2": null,
-                        "3": null
-                    }
-                },
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
-            },
-            "current-season": "Huidige Seizoen",
-            "failed-to-load": "Dit profiel kon niet worden geladen.",
-            "last-played": "Laatst gespeeld",
-            "leaderboard-position": "Leaderboard Positie",
-            "match-count": "{count} Wedstrijden",
-            "no-matches-played": "Geen wedstrijden gespeeld",
-            "past-24-hours": "Afgelopen 24 Uur",
-            "past-30-days": "Afgelopen 30 Dagen",
-            "past-7-days": "Afgelopen 7 Dagen",
-            "played-with": {
-                "info-banner": "Mensen waarmee {username} dit seizoen heeft gespeeld",
-                "no-played-with": "{username} heeft nog niet met iemand gespeeld",
-                "percent-of-matches": null,
-                "title": "Gespeeld Met"
-            },
-            "rank-reset-due-to-ban": "Rankreset vanwege verbanning",
-            "ranked-2-max-ranks": "Gerangschikt 2.0 Max Ranks",
-            "ranked-sessions": {
-                "1": "Deze grafiek toont de recente sessies van een profiel en hun ranks na elke sessie.",
-                "2": "U kunt over individuele punten zweven om de details van een sessie te zien.",
-                "3": "U kunt inzoomen door over een bereik te slepen, en pannen door control ingedrukt te houden en te slepen.",
-                "title": "Ranked Sessies"
-            },
-            "regions-played": "Gespeelde Regio's",
-            "report": {
-                "title": "report"
-            },
-            "rp-change": "RP Verandering",
-            "seasons": {
-                "old-seasons-banner": "Oude seizoensgegevens worden in de toekomst toegevoegd.",
-                "title": "Seizoenen"
-            },
-            "sessions": {
-                "no-sessions": "Geen sessies gevonden op basis van uw filters."
-            },
-            "update": {
-                "failed": "Mislukt",
-                "timeout": "Bijwerken time-out. Ververs de pagina en het zal veranderen.",
-                "tooltip": {
-                    "1": "Dit profiel kan nog niet worden bijgewerkt.",
-                    "2": "U kunt op dit profiel blijven en het zal automatisch vernieuwen wanneer een update beschikbaar is, bijvoorbeeld wanneer de wedstrijd van de speler eindigt.",
-                    "3": "Over het algemeen is het niet nodig om op deze vernieuwingsknop te drukken, maar het kan helpen als u vindt dat de gegevens van de profielen niet synchroon lopen."
-                },
-                "update": "Bijwerken",
-                "updated": "Bijgewerkt",
-                "updating": "Bijwerken"
-            },
-            "update-time-out": "Bijwerken time-out. Ververs de pagina en het zal binnenkort gebeuren.",
-            "username-history": "Gebruikersnaam Geschiedenis",
-            "wl-streak": "WL Reeks"
-        },
-        "streaming-widget": {
-            "description": "Streaming widgets zijn een geweldige manier om uw profielstatistieken weer te geven op uw livestream. Op dit moment is de onze vrij eenvoudig, maar in de toekomst zullen we veel meer aanpassingsmogelijkheden bieden. Momenteel ondersteunt het alleen je persoonlijke rank, maar als je ondersteuning zoekt voor andere modi, neem dan contact met ons op via {0}.",
-            "how-to-use": {
-                "profile-link": "Profiellink...",
-                "step-1": "1. Kopieer en plak uw profiellink in het onderstaande vak en klik op kopiëren",
-                "step-2": "2. Ga naar uw livestream-software en maak een \"Browser Source\" aan in het tabblad \"Bronnen\".",
-                "step-3": "3. Plak uw Streaming Widget Link in het veld \"Browser Source\".",
-                "step-4": "4. Pas de grootte en positionering van de widget naar wens aan.",
-                "title": "Hoe te gebruiken",
-                "your-widget-link": "Uw Streaming Widget Link"
-            },
-            "invalid-profile-link": "Ongeldige profiellink",
-            "title": "Streaming Widget",
-            "widget-image-caption": "Dit is hoe onze widget eruitziet:"
-        },
-        "team-kills-short": null,
-        "top-operators": null
+        "title": "{username}"
+      },
+      "title": "Alle Rainbow Six Siege statistieken"
     },
-    "social": {
-        "follow-us-twitter": "Volg ons op Twitter",
-        "join-our-discord": "Word lid van onze Discord",
-        "marketplace-subreddit": "Siege Marketplace Subreddit"
-    }
+    "streaming-widget": {
+      "description": "Toon jouw siege profiel statistieken op jouw livestream met onze streaming .",
+      "title": "Streaming Widget"
+    },
+    "title": "Siege Stats - Stats.CC {title} - Rainbow Six Siege Speler statistieken"
+  },
+  "siege": {
+    "avg-rp": null,
+    "bans": {
+      "bans-by-month-for-reason": null,
+      "n-bans": "{count} bans",
+      "n-recent-bans": "{count} Recente bans",
+      "no-bans-found-for-reason": "Geen bans gevonden voor {reason}",
+      "period": {
+        "all-time": "Altijd",
+        "day": "Dag",
+        "month": "Maand",
+        "week": "Week",
+        "year": null
+      },
+      "reason": {
+        "all": "Alle",
+        "battleye": "BattlEye",
+        "boosted": "Boosted",
+        "botting": "Botting",
+        "cheating": "Cheating",
+        "ddos": "DDoS",
+        "glitching": null,
+        "homophobic": null,
+        "racism": null,
+        "sabotage": null,
+        "title": "reden van ban",
+        "tos-breach": "ToS Breach",
+        "toxic-behavior": "Toxic Gedrag"
+      },
+      "recent-bans-data": "Recente bans",
+      "title": "Verboden"
+    },
+    "discord-bot": {
+      "description": null,
+      "link-text": null,
+      "title": null
+    },
+    "gamemodes": {
+      "all": "Alle",
+      "casual": "Casual",
+      "events": "Evenementen",
+      "ranked": "ranks",
+      "standard": "Standaard",
+      "warmup": "Opwarmen"
+    },
+    "home": {
+      "player-search": "Speler zoeken",
+      "search-a-profile": "Zoek een profiel...",
+      "title": "Home",
+      "top-console-players": "Top Console-spelers",
+      "top-pc-players": "Top PC-spelers"
+    },
+    "incomplete-game": null,
+    "leaderboards": {
+      "BAD-percent-of-players": "{percent} van alle spelers",
+      "BAD-player-count": "{count} spelers",
+      "game-mode": null,
+      "last-update": "Bijgewerkt op {date}",
+      "leaderboard-type": null,
+      "title": "Leaderboards",
+      "top-percent": "Top {percent}%",
+      "total-players": "{count} spelers"
+    },
+    "marketplace": {
+      "1-year-averages": "1 jaar gemiddelden",
+      "24-hour-averages": "24 uur gemiddelden",
+      "7-day-averages": "7 dagen gemiddelden",
+      "avg-demand-short": "Gem. Vraag",
+      "avg-price-last-7-days": "Gem. prijs laatste 7 dagen",
+      "avg-price-short": "Gem. Prijs",
+      "avg-supply-short": "Gem. Aanbod",
+      "back-to-marketplace": "Terug naar de marktplaats",
+      "currency": "valuta",
+      "demand": "vraag",
+      "faq": {
+        "how-can-i-trade": {
+          "description": "We zijn niet verbonden met Ubisoft, dus je moet je items ruilen op de officiële website van ubisooft marketplace {0}.",
+          "description-link": "Rainbow Six Siege Marktplaats",
+          "title": "Hoe kan ik items ruilen?"
+        },
+        "title": "R6 Marktplaats FAQ",
+        "what-currency": {
+          "description": "Je kunt alleen items kopen met R6 Credits, en je ontvangt alleen R6 Credits wanneer je een item verkoopt.",
+          "title": "Welke valuta wordt gebruikt op de marktplaats?"
+        },
+        "what-is-marketplace": {
+          "description": "De marktplaats is een plek waar je items voor Rainbow Six Siege kunt kopen en verkopen. Je kunt items van andere spelers kopen, of je kunt items verkopen die je zelf hebt ontgrendeld. Dit stelt je in staat om skins te kopen die eerder enorm zeldzaam waren en vergrendeld waren voor een specifiek account.",
+          "title": "Wat is de Rainbow Six Siege Marktplaats?"
+        }
+      },
+      "filters": {
+        "events": {
+          "title": "Evenementen"
+        },
+        "item-type": {
+          "attachment-skin": "Bijlage Skin",
+          "card-background": "Kaart Achtergrond",
+          "charm": "charm",
+          "drone-skin": "Drone Skin",
+          "headgear": "Hoofddeksel",
+          "operator-portrait": "Operator Portret",
+          "title": "Itemtype",
+          "uniform": "Uniform",
+          "weapon-skin": "Wapenskin"
+        },
+        "new-items": null,
+        "operators": {
+          "title": "Operators"
+        },
+        "others": {
+          "title": "Overig"
+        },
+        "rarity": {
+          "legendary": null,
+          "rare": null,
+          "superrare": null,
+          "title": "Zeldzaamheid",
+          "uncommon": null
+        },
+        "seasons": {
+          "title": "Seizoenen"
+        },
+        "sort-by": {
+          "average-price": "Gemiddelde prijs",
+          "date-added": null,
+          "display-name": "Weergavenaam",
+          "price-change": "Prijsverandering",
+          "title": "Sorteer op"
+        },
+        "sort-order": {
+          "ascending": "Oplopend (A > Z)",
+          "descending": "Aflopend (Z > A)",
+          "title": "Volgorde"
+        },
+        "title": "Filters",
+        "weapons": {
+          "title": "Wapens"
+        }
+      },
+      "interval": {
+        "daily": "Dagelijks",
+        "hourly": "Uurlijks",
+        "monthly": "Maandelijks",
+        "quarterly": "Driemaandelijks",
+        "weekly": "Wekelijks",
+        "yearly": "Jaarlijks"
+      },
+      "interval-price-history": "{interval} Prijs Geschiedenis",
+      "item-removed-from-marketplace": "Dit item is verwijderd uit de marktplaats.",
+      "price": "prijs",
+      "price-change": "Prijsverandering",
+      "r6-credits": "R6 Credits",
+      "search": "Zoeken op itemnaam",
+      "season-released-in": "Uitgebracht in {ynsn}",
+      "supply": "aanbod",
+      "title": "R6 Marktplaats",
+      "title-short": "Marktplaats",
+      "top-items-by-price": "Topitems op prijs",
+      "top-items-by-price-change": "Topitems op prijsverandering",
+      "view-on-ubisoft": "Bekijk op Ubisoft"
+    },
+    "matches": {
+      "back-to-profile": null,
+      "first-half": null,
+      "killed": null,
+      "killfeed-disclaimer": null,
+      "killfeed-no-data": null,
+      "match-players": null,
+      "overtime": null,
+      "player-rank-distributions": null,
+      "recents": {
+        "casual-matches": null,
+        "invalid-match-id": null,
+        "ranked-matches": null,
+        "search-a-match-by-id": null
+      },
+      "round-end-reason": {
+        "all-teams-dead": null,
+        "attackers-eliminated": null,
+        "attackers-killed-hostage": null,
+        "attackers-surrendered": null,
+        "bomb-deactivated": null,
+        "bomb-exploded": null,
+        "defenders-eliminated": null,
+        "defenders-eliminated-after-defuser-planted": null,
+        "defenders-killed-hostage": null,
+        "defenders-surrendered": null,
+        "defuser-deactivated": null,
+        "hostage-extracted": null,
+        "none": null,
+        "time-expired": null
+      },
+      "round-n": null,
+      "round-n-killfeed": null,
+      "scoreboard": null,
+      "second-half": null,
+      "selected-round": null,
+      "summary": null,
+      "swapping-sides": null,
+      "timeline": null,
+      "top-operators-played": null,
+      "view-scoreboard": null,
+      "view-timeline": null
+    },
+    "operator": null,
+    "profile": {
+      "bans": {
+        "ban-tooltip": {
+          "reputation-ban": {
+            "1": null,
+            "2": null,
+            "3": null
+          }
+        },
+        "reputation-bans-title": null,
+        "ubisoft-bans-title": null
+      },
+      "current-season": "Huidige Seizoen",
+      "failed-to-load": "Dit profiel kon niet worden geladen.",
+      "last-played": "Laatst gespeeld",
+      "leaderboard-position": "Leaderboard Positie",
+      "match-count": "{count} Wedstrijden",
+      "no-matches-played": "Geen wedstrijden gespeeld",
+      "past-24-hours": "Afgelopen 24 Uur",
+      "past-30-days": "Afgelopen 30 Dagen",
+      "past-7-days": "Afgelopen 7 Dagen",
+      "played-with": {
+        "info-banner": "Mensen waarmee {username} dit seizoen heeft gespeeld",
+        "no-played-with": "{username} heeft nog niet met iemand gespeeld",
+        "percent-of-matches": null,
+        "title": "Gespeeld Met"
+      },
+      "rank-reset-due-to-ban": "Rankreset vanwege verbanning",
+      "ranked-2-max-ranks": "Gerangschikt 2.0 Max Ranks",
+      "ranked-sessions": {
+        "1": "Deze grafiek toont de recente sessies van een profiel en hun ranks na elke sessie.",
+        "2": "U kunt over individuele punten zweven om de details van een sessie te zien.",
+        "3": "U kunt inzoomen door over een bereik te slepen, en pannen door control ingedrukt te houden en te slepen.",
+        "title": "Ranked Sessies"
+      },
+      "regions-played": "Gespeelde Regio's",
+      "report": {
+        "title": "report"
+      },
+      "rp-change": "RP Verandering",
+      "seasons": {
+        "old-seasons-banner": "Oude seizoensgegevens worden in de toekomst toegevoegd.",
+        "title": "Seizoenen"
+      },
+      "sessions": {
+        "no-sessions": "Geen sessies gevonden op basis van uw filters."
+      },
+      "update": {
+        "failed": "Mislukt",
+        "timeout": "Bijwerken time-out. Ververs de pagina en het zal veranderen.",
+        "tooltip": {
+          "1": "Dit profiel kan nog niet worden bijgewerkt.",
+          "2": "U kunt op dit profiel blijven en het zal automatisch vernieuwen wanneer een update beschikbaar is, bijvoorbeeld wanneer de wedstrijd van de speler eindigt.",
+          "3": "Over het algemeen is het niet nodig om op deze vernieuwingsknop te drukken, maar het kan helpen als u vindt dat de gegevens van de profielen niet synchroon lopen."
+        },
+        "update": "Bijwerken",
+        "updated": "Bijgewerkt",
+        "updating": "Bijwerken"
+      },
+      "update-time-out": "Bijwerken time-out. Ververs de pagina en het zal binnenkort gebeuren.",
+      "username-history": "Gebruikersnaam Geschiedenis",
+      "wl-streak": "WL Reeks"
+    },
+    "streaming-widget": {
+      "description": "Streaming widgets zijn een geweldige manier om uw profielstatistieken weer te geven op uw livestream. Op dit moment is de onze vrij eenvoudig, maar in de toekomst zullen we veel meer aanpassingsmogelijkheden bieden. Momenteel ondersteunt het alleen je persoonlijke rank, maar als je ondersteuning zoekt voor andere modi, neem dan contact met ons op via {0}.",
+      "how-to-use": {
+        "profile-link": "Profiellink...",
+        "step-1": "1. Kopieer en plak uw profiellink in het onderstaande vak en klik op kopiëren",
+        "step-2": "2. Ga naar uw livestream-software en maak een \"Browser Source\" aan in het tabblad \"Bronnen\".",
+        "step-3": "3. Plak uw Streaming Widget Link in het veld \"Browser Source\".",
+        "step-4": "4. Pas de grootte en positionering van de widget naar wens aan.",
+        "title": "Hoe te gebruiken",
+        "your-widget-link": "Uw Streaming Widget Link"
+      },
+      "invalid-profile-link": "Ongeldige profiellink",
+      "title": "Streaming Widget",
+      "widget-image-caption": "Dit is hoe onze widget eruitziet:"
+    },
+    "team-kills-short": null,
+    "top-operators": null
+  },
+  "social": {
+    "follow-us-twitter": "Volg ons op Twitter",
+    "join-our-discord": "Word lid van onze Discord",
+    "marketplace-subreddit": "Siege Marketplace Subreddit"
+  }
 }

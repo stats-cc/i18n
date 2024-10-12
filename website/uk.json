@@ -1,461 +1,462 @@
 {
-    "common": {
-        "abandoned": null,
-        "abandons": null,
-        "all": "всі",
-        "assists": "допомога",
-        "category": "категорія",
-        "change": null,
-        "change-percent": null,
-        "console": "консоль",
-        "copied!": "скопійовано!",
-        "copy": "копіювати",
-        "current": "поточний",
-        "data-center": null,
-        "date": "інформація",
-        "deaths": "смерті",
-        "defeat": null,
-        "draw": "нічия",
-        "duration": null,
-        "email": "email",
-        "end-time": null,
-        "gamemode": null,
-        "global": null,
-        "headshot-percentage-short": null,
-        "k-d-a": null,
-        "kd": "КД",
-        "kda": null,
-        "kills": "вбивства",
-        "kills-per-match": "вбивства за матч",
-        "kpm": "ВЗМ",
-        "level": "рівень",
-        "level-n": null,
-        "loss": "поразка",
-        "loss-short": "L",
-        "losses": "поразки",
-        "lost": "програно",
-        "matches": "матчів",
-        "max-rank": "максимальний ранг",
-        "message": "повідомлення",
-        "missing-data": "відсутні дані",
-        "mmr": "mmr",
-        "name": "ім'я",
-        "new": "нове",
-        "no-data": "немає даних",
-        "no-results": "немає результатів",
-        "pc": "ПК",
-        "platform": null,
-        "player": null,
-        "players": "гравців",
-        "rank": "ранг",
-        "reason": "причина",
-        "rollback": "відкат",
-        "rp": "{amount} RP",
-        "search": null,
-        "season": "сезон",
-        "show-all": "показати все",
-        "show-less": "показати менше",
-        "show-more": "показати більше",
-        "start-time": null,
-        "submit": "надіслати",
-        "tie": "нічия",
-        "total": null,
-        "unknown": null,
-        "victory": null,
-        "view-details": "переглянути деталі",
-        "view-full-match": null,
-        "view-more": null,
-        "views": "перегляди",
-        "win": "перемога",
-        "win-short": "W",
-        "wins": "перемоги",
-        "won": "виграно",
-        "wr": "WR"
-    },
-    "contact-us": {
-        "description": "Ми з радістю обговоримо ваші ідеї! Заповніть форму нижче або надішліть нам електронного листа на {0}.",
-        "error-occured": "Під час відправлення вашого повідомлення виникла помилка.",
-        "fields-are-invalid": "Наступні поля є недійсними: {fields}",
-        "fill-out-all-fields": "Будь ласка, заповніть всі поля.",
-        "submitted": "Ваш запит надіслано, ми відповімо за допомогою електронної пошти найближчим часом.",
-        "title": "Зв'яжіться з нами"
-    },
-    "discord-bot": {
-        "title": null
-    },
-    "footer": {
-        "contact-us": "Зв'яжіться з нами",
-        "discord-server": "Сервер Discord",
-        "extra-pages": "Додаткові сторінки",
-        "language": "Мова",
-        "marketplace-guides": null,
-        "partners": "Партнери",
-        "privacy-policy": "Політика конфіденційності",
-        "reddit-marketplace-subreddit": "subreddit Торгового Майданчику",
-        "roadmap": "Плани",
-        "social-media": "Соціальні медіа",
-        "terms-of-service": "Умови надання послуг",
-        "twitter-account": "Обліковий запис Twitter"
-    },
-    "misc": {
-        "discord-bot-banner": null,
-        "help-translate": "Хочете допомогти перекласти сайт? Приєднуйтесь до нашого Discord!"
-    },
-    "search": {
-        "clear-recents": "Очистити нещодавні пошуки",
-        "error": "Помилка під час пошуку: {error}",
-        "force-search": "Примусовий пошук",
-        "no-players-found": "Гравців не знайдено",
-        "profiles": "Пошук профілю",
-        "search-results": "{count} результатів пошуку"
-    },
-    "seo": {
-        "home": {
-            "description": "Подивитися статистику гравців, Таблицю Лідерів, та більше"
-        },
-        "siege": {
-            "bans": {
-                "description": "Нещодавні Блокування у Rainbow Six: Облога",
-                "title": "Нещодавні Блокування"
-            },
-            "description": "Подивитися статистику гравців, Таблицю Лідерів, та більше",
-            "discord-bot": {
-                "description": null,
-                "title": null
-            },
-            "leaderboards": {
-                "description": "Подивитися топ 10,000 {platform} гравців у Rainbow Six: Облога",
-                "title": "{platform} Таблиця Лідерів"
-            },
-            "marketplace": {
-                "blog": {
-                    "description": null,
-                    "title": null
-                },
-                "description": "Торговий Майданчик Облоги з глибокою аналітикою цін на предмети та статистикою. Перегляньте минулі ціни на предмети для гри",
-                "item": {
-                    "description": "Попередні ціни на Предмет {itemName}",
-                    "title": "Торговий Майданчик Облоги - {itemName} - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога"
-                },
-                "title": "R6 Торговий Майданчик - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога - Stats.CC"
-            },
-            "matches": {
-                "description": null,
-                "recents": {
-                    "description": null,
-                    "title": null
-                },
-                "title": null
-            },
-            "profile": {
-                "description": "Подивитися сезону статистику гравця {username}",
-                "played-with": {
-                    "description": "Подивитися скільки і з ким {username} грав найбільше.",
-                    "title": "{username} Грав(ла) з"
-                },
-                "seasons": {
-                    "description": "Подивитися статистику рангу гравця {username}.",
-                    "title": "{username} Сезони"
-                },
-                "title": "{username}"
-            },
-            "title": "Уся статистика Rainbow Six: Облога"
-        },
-        "streaming-widget": {
-            "description": "Покажіть своїм глядачам на етері вашу статистику, за допомогою нашого Стрімінгового Віджету.",
-            "title": "Стрімінговий Віджет"
-        },
-        "title": "Siege Stats - Stats.CC {title} - Статистика гравців Rainbow Six: Облога"
+  "common": {
+    "abandoned": null,
+    "abandons": null,
+    "all": "всі",
+    "assists": "допомога",
+    "category": "категорія",
+    "change": null,
+    "change-percent": null,
+    "console": "консоль",
+    "copied!": "скопійовано!",
+    "copy": "копіювати",
+    "current": "поточний",
+    "data-center": null,
+    "date": "інформація",
+    "deaths": "смерті",
+    "defeat": null,
+    "draw": "нічия",
+    "duration": null,
+    "email": "email",
+    "end-time": null,
+    "gamemode": null,
+    "global": null,
+    "headshot-percentage-short": null,
+    "k-d-a": null,
+    "kd": "КД",
+    "kda": null,
+    "kills": "вбивства",
+    "kills-per-match": "вбивства за матч",
+    "kpm": "ВЗМ",
+    "level": "рівень",
+    "level-n": null,
+    "loss": "поразка",
+    "loss-short": "L",
+    "losses": "поразки",
+    "lost": "програно",
+    "matches": "матчів",
+    "max-rank": "максимальний ранг",
+    "message": "повідомлення",
+    "missing-data": "відсутні дані",
+    "mmr": "mmr",
+    "name": "ім'я",
+    "new": "нове",
+    "no-data": "немає даних",
+    "no-results": "немає результатів",
+    "pc": "ПК",
+    "platform": null,
+    "player": null,
+    "players": "гравців",
+    "rank": "ранг",
+    "reason": "причина",
+    "rollback": "відкат",
+    "rp": "{amount} RP",
+    "search": null,
+    "season": "сезон",
+    "show-all": "показати все",
+    "show-less": "показати менше",
+    "show-more": "показати більше",
+    "start-time": null,
+    "submit": "надіслати",
+    "tie": "нічия",
+    "total": null,
+    "unknown": null,
+    "victory": null,
+    "view-details": "переглянути деталі",
+    "view-full-match": null,
+    "view-more": null,
+    "views": "перегляди",
+    "win": "перемога",
+    "win-short": "W",
+    "wins": "перемоги",
+    "won": "виграно",
+    "wr": "WR",
+    "overlay": null
+  },
+  "contact-us": {
+    "description": "Ми з радістю обговоримо ваші ідеї! Заповніть форму нижче або надішліть нам електронного листа на {0}.",
+    "error-occured": "Під час відправлення вашого повідомлення виникла помилка.",
+    "fields-are-invalid": "Наступні поля є недійсними: {fields}",
+    "fill-out-all-fields": "Будь ласка, заповніть всі поля.",
+    "submitted": "Ваш запит надіслано, ми відповімо за допомогою електронної пошти найближчим часом.",
+    "title": "Зв'яжіться з нами"
+  },
+  "discord-bot": {
+    "title": null
+  },
+  "footer": {
+    "contact-us": "Зв'яжіться з нами",
+    "discord-server": "Сервер Discord",
+    "extra-pages": "Додаткові сторінки",
+    "language": "Мова",
+    "marketplace-guides": null,
+    "partners": "Партнери",
+    "privacy-policy": "Політика конфіденційності",
+    "reddit-marketplace-subreddit": "subreddit Торгового Майданчику",
+    "roadmap": "Плани",
+    "social-media": "Соціальні медіа",
+    "terms-of-service": "Умови надання послуг",
+    "twitter-account": "Обліковий запис Twitter"
+  },
+  "misc": {
+    "discord-bot-banner": null,
+    "help-translate": "Хочете допомогти перекласти сайт? Приєднуйтесь до нашого Discord!"
+  },
+  "search": {
+    "clear-recents": "Очистити нещодавні пошуки",
+    "error": "Помилка під час пошуку: {error}",
+    "force-search": "Примусовий пошук",
+    "no-players-found": "Гравців не знайдено",
+    "profiles": "Пошук профілю",
+    "search-results": "{count} результатів пошуку"
+  },
+  "seo": {
+    "home": {
+      "description": "Подивитися статистику гравців, Таблицю Лідерів, та більше"
     },
     "siege": {
-        "avg-rp": null,
-        "bans": {
-            "bans-by-month-for-reason": null,
-            "n-bans": "{count} Блокувань",
-            "n-recent-bans": "{count} Останніх Блокувань",
-            "no-bans-found-for-reason": "Блокувань через {reason} не знайдено",
-            "period": {
-                "all-time": "За весь час",
-                "day": "День",
-                "month": "Місяць",
-                "week": "Тиждень",
-                "year": null
-            },
-            "reason": {
-                "all": "Всі",
-                "battleye": "BattlEye",
-                "boosted": "Буст рангу",
-                "botting": "Ботінг",
-                "cheating": "Шахрайство",
-                "ddos": "DDoS",
-                "glitching": null,
-                "homophobic": null,
-                "racism": null,
-                "sabotage": null,
-                "title": "Причина Блокувань",
-                "tos-breach": "Порушення ToS",
-                "toxic-behavior": "Токсична поведінка"
-            },
-            "recent-bans-data": "Дані останніх блокувань",
-            "title": "Блокування"
+      "bans": {
+        "description": "Нещодавні Блокування у Rainbow Six: Облога",
+        "title": "Нещодавні Блокування"
+      },
+      "description": "Подивитися статистику гравців, Таблицю Лідерів, та більше",
+      "discord-bot": {
+        "description": null,
+        "title": null
+      },
+      "leaderboards": {
+        "description": "Подивитися топ 10,000 {platform} гравців у Rainbow Six: Облога",
+        "title": "{platform} Таблиця Лідерів"
+      },
+      "marketplace": {
+        "blog": {
+          "description": null,
+          "title": null
         },
-        "discord-bot": {
-            "description": null,
-            "link-text": null,
-            "title": null
+        "description": "Торговий Майданчик Облоги з глибокою аналітикою цін на предмети та статистикою. Перегляньте минулі ціни на предмети для гри",
+        "item": {
+          "description": "Попередні ціни на Предмет {itemName}",
+          "title": "Торговий Майданчик Облоги - {itemName} - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога"
         },
-        "gamemodes": {
-            "all": "Всі",
-            "casual": "Казуальний",
-            "events": "Події",
-            "ranked": "Ранговий",
-            "standard": "Стандартний",
-            "warmup": "Прогрів"
+        "title": "R6 Торговий Майданчик - Статистика та Аналітика Торгового Майданчику Rainbow Six: Облога - Stats.CC"
+      },
+      "matches": {
+        "description": null,
+        "recents": {
+          "description": null,
+          "title": null
         },
-        "home": {
-            "player-search": "Пошук гравців",
-            "search-a-profile": "Пошук профілю...",
-            "title": "Головна",
-            "top-console-players": "Топ консольних гравців",
-            "top-pc-players": "Топ PC гравців"
+        "title": null
+      },
+      "profile": {
+        "description": "Подивитися сезону статистику гравця {username}",
+        "played-with": {
+          "description": "Подивитися скільки і з ким {username} грав найбільше.",
+          "title": "{username} Грав(ла) з"
         },
-        "incomplete-game": null,
-        "leaderboards": {
-            "BAD-percent-of-players": "{percent} від усіх гравців",
-            "BAD-player-count": "{count} гравців",
-            "game-mode": null,
-            "last-update": "Оновлено {date}",
-            "leaderboard-type": null,
-            "title": "Таблиця Лідерів",
-            "top-percent": "Топ {percent}%",
-            "total-players": "{count} гравців"
+        "seasons": {
+          "description": "Подивитися статистику рангу гравця {username}.",
+          "title": "{username} Сезони"
         },
-        "marketplace": {
-            "1-year-averages": "Середні за 1 рік",
-            "24-hour-averages": "Середні за 24 години",
-            "7-day-averages": "Середні за 7 днів",
-            "avg-demand-short": "Середній попит",
-            "avg-price-last-7-days": "Середня ціна за останні 7 днів",
-            "avg-price-short": "Середня ціна",
-            "avg-supply-short": "Середня доступність",
-            "back-to-marketplace": "Повернутися на торговий майданчик",
-            "currency": "валюта",
-            "demand": "попит",
-            "faq": {
-                "how-can-i-trade": {
-                    "description": "Ми не пов'язані з Ubisoft, тому ви повинні торгувати своїми предметами на офіційному сайті {0}.",
-                    "description-link": "Торговий Майданчик Rainbow Six: Облога",
-                    "title": "Як я можу торгувати предметами?"
-                },
-                "title": "FAQ по Торговому Майданчику",
-                "what-currency": {
-                    "description": "Ви можете купувати предмети лише за допомогою Кредитів R6, і ви отримуватимете лише Кредити R6 при продажу предмета.",
-                    "title": "Яка валюта використовується на Торговому Майданчику?"
-                },
-                "what-is-marketplace": {
-                    "description": "Торговий Майданчик - це місце, де ви можете купувати і продавати предмети для гри Rainbow Six: Облога. Ви можете купувати предмети у інших гравців або продавати предмети, які ви самі здобули. Це дозволяє вам купувати предмети, які раніше були дуже рідкісними і недоступними для певних акаунтів.",
-                    "title": "Що таке Торговий Майданчик у Rainbow Six: Облога?"
-                }
-            },
-            "filters": {
-                "events": {
-                    "title": "Події"
-                },
-                "item-type": {
-                    "attachment-skin": "Скіни для кріплень",
-                    "card-background": "Фонові картки",
-                    "charm": "Підвіска",
-                    "drone-skin": "Скіни для дрона",
-                    "headgear": "Головні убори",
-                    "operator-portrait": "Портрети операторативників",
-                    "title": "Тип товару",
-                    "uniform": "Уніформа",
-                    "weapon-skin": "Скіни для зброї"
-                },
-                "new-items": null,
-                "operators": {
-                    "title": "Оперативники"
-                },
-                "others": {
-                    "title": "Інше"
-                },
-                "rarity": {
-                    "legendary": null,
-                    "rare": null,
-                    "superrare": null,
-                    "title": "Рідкість",
-                    "uncommon": null
-                },
-                "seasons": {
-                    "title": "Сезони"
-                },
-                "sort-by": {
-                    "average-price": "Середня ціна",
-                    "date-added": null,
-                    "display-name": "Показати ім'я",
-                    "price-change": "Зміна ціни",
-                    "title": "Сортувати за"
-                },
-                "sort-order": {
-                    "ascending": "Зростаючий (A > Z)",
-                    "descending": "Спадаючий (Z > A)",
-                    "title": "Порядок"
-                },
-                "title": "Фільтри",
-                "weapons": {
-                    "title": "Зброя"
-                }
-            },
-            "interval": {
-                "daily": "Щоденно",
-                "hourly": "Щогодини",
-                "monthly": "Щомісяця",
-                "quarterly": "Щоквартально",
-                "weekly": "Щотижня",
-                "yearly": "Щорічно"
-            },
-            "interval-price-history": "{interval} Історія цін",
-            "item-removed-from-marketplace": "Цей товар був вилучений з торгового майданчику.",
-            "price": "ціна",
-            "price-change": "Зміна ціни",
-            "r6-credits": "R6 Кредити",
-            "search": "Пошук за назвою товару",
-            "season-released-in": "Випущено у {ynsn}",
-            "supply": "доступність",
-            "title": "R6 Торговий Майданчик",
-            "title-short": "Торговий Майданчик",
-            "top-items-by-price": "Топ товарів за ціною",
-            "top-items-by-price-change": "Топ товарів за зміною ціни",
-            "view-on-ubisoft": "Переглянути у Ubisoft"
-        },
-        "matches": {
-            "back-to-profile": null,
-            "first-half": null,
-            "killed": null,
-            "killfeed-disclaimer": null,
-            "killfeed-no-data": null,
-            "match-players": null,
-            "overtime": null,
-            "player-rank-distributions": null,
-            "recents": {
-                "casual-matches": null,
-                "invalid-match-id": null,
-                "ranked-matches": null,
-                "search-a-match-by-id": null
-            },
-            "round-end-reason": {
-                "all-teams-dead": null,
-                "attackers-eliminated": null,
-                "attackers-killed-hostage": null,
-                "attackers-surrendered": null,
-                "bomb-deactivated": null,
-                "bomb-exploded": null,
-                "defenders-eliminated": null,
-                "defenders-eliminated-after-defuser-planted": null,
-                "defenders-killed-hostage": null,
-                "defenders-surrendered": null,
-                "defuser-deactivated": null,
-                "hostage-extracted": null,
-                "none": null,
-                "time-expired": null
-            },
-            "round-n": null,
-            "round-n-killfeed": null,
-            "scoreboard": null,
-            "second-half": null,
-            "selected-round": null,
-            "summary": null,
-            "swapping-sides": null,
-            "timeline": null,
-            "top-operators-played": null,
-            "view-scoreboard": null,
-            "view-timeline": null
-        },
-        "operator": null,
-        "profile": {
-            "bans": {
-                "ban-tooltip": {
-                    "reputation-ban": {
-                        "1": null,
-                        "2": null,
-                        "3": null
-                    }
-                },
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
-            },
-            "current-season": "Поточний сезон",
-            "failed-to-load": "Не вдалося завантажити цей профіль.",
-            "last-played": "Останній раз грав",
-            "leaderboard-position": "Позиція у Таблиці Лідерів",
-            "match-count": "{count} матчів",
-            "no-matches-played": "Не було зіграно жодного матчу",
-            "past-24-hours": "За останні 24 години",
-            "past-30-days": "За останні 30 днів",
-            "past-7-days": "За останні 7 днів",
-            "played-with": {
-                "info-banner": "Гравці, з якими {username} грав(ла) разом або проти в цьому сезоні",
-                "no-played-with": "{username} Одинокий вовк і ні з ким не грав ще",
-                "percent-of-matches": null,
-                "title": "Грав(ла) з"
-            },
-            "rank-reset-due-to-ban": "Скидання рангу через Блокування",
-            "ranked-2-max-ranks": "Максимальні ранги у Рейтингу 2.0",
-            "ranked-sessions": {
-                "1": "Ця діаграма відображує останні ігри профілю та їх ранг після кожної гри.",
-                "2": "Ви можете навести курсор, щоб побачити деталі гри.",
-                "3": "Ви можете масштабувати, перетягуючи діапазон, і переміщати, утримуючи клавішу Ctrl та перетягуючи.",
-                "title": "Рейтингові ігри"
-            },
-            "regions-played": "Регіони, у яких грав(ла)",
-            "report": {
-                "title": "Репорт"
-            },
-            "rp-change": "Зміна RP",
-            "seasons": {
-                "old-seasons-banner": "Інформація по старим сезонам буде додана пізніше.",
-                "title": "Сезони"
-            },
-            "sessions": {
-                "no-sessions": "За вашими фільтрами не знайдено матчів."
-            },
-            "update": {
-                "failed": "Не вдалося оновити",
-                "timeout": "Час оновлення вийшов. Оновіть сторінку, і ми спробуємо пошукати нову інформацію.",
-                "tooltip": {
-                    "1": "Цей профіль поки не може бути оновлений.",
-                    "2": "Ви можете залишитися на цій сторінці та очікувати автоматичного оновлення.",
-                    "3": "Щоб оновити профіль власноруч, натисніть кнопку «Оновити»."
-                },
-                "update": "Оновити",
-                "updated": "Оновлено",
-                "updating": "Оновлення"
-            },
-            "update-time-out": "Час оновлення вийшов. Оновіть сторінку, і ми спробуємо пошукати нову інформацію.",
-            "username-history": "Історія імен користувача",
-            "wl-streak": "WL Cмуга"
-        },
-        "streaming-widget": {
-            "description": "Стрімінгових віджет - це чудовий спосіб відображення статистики вашого профілю у прямому етері. Зараз наш віджет досить простий, але у майбутньому ми плануємо зробити йому набагато більше можливостей для налаштування. Наразі він підтримує лише ранговий режим, але якщо вам потрібна підтримка інших режимів, будь ласка, зверніться до нас {0}.",
-            "how-to-use": {
-                "profile-link": "Посилання на профіль...",
-                "step-1": "1. Скопіюйте та вставте посилання на свій профіль у поле нижче та натисніть копіювати",
-                "step-2": "2. Перейдіть до програми прямого етеру та створіть «Джерело Браузера» на вкладці «Джерела».",
-                "step-3": "3. Вставте ваше посилання на стрімінговий віджет у поле «Джерело Браузера».",
-                "step-4": "4. Налаштуйте розмір та розташування віджета за потреби.",
-                "title": "Як користуватися",
-                "your-widget-link": "Ваше посилання на стрімінговий віджет"
-            },
-            "invalid-profile-link": "Недійсне посилання на профіль",
-            "title": "Стрімінговий віджет",
-            "widget-image-caption": "Ось як виглядає наш віджет:"
-        },
-        "team-kills-short": null,
-        "top-operators": null
+        "title": "{username}"
+      },
+      "title": "Уся статистика Rainbow Six: Облога"
     },
-    "social": {
-        "follow-us-twitter": "Слідкуйте за нами на Twitter",
-        "join-our-discord": "Приєднуйтесь до нашого Discord",
-        "marketplace-subreddit": "subreddit Торгового Майданчику"
-    }
+    "streaming-widget": {
+      "description": "Покажіть своїм глядачам на етері вашу статистику, за допомогою нашого Стрімінгового Віджету.",
+      "title": "Стрімінговий Віджет"
+    },
+    "title": "Siege Stats - Stats.CC {title} - Статистика гравців Rainbow Six: Облога"
+  },
+  "siege": {
+    "avg-rp": null,
+    "bans": {
+      "bans-by-month-for-reason": null,
+      "n-bans": "{count} Блокувань",
+      "n-recent-bans": "{count} Останніх Блокувань",
+      "no-bans-found-for-reason": "Блокувань через {reason} не знайдено",
+      "period": {
+        "all-time": "За весь час",
+        "day": "День",
+        "month": "Місяць",
+        "week": "Тиждень",
+        "year": null
+      },
+      "reason": {
+        "all": "Всі",
+        "battleye": "BattlEye",
+        "boosted": "Буст рангу",
+        "botting": "Ботінг",
+        "cheating": "Шахрайство",
+        "ddos": "DDoS",
+        "glitching": null,
+        "homophobic": null,
+        "racism": null,
+        "sabotage": null,
+        "title": "Причина Блокувань",
+        "tos-breach": "Порушення ToS",
+        "toxic-behavior": "Токсична поведінка"
+      },
+      "recent-bans-data": "Дані останніх блокувань",
+      "title": "Блокування"
+    },
+    "discord-bot": {
+      "description": null,
+      "link-text": null,
+      "title": null
+    },
+    "gamemodes": {
+      "all": "Всі",
+      "casual": "Казуальний",
+      "events": "Події",
+      "ranked": "Ранговий",
+      "standard": "Стандартний",
+      "warmup": "Прогрів"
+    },
+    "home": {
+      "player-search": "Пошук гравців",
+      "search-a-profile": "Пошук профілю...",
+      "title": "Головна",
+      "top-console-players": "Топ консольних гравців",
+      "top-pc-players": "Топ PC гравців"
+    },
+    "incomplete-game": null,
+    "leaderboards": {
+      "BAD-percent-of-players": "{percent} від усіх гравців",
+      "BAD-player-count": "{count} гравців",
+      "game-mode": null,
+      "last-update": "Оновлено {date}",
+      "leaderboard-type": null,
+      "title": "Таблиця Лідерів",
+      "top-percent": "Топ {percent}%",
+      "total-players": "{count} гравців"
+    },
+    "marketplace": {
+      "1-year-averages": "Середні за 1 рік",
+      "24-hour-averages": "Середні за 24 години",
+      "7-day-averages": "Середні за 7 днів",
+      "avg-demand-short": "Середній попит",
+      "avg-price-last-7-days": "Середня ціна за останні 7 днів",
+      "avg-price-short": "Середня ціна",
+      "avg-supply-short": "Середня доступність",
+      "back-to-marketplace": "Повернутися на торговий майданчик",
+      "currency": "валюта",
+      "demand": "попит",
+      "faq": {
+        "how-can-i-trade": {
+          "description": "Ми не пов'язані з Ubisoft, тому ви повинні торгувати своїми предметами на офіційному сайті {0}.",
+          "description-link": "Торговий Майданчик Rainbow Six: Облога",
+          "title": "Як я можу торгувати предметами?"
+        },
+        "title": "FAQ по Торговому Майданчику",
+        "what-currency": {
+          "description": "Ви можете купувати предмети лише за допомогою Кредитів R6, і ви отримуватимете лише Кредити R6 при продажу предмета.",
+          "title": "Яка валюта використовується на Торговому Майданчику?"
+        },
+        "what-is-marketplace": {
+          "description": "Торговий Майданчик - це місце, де ви можете купувати і продавати предмети для гри Rainbow Six: Облога. Ви можете купувати предмети у інших гравців або продавати предмети, які ви самі здобули. Це дозволяє вам купувати предмети, які раніше були дуже рідкісними і недоступними для певних акаунтів.",
+          "title": "Що таке Торговий Майданчик у Rainbow Six: Облога?"
+        }
+      },
+      "filters": {
+        "events": {
+          "title": "Події"
+        },
+        "item-type": {
+          "attachment-skin": "Скіни для кріплень",
+          "card-background": "Фонові картки",
+          "charm": "Підвіска",
+          "drone-skin": "Скіни для дрона",
+          "headgear": "Головні убори",
+          "operator-portrait": "Портрети операторативників",
+          "title": "Тип товару",
+          "uniform": "Уніформа",
+          "weapon-skin": "Скіни для зброї"
+        },
+        "new-items": null,
+        "operators": {
+          "title": "Оперативники"
+        },
+        "others": {
+          "title": "Інше"
+        },
+        "rarity": {
+          "legendary": null,
+          "rare": null,
+          "superrare": null,
+          "title": "Рідкість",
+          "uncommon": null
+        },
+        "seasons": {
+          "title": "Сезони"
+        },
+        "sort-by": {
+          "average-price": "Середня ціна",
+          "date-added": null,
+          "display-name": "Показати ім'я",
+          "price-change": "Зміна ціни",
+          "title": "Сортувати за"
+        },
+        "sort-order": {
+          "ascending": "Зростаючий (A > Z)",
+          "descending": "Спадаючий (Z > A)",
+          "title": "Порядок"
+        },
+        "title": "Фільтри",
+        "weapons": {
+          "title": "Зброя"
+        }
+      },
+      "interval": {
+        "daily": "Щоденно",
+        "hourly": "Щогодини",
+        "monthly": "Щомісяця",
+        "quarterly": "Щоквартально",
+        "weekly": "Щотижня",
+        "yearly": "Щорічно"
+      },
+      "interval-price-history": "{interval} Історія цін",
+      "item-removed-from-marketplace": "Цей товар був вилучений з торгового майданчику.",
+      "price": "ціна",
+      "price-change": "Зміна ціни",
+      "r6-credits": "R6 Кредити",
+      "search": "Пошук за назвою товару",
+      "season-released-in": "Випущено у {ynsn}",
+      "supply": "доступність",
+      "title": "R6 Торговий Майданчик",
+      "title-short": "Торговий Майданчик",
+      "top-items-by-price": "Топ товарів за ціною",
+      "top-items-by-price-change": "Топ товарів за зміною ціни",
+      "view-on-ubisoft": "Переглянути у Ubisoft"
+    },
+    "matches": {
+      "back-to-profile": null,
+      "first-half": null,
+      "killed": null,
+      "killfeed-disclaimer": null,
+      "killfeed-no-data": null,
+      "match-players": null,
+      "overtime": null,
+      "player-rank-distributions": null,
+      "recents": {
+        "casual-matches": null,
+        "invalid-match-id": null,
+        "ranked-matches": null,
+        "search-a-match-by-id": null
+      },
+      "round-end-reason": {
+        "all-teams-dead": null,
+        "attackers-eliminated": null,
+        "attackers-killed-hostage": null,
+        "attackers-surrendered": null,
+        "bomb-deactivated": null,
+        "bomb-exploded": null,
+        "defenders-eliminated": null,
+        "defenders-eliminated-after-defuser-planted": null,
+        "defenders-killed-hostage": null,
+        "defenders-surrendered": null,
+        "defuser-deactivated": null,
+        "hostage-extracted": null,
+        "none": null,
+        "time-expired": null
+      },
+      "round-n": null,
+      "round-n-killfeed": null,
+      "scoreboard": null,
+      "second-half": null,
+      "selected-round": null,
+      "summary": null,
+      "swapping-sides": null,
+      "timeline": null,
+      "top-operators-played": null,
+      "view-scoreboard": null,
+      "view-timeline": null
+    },
+    "operator": null,
+    "profile": {
+      "bans": {
+        "ban-tooltip": {
+          "reputation-ban": {
+            "1": null,
+            "2": null,
+            "3": null
+          }
+        },
+        "reputation-bans-title": null,
+        "ubisoft-bans-title": null
+      },
+      "current-season": "Поточний сезон",
+      "failed-to-load": "Не вдалося завантажити цей профіль.",
+      "last-played": "Останній раз грав",
+      "leaderboard-position": "Позиція у Таблиці Лідерів",
+      "match-count": "{count} матчів",
+      "no-matches-played": "Не було зіграно жодного матчу",
+      "past-24-hours": "За останні 24 години",
+      "past-30-days": "За останні 30 днів",
+      "past-7-days": "За останні 7 днів",
+      "played-with": {
+        "info-banner": "Гравці, з якими {username} грав(ла) разом або проти в цьому сезоні",
+        "no-played-with": "{username} Одинокий вовк і ні з ким не грав ще",
+        "percent-of-matches": null,
+        "title": "Грав(ла) з"
+      },
+      "rank-reset-due-to-ban": "Скидання рангу через Блокування",
+      "ranked-2-max-ranks": "Максимальні ранги у Рейтингу 2.0",
+      "ranked-sessions": {
+        "1": "Ця діаграма відображує останні ігри профілю та їх ранг після кожної гри.",
+        "2": "Ви можете навести курсор, щоб побачити деталі гри.",
+        "3": "Ви можете масштабувати, перетягуючи діапазон, і переміщати, утримуючи клавішу Ctrl та перетягуючи.",
+        "title": "Рейтингові ігри"
+      },
+      "regions-played": "Регіони, у яких грав(ла)",
+      "report": {
+        "title": "Репорт"
+      },
+      "rp-change": "Зміна RP",
+      "seasons": {
+        "old-seasons-banner": "Інформація по старим сезонам буде додана пізніше.",
+        "title": "Сезони"
+      },
+      "sessions": {
+        "no-sessions": "За вашими фільтрами не знайдено матчів."
+      },
+      "update": {
+        "failed": "Не вдалося оновити",
+        "timeout": "Час оновлення вийшов. Оновіть сторінку, і ми спробуємо пошукати нову інформацію.",
+        "tooltip": {
+          "1": "Цей профіль поки не може бути оновлений.",
+          "2": "Ви можете залишитися на цій сторінці та очікувати автоматичного оновлення.",
+          "3": "Щоб оновити профіль власноруч, натисніть кнопку «Оновити»."
+        },
+        "update": "Оновити",
+        "updated": "Оновлено",
+        "updating": "Оновлення"
+      },
+      "update-time-out": "Час оновлення вийшов. Оновіть сторінку, і ми спробуємо пошукати нову інформацію.",
+      "username-history": "Історія імен користувача",
+      "wl-streak": "WL Cмуга"
+    },
+    "streaming-widget": {
+      "description": "Стрімінгових віджет - це чудовий спосіб відображення статистики вашого профілю у прямому етері. Зараз наш віджет досить простий, але у майбутньому ми плануємо зробити йому набагато більше можливостей для налаштування. Наразі він підтримує лише ранговий режим, але якщо вам потрібна підтримка інших режимів, будь ласка, зверніться до нас {0}.",
+      "how-to-use": {
+        "profile-link": "Посилання на профіль...",
+        "step-1": "1. Скопіюйте та вставте посилання на свій профіль у поле нижче та натисніть копіювати",
+        "step-2": "2. Перейдіть до програми прямого етеру та створіть «Джерело Браузера» на вкладці «Джерела».",
+        "step-3": "3. Вставте ваше посилання на стрімінговий віджет у поле «Джерело Браузера».",
+        "step-4": "4. Налаштуйте розмір та розташування віджета за потреби.",
+        "title": "Як користуватися",
+        "your-widget-link": "Ваше посилання на стрімінговий віджет"
+      },
+      "invalid-profile-link": "Недійсне посилання на профіль",
+      "title": "Стрімінговий віджет",
+      "widget-image-caption": "Ось як виглядає наш віджет:"
+    },
+    "team-kills-short": null,
+    "top-operators": null
+  },
+  "social": {
+    "follow-us-twitter": "Слідкуйте за нами на Twitter",
+    "join-our-discord": "Приєднуйтесь до нашого Discord",
+    "marketplace-subreddit": "subreddit Торгового Майданчику"
+  }
 }
