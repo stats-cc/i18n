@@ -208,7 +208,7 @@
     "gamemodes": {
       "all": "Alle",
       "casual": "Gelegenheitsspiel",
-      "events": "Ereignis",
+      "event": "Ereignis",
       "ranked": "Rangliste",
       "standard": "Standard",
       "warmup": "Aufwärmen"

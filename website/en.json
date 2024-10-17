@@ -208,7 +208,7 @@
         "gamemodes": {
             "all": "All",
             "casual": "Quick Match",
-            "events": "Event",
+            "event": "Event",
             "ranked": "Ranked",
             "standard": "Standard",
             "warmup": "Warmup"

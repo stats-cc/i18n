@@ -208,7 +208,7 @@
     "gamemodes": {
       "all": "すべて",
       "casual": "カジュアル",
-      "events": "イベント",
+      "event": "イベント",
       "ranked": "ランク",
       "standard": "スタンダード",
       "warmup": "ウォームアップ"

@@ -208,7 +208,7 @@
     "gamemodes": {
       "all": "Todos",
       "casual": "Casual",
-      "events": "Evento",
+      "event": "Evento",
       "ranked": "Clasificado",
       "standard": "Estándar",
       "warmup": "Calentamiento"

@@ -208,7 +208,7 @@
     "gamemodes": {
       "all": "Hepsi",
       "casual": "Casual",
-      "events": "Etkinlikler",
+      "event": "Etkinlikler",
       "ranked": "Ranked",
       "standard": "Standart",
       "warmup": "Isınma"

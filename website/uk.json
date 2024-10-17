@@ -208,7 +208,7 @@
     "gamemodes": {
       "all": "Всі",
       "casual": "Казуальний",
-      "events": "Події",
+      "event": "Події",
       "ranked": "Ранговий",
       "standard": "Стандартний",
       "warmup": "Прогрів"
