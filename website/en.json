@@ -43,6 +43,7 @@
         "new": "new",
         "no-data": "no data",
         "no-results": "no results",
+        "overlay": "Overlay",
         "pc": "PC",
         "platform": "Platform",
         "player": "player",
@@ -70,8 +71,7 @@
         "win-short": "W",
         "wins": "wins",
         "won": "won",
-        "wr": "WR",
-        "overlay": "Overlay"
+        "wr": "WR"
     },
     "contact-us": {
         "description": "We'd love to hear from you! Fill out the form below or email us at {0}.",
@@ -395,6 +395,9 @@
             "past-30-days": "Past 30 Days",
             "past-7-days": "Past 7 Days",
             "played-with": {
+                "all-players": "All Players",
+                "banned-players": "Banned Players",
+                "flagged-players": "Flagged Players",
                 "info-banner": "People {username} played with or against this season",
                 "no-played-with": "{username} hasn't played with anyone yet",
                 "percent-of-matches": "{percent}% of all matches this season",
