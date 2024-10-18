@@ -330,60 +330,60 @@
             "view-on-ubisoft": "Переглянути у Ubisoft"
         },
         "matches": {
-            "back-to-profile": null,
-            "first-half": null,
-            "killed": null,
-            "killfeed-disclaimer": null,
-            "killfeed-no-data": null,
-            "match-players": null,
-            "overtime": null,
-            "player-rank-distributions": null,
+            "back-to-profile": "Повернутись до профілю",
+            "first-half": "Перша Половина",
+            "killed": "Вбито",
+            "killfeed-disclaimer": "Вбивства не показані у порядку часу смерті",
+            "killfeed-no-data": "Немає даних про вбивства.",
+            "match-players": "Гравці у матчі",
+            "overtime": "Овертайми",
+            "player-rank-distributions": "Розподіл гравців за рангами",
             "recents": {
-                "casual-matches": null,
-                "invalid-match-id": null,
-                "ranked-matches": null,
-                "search-a-match-by-id": null
+                "casual-matches": "Останні звичайні матчі",
+                "invalid-match-id": "Невірний ID матчу",
+                "ranked-matches": "Останні рейтингові матчі",
+                "search-a-match-by-id": "Пошук матчу за ID"
             },
             "round-end-reason": {
-                "all-teams-dead": null,
-                "attackers-eliminated": null,
-                "attackers-killed-hostage": null,
-                "attackers-surrendered": null,
-                "bomb-deactivated": null,
-                "bomb-exploded": null,
-                "defenders-eliminated": null,
-                "defenders-eliminated-after-defuser-planted": null,
-                "defenders-killed-hostage": null,
-                "defenders-surrendered": null,
-                "defuser-deactivated": null,
-                "hostage-extracted": null,
-                "none": null,
-                "time-expired": null
+                "all-teams-dead": "Всі команди мертві.",
+                "attackers-eliminated": "Нападники ліквідовані",
+                "attackers-killed-hostage": "Нападники вбили Заручника",
+                "attackers-surrendered": "Нападники здалися",
+                "bomb-deactivated": "Бомбу деактивовано",
+                "bomb-exploded": "Бомба вибухнула",
+                "defenders-eliminated": "Захисники ліквідовані",
+                "defenders-eliminated-after-defuser-planted": "Захисники були ліквідовані після встановлення деактиватора",
+                "defenders-killed-hostage": "Захисники вбили Заручника",
+                "defenders-surrendered": "Захисники здалися",
+                "defuser-deactivated": "Деактиватор знешкоджено",
+                "hostage-extracted": "Заручник був евакуйований",
+                "none": "Нічого",
+                "time-expired": "Час всплинув"
             },
-            "round-n": null,
-            "round-n-killfeed": null,
-            "scoreboard": null,
-            "second-half": null,
-            "selected-round": null,
-            "summary": null,
-            "swapping-sides": null,
-            "timeline": null,
-            "top-operators-played": null,
-            "view-scoreboard": null,
-            "view-timeline": null
+            "round-n": "Раунд {roundNumber}",
+            "round-n-killfeed": "Вбивства у раунді {roundNumber}",
+            "scoreboard": "Табло Результатів",
+            "second-half": "Друга Половина",
+            "selected-round": "Обраний раунд",
+            "summary": "Підсумок",
+            "swapping-sides": "Зміна сторін",
+            "timeline": "Хронологія подій",
+            "top-operators-played": "Топ обраних оперативників",
+            "view-scoreboard": "Подивитись табло результатів",
+            "view-timeline": "подивитись хронологію подій"
         },
-        "operator": null,
+        "operator": "Профіль",
         "profile": {
             "bans": {
                 "ban-tooltip": {
                     "reputation-ban": {
-                        "1": null,
-                        "2": null,
-                        "3": null
+                        "1": "Репутація - це сторонній сервіс блокування, який вручну переглядає відео, де гравці порушують правила або шахраюють. Один з адміністраторів може схвалити або відхилити рішення про бан.",
+                        "2": "Після затвердження блокування, воно з'явиться на нашому сайті з посиланням на докази.",
+                        "3": "Примітка: Це не забороняє їм офіційно брати участь у грі, вони можуть продовжувати грати. Це просто дає вам більше інформації як гравцю, щоб знати, чи хтось шахраює чи ні."
                     }
                 },
-                "reputation-bans-title": null,
-                "ubisoft-bans-title": null
+                "reputation-bans-title": "Блокування {siteName}",
+                "ubisoft-bans-title": "Блокування Ubisoft"
             },
             "current-season": "Поточний сезон",
             "failed-to-load": "Не вдалося завантажити цей профіль.",
@@ -455,7 +455,7 @@
             "widget-image-caption": "Ось як виглядає наш віджет:"
         },
         "team-kills-short": null,
-        "top-operators": null
+        "top-operators": "Топ Оперативників"
     },
     "social": {
         "follow-us-twitter": "Слідкуйте за нами на Twitter",
